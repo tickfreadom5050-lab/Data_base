@@ -1,0 +1,65 @@
+{
+	"Arab blind technology": {
+		"Internet Browsers": {},
+		"Communication and messaging": {},
+		"Download Files": {},
+		"تحرير ومعالجة النصوص": {},
+		"Screen Readers": {
+			"nvda": {
+				"url": "https://tecwindow.net/en/nvda-11/download/eyJjb250ZW50X2lkIjoxMSwiaXAiOiIlcHJveHlfYWRkX3hfZm9yd2FyZGVkX2ZvciUifQ:1x2Fsx:DJ5drifWkvnxjEnpnkjvvnmAsKBZwLRtgISBhLO78TU/",
+				"notes": "خاص بwindows 7"
+			},
+			"PortableI3PlusFullV7.0ByAshrafHelal": {
+				"url": "PortableI3PlusFullV7.0ByAshrafHelal",
+				"notes": "نسخة أشرف هلال الكاملة"
+			},
+			"Jaws2025 automatic install": {
+				"url": "https://tecwindow.net/en/jaws2025-automatic-install/download/eyJjb250ZW50X2lkIjoyOCwiaXAiOiIlcHJveHlfYWRkX3hfZm9yd2FyZGVkX2ZvciUifQ:1x2Fsx:DB5VXeEmntiCOXrqr5CMp3sohmT0AHUEcmv6ia5yllI/",
+				"notes": "تسبيت صامت"
+			}
+		}
+	},
+	"أندرويد الكفيف العربي": {
+		"Screen readers": {
+			"HearSee Screen Reader": {
+				"url": "https://tecwindow.net/en/hearsee-screen-reader/download/eyJjb250ZW50X2lkIjoxMzUzLCJpcCI6IiVwcm94eV9hZGRfeF9mb3J3YXJkZWRfZm9yJSJ9:1x2FrR:aYqrAnuqqdRxznScONi5IP4te5604_mUeZ2p_EOQUd4/",
+				"notes": ""
+			},
+			"jieshuo max": {
+				"url": "https://tecwindow.net/en/jieshuo-max/download/eyJjb250ZW50X2lkIjoxMzIxLCJpcCI6IiVwcm94eV9hZGRfeF9mb3J3YXJkZWRfZm9yJSJ9:1x2FrR:d0nSgmS4xoSl3o3oN2uuES7qhAalxUdZDWri2Bxc8Q0/",
+				"notes": "البرنامج الصيني"
+			}
+		},
+		"Synthesizers": {
+			"smartvoice": {
+				"url": "https://tecwindow.net/en/smartvoice/download/eyJjb250ZW50X2lkIjo1NzcsImlwIjoiJXByb3h5X2FkZF94X2ZvcndhcmRlZF9mb3IlIn0:1x2Gge:etKXzSS5mSoAt_RgsS5Tah_BF-sODLc2QAMPfbopXOc/",
+				"notes": ""
+			},
+			"Smart Voice (Arabic version)": {
+				"url": "https://tecwindow.net/en/smart-voice-arabic-version/download/eyJjb250ZW50X2lkIjo1NzksImlwIjoiJXByb3h5X2FkZF94X2ZvcndhcmRlZF9mb3IlIn0:1x2Gge:cgjgdVk9b7fJHV8vHDFq424-YF_t4jXiS9L3yjaWIVA/",
+				"notes": "نسخة عربية"
+			}
+		},
+		"Internet browser apps": {
+			"Firefox": {
+				"url": "https://tecwindow.net/en/firefox-888/download/eyJjb250ZW50X2lkIjo4ODgsImlwIjoiJXByb3h5X2FkZF94X2ZvcndhcmRlZF9mb3IlIn0:1x2Gbz:lHuozI-AZfdtspdcSK_H44KiXW10pDrLtomZs-pOkSI/",
+				"notes": ""
+			},
+			"Comet": {
+				"url": "https://tecwindow.net/en/comet/download/eyJjb250ZW50X2lkIjoxMzA4LCJpcCI6IiVwcm94eV9hZGRfeF9mb3J3YXJkZWRfZm9yJSJ9:1x2Gbz:4qoVdtRFUfF7I5O4Us3d-yv8SBzDAkLXbs-KyTxP9ws/",
+				"notes": ""
+			}
+		}
+	},
+	"arabic Bookshare": {},
+	"حياة وثقافة الكفيف العربي": {},
+	"AI Age عصر الذكاء": {},
+	"آفاق الاستثمار ومخاطره": {},
+	"حقوق وخدمات المكفوفين": {},
+	"المعاملات المالية للكفيف": {},
+	"تعليم تدريب تأهيل المكفوفين": {},
+	"للكفيفات فقط": {},
+	"صنعة إيديا": {},
+	"سوق المكفوفين": {},
+	"IPhone arab blind": {}
+}
