@@ -1,8 +1,196 @@
 {
 	"Arab blind technology": {
-		"Internet Browsers": {},
-		"Communication and messaging": {},
-		"Download Files": {},
+		"Internet Browsers": {
+			"Google Chrome": {
+				"url": "https://tecwindow.net/en/google-chrome-64-bit/download/eyJjb250ZW50X2lkIjoxMTA0LCJpcCI6IiVwcm94eV9hZGRfeF9mb3J3YXJkZWRfZm9yJSJ9:1x3kMy:9B7ecW6tRl7lgZTgcL7oCuLSwX_qnW-sKcmKdy6toeM/",
+				"url2": "",
+				"notes": "Architecture: 64-bit"
+			},
+			"Google Chrome.": {
+				"url": "https://tecwindow.net/en/google-chrome-32-bit/download/eyJjb250ZW50X2lkIjoxMTA1LCJpcCI6IiVwcm94eV9hZGRfeF9mb3J3YXJkZWRfZm9yJSJ9:1x3kMy:Vb--vfDfsZZ__MoDKDjEVc-qoDriR2m1lWy_cBD5cWA/",
+				"url2": "",
+				"notes": "Architecture: 32-bit"
+			},
+			"Firefox": {
+				"url": "https://tecwindow.net/en/firefox-x64/download/eyJjb250ZW50X2lkIjo0NTcsImlwIjoiJXByb3h5X2FkZF94X2ZvcndhcmRlZF9mb3IlIn0:1x3kMy:nIUpgh1wLS3m8DAapjZ9-V6boIxmeJ-J1QcWqxTd9UI/",
+				"url2": "",
+				"notes": "Architecture: 64-bit"
+			},
+			"Firefox.": {
+				"url": "https://tecwindow.net/en/firefox-x86/download/eyJjb250ZW50X2lkIjo0NTgsImlwIjoiJXByb3h5X2FkZF94X2ZvcndhcmRlZF9mb3IlIn0:1x3kMy:McUaycL-qG94CFc-3Ko_LTCTeYLWWv6DtuHi4_5W-x0/",
+				"url2": "",
+				"notes": "Architecture: 32-bit"
+			},
+			"Opera": {
+				"url": "https://tecwindow.net/en/opera/download/eyJjb250ZW50X2lkIjo0NjMsImlwIjoiJXByb3h5X2FkZF94X2ZvcndhcmRlZF9mb3IlIn0:1x3kMy:dgdHX-rM3Lh2TGon-nSVmSq2fxtHV_y6tUcRRby1xTE/",
+				"url2": "",
+				"notes": "Architecture: 64-bit"
+			},
+			"Opera.": {
+				"url": "https://tecwindow.net/en/opera-x86/download/eyJjb250ZW50X2lkIjoxMDYxLCJpcCI6IiVwcm94eV9hZGRfeF9mb3J3YXJkZWRfZm9yJSJ9:1x3kMy:t6vss_1hlCv9zzPoc-yclChFVgMYmH9BSO_gxRtnGOc/",
+				"url2": "",
+				"notes": "Architecture: 32-bit"
+			},
+			"Microsoft Edge.": {
+				"url": "https://tecwindow.net/en/microsoft-edge-for-windows7881/download/eyJjb250ZW50X2lkIjo1NTIsImlwIjoiJXByb3h5X2FkZF94X2ZvcndhcmRlZF9mb3IlIn0:1x3kMy:r0Rb1xtGvMsu_kEkYX5lsLM6gStBSxFIogOc7S50Vl8/",
+				"url2": "",
+				"notes": "for Windows 7 to 8.1"
+			},
+			"Microsoft Edge Microsoft Store": {
+				"url": "https://apps.microsoft.com/detail/XPFFTQ037JWMHS?hl=en-US&gl=EG&ocid=pdpshare",
+				"url2": "",
+				"notes": ""
+			},
+			"Microsoft Edge": {
+				"url": "https://tecwindow.net/en/microsoft-edge/download/eyJjb250ZW50X2lkIjo1NTEsImlwIjoiJXByb3h5X2FkZF94X2ZvcndhcmRlZF9mb3IlIn0:1x3kMy:5wyDoiD37IqohLwPsg9RFV4awqBSwXAkXDK-xN--txs/",
+				"url2": "",
+				"notes": "for Windows 10 and 11"
+			},
+			"Brave": {
+				"url": "https://tecwindow.net/en/brave-x64bit/download/eyJjb250ZW50X2lkIjoxMDQ4LCJpcCI6IiVwcm94eV9hZGRfeF9mb3J3YXJkZWRfZm9yJSJ9:1x3kMy:sJ2ZffyVcud7nMQUzSGDWWOLZlnAJagPp-YJ57-o0gk/",
+				"url2": "",
+				"notes": "Architecture: 64-bit, Language: English"
+			},
+			"Brave X86": {
+				"url": "https://tecwindow.net/en/brave-x86/download/eyJjb250ZW50X2lkIjoxMDQ5LCJpcCI6IiVwcm94eV9hZGRfeF9mb3J3YXJkZWRfZm9yJSJ9:1x3kMy:eNm7NTxVFqXhr5IsWLSQqBDwtVsfXSEdD1yiuAt1TSA/",
+				"notes": "Architecture: 32-bit, Language: English"
+			},
+			"Google Chrome 64-bit": {
+				"url": "https://tecwindow.net/en/google-chrome-64-bit/download/eyJjb250ZW50X2lkIjoxMTA0LCJpcCI6IiVwcm94eV9hZGRfeF9mb3J3YXJkZWRfZm9yJSJ9:1x3kMy:9B7ecW6tRl7lgZTgcL7oCuLSwX_qnW-sKcmKdy6toeM/",
+				"notes": ""
+			},
+			"Google Chrome 32-bit": {
+				"url": "https://tecwindow.net/en/google-chrome-32-bit/download/eyJjb250ZW50X2lkIjoxMTA1LCJpcCI6IiVwcm94eV9hZGRfeF9mb3J3YXJkZWRfZm9yJSJ9:1x3kMy:Vb--vfDfsZZ__MoDKDjEVc-qoDriR2m1lWy_cBD5cWA/",
+				"notes": ""
+			},
+			"Opera X64": {
+				"url": "https://tecwindow.net/en/opera/download/eyJjb250ZW50X2lkIjo0NjMsImlwIjoiJXByb3h5X2FkZF94X2ZvcndhcmRlZF9mb3IlIn0:1x3kMy:dgdHX-rM3Lh2TGon-nSVmSq2fxtHV_y6tUcRRby1xTE/",
+				"notes": ""
+			},
+			"Opera X86": {
+				"url": "https://tecwindow.net/en/opera-x86/download/eyJjb250ZW50X2lkIjoxMDYxLCJpcCI6IiVwcm94eV9hZGRfeF9mb3J3YXJkZWRfZm9yJSJ9:1x3kMy:t6vss_1hlCv9zzPoc-yclChFVgMYmH9BSO_gxRtnGOc/",
+				"notes": ""
+			},
+			"Microsoft Edge for Windows 7 to 8.1": {
+				"url": "https://tecwindow.net/en/microsoft-edge-for-windows7881/download/eyJjb250ZW50X2lkIjo1NTIsImlwIjoiJXByb3h5X2FkZF94X2ZvcndhcmRlZF9mb3IlIn0:1x3kMy:r0Rb1xtGvMsu_kEkYX5lsLM6gStBSxFIogOc7S50Vl8/",
+				"notes": "Windows 7 to Windows 8.1"
+			},
+			"Microsoft Edge for Windows 10 and 11": {
+				"url": "https://tecwindow.net/en/microsoft-edge/download/eyJjb250ZW50X2lkIjo1NTEsImlwIjoiJXByb3h5X2FkZF94X2ZvcndhcmRlZF9mb3IlIn0:1x3kMy:5wyDoiD37IqohLwPsg9RFV4awqBSwXAkXDK-xN--txs/",
+				"notes": "Windows 10, 11"
+			},
+			"Brave X64": {
+				"url": "https://tecwindow.net/en/brave-x64bit/download/eyJjb250ZW50X2lkIjoxMDQ4LCJpcCI6IiVwcm94eV9hZGRfeF9mb3J3YXJkZWRfZm9yJSJ9:1x3kMy:sJ2ZffyVcud7nMQUzSGDWWOLZlnAJagPp-YJ57-o0gk/",
+				"notes": "Language: English"
+			},
+			"Tor Browser Portable X64": {
+				"url": "https://dist.torproject.org/torbrowser/15.0.21/tor-browser-windows-x86_64-portable-15.0.21.exe",
+				"notes": "Version: 15.0.21, Portable"
+			},
+			"Tor Browser Portable X86": {
+				"url": "https://dist.torproject.org/torbrowser/15.0.21/tor-browser-windows-i686-portable-15.0.21.exe",
+				"notes": "Version: 15.0.21, Portable"
+			},
+			"Vivaldi Official Download Page": {
+				"url": "https://vivaldi.com/download/",
+				"notes": "Official download page"
+			},
+			"Vivaldi X64": {
+				"url": "https://downloads.vivaldi.com/stable/Vivaldi.x64.exe",
+				"notes": "Official standalone installer"
+			},
+			"Vivaldi X86": {
+				"url": "https://downloads.vivaldi.com/stable/Vivaldi.exe",
+				"notes": "Official standalone installer"
+			},
+			"LibreWolf": {
+				"url": "https://dl.librewolf.net/librewolf/155.0.1-1/librewolf-155.0.1-1-windows-x86_64-setup.exe",
+				"notes": "Version: 155.0.1-1, نسخة متقدمة لفيرفوكس"
+			},
+			"LibreWolf ARM": {
+				"url": "https://dl.librewolf.net/librewolf/155.0.1-1/librewolf-155.0.1-1-windows-arm64-setup.exe",
+				"notes": "Version: 155.0.1-1, مخصص لمعالجات ARM"
+			},
+			"Pale Moon X64": {
+				"url": "https://www.palemoon.org/download.php?mirror=us&bits=64&type=installer",
+				"notes": "متصفح خفيف للأجهزة الضعيفة، خادم أمريكا (US Mirror)"
+			},
+			"Pale Moon X64 EU": {
+				"url": "https://www.palemoon.org/download.php?mirror=eu&bits=64&type=installer",
+				"notes": "متصفح خفيف للأجهزة الضعيفة، خادم أوروبا (EU Mirror)"
+			},
+			"Pale Moon X86": {
+				"url": "https://www.palemoon.org/download.php?mirror=us&bits=32&type=installer",
+				"notes": "متصفح خفيف للأجهزة الضعيفة، خادم أمريكا (US Mirror)"
+			},
+			"Pale Moon X86 EU": {
+				"url": "https://www.palemoon.org/download.php?mirror=eu&bits=32&type=installer",
+				"notes": "متصفح خفيف للأجهزة الضعيفة، خادم أوروبا (EU Mirror)"
+			},
+			"Pale Moon Linux X64 EU": {
+				"url": "https://www.palemoon.org/download.php?mirror=eu&bits=64&type=linuxgtk3",
+				"notes": "نسخة مخصصة لنظام Linux، خادم أوروبا (EU Mirror)"
+			},
+			"Pale Moon Linux X64 US": {
+				"url": "https://www.palemoon.org/download.php?mirror=us&bits=64&type=linuxgtk3",
+				"notes": "نسخة مخصصة لنظام Linux، خادم أمريكا (US Mirror)"
+			},
+			"Floorp Online Installer": {
+				"url": "https://github.com/Floorp-Projects/Floorp/releases/download/v12.17.2/floorp-stub.installer.exe",
+				"notes": "Version: 12.17.2, Online installer"
+			},
+			"Floorp X64": {
+				"url": "https://github.com/Floorp-Projects/Floorp/releases/download/v12.17.2/floorp-windows-x86_64.installer.exe",
+				"notes": "Version: 12.17.2, Offline installer"
+			}
+		},
+		"Communication and messaging": {
+			"unigram": {
+				"url": "https://tecwindow.net/en/unigram/download/eyJjb250ZW50X2lkIjoxOTIsImlwIjoiJXByb3h5X2FkZF94X2ZvcndhcmRlZF9mb3IlIn0:1x3f1X:c6TVG0POmBDE-vVXab33pA1l7fL7tDy5hfVVigsjjPA/",
+				"url2": "",
+				"notes": ""
+			},
+			"whatsap": {
+				"url": "https://tecwindow.net/en/whatsapp-559/download/eyJjb250ZW50X2lkIjo1NTksImlwIjoiJXByb3h5X2FkZF94X2ZvcndhcmRlZF9mb3IlIn0:1x3f1X:JSGgQGF7TquO8cSvHSlpiRPu9ItgM2Bq6lxPZlAEpdw/",
+				"url2": "",
+				"notes": ""
+			},
+			"WhatsApp Beta": {
+				"url": "https://tecwindow.net/en/whatsapp-beta/download/eyJjb250ZW50X2lkIjoxOTEsImlwIjoiJXByb3h5X2FkZF94X2ZvcndhcmRlZF9mb3IlIn0:1x3f1X:9K0QEHSSYmtpdlHYas2llHSPe3HxzQi9zaSPGmVTrNE/",
+				"url2": "",
+				"notes": ""
+			},
+			"Telegram X64": {
+				"url": "https://tecwindow.net/en/telegram-x64/download/eyJjb250ZW50X2lkIjoxMzQ5LCJpcCI6IiVwcm94eV9hZGRfeF9mb3J3YXJkZWRfZm9yJSJ9:1x3f1X:baDLXkJ5Ldnu6IdvkxuAzUQPylcWNS5UbiXtPw9GxKs/",
+				"url2": "",
+				"notes": ""
+			},
+			"Zoom X64": {
+				"url": "https://tecwindow.net/en/zoom-x64/download/eyJjb250ZW50X2lkIjoxOTYsImlwIjoiJXByb3h5X2FkZF94X2ZvcndhcmRlZF9mb3IlIn0:1x3f1X:hI_DsQ6Hk7oi8C536Habe_vrGgcmO4h9d_Ilx0anQio/",
+				"url2": "",
+				"notes": ""
+			},
+			"Clubdeck": {
+				"url": "https://tecwindow.net/en/clubdeck/download/eyJjb250ZW50X2lkIjoxOTUsImlwIjoiJXByb3h5X2FkZF94X2ZvcndhcmRlZF9mb3IlIn0:1x3f1X:OynfDWj953w5OzP9nI2JgiSUTWscPuio9Hp2tzJos6A/",
+				"url2": "",
+				"notes": "برنامج لتشغيل كلوب هاوس."
+			},
+			"TeamTalk": {
+				"url": "https://tecwindow.net/en/teamtalk/download/eyJjb250ZW50X2lkIjoyMDAsImlwIjoiJXByb3h5X2FkZF94X2ZvcndhcmRlZF9mb3IlIn0:1x3f1X:PPgry3iZafXj5RnA8pR3tQAhPGT2ryvXOAWAojZCPmY/",
+				"url2": "",
+				"notes": "بأنظمة التشغيل 64"
+			},
+			"TeamTalk Portable X64": {
+				"url": "https://tecwindow.net/en/teamtalk-portable-x64/download/eyJjb250ZW50X2lkIjo5NDYsImlwIjoiJXByb3h5X2FkZF94X2ZvcndhcmRlZF9mb3IlIn0:1x3f1X:6MYwm_zFABpV791uIF9UUMUy0Y0j7GmUCIg9pdh5Wqo/",
+				"url2": "",
+				"notes": "نسخة محمولة"
+			},
+			"Discord X64": {
+				"url": "https://tecwindow.net/en/discord-x64/download/eyJjb250ZW50X2lkIjoxOTMsImlwIjoiJXByb3h5X2FkZF94X2ZvcndhcmRlZF9mb3IlIn0:1x3f1X:wwsQDsBUnc2VJ7fe1ZJWLLby7vZOCRBPXurAq-rLNr0/",
+				"url2": "",
+				"notes": ""
+			}
+		},
 		"تحرير ومعالجة النصوص": {},
 		"Screen Readers": {
 			"nvda": {
@@ -15,9 +203,191 @@
 			},
 			"Jaws2025 automatic install": {
 				"url": "https://tecwindow.net/en/jaws2025-automatic-install/download/eyJjb250ZW50X2lkIjoyOCwiaXAiOiIlcHJveHlfYWRkX3hfZm9yd2FyZGVkX2ZvciUifQ:1x2Fsx:DB5VXeEmntiCOXrqr5CMp3sohmT0AHUEcmv6ia5yllI/",
-				"notes": "تسبيت صامت"
+				"notes": "تثبيت صامت"
+			},
+			"nvda26.1": {
+				"url": "https://drive.google.com/file/d/1h1tG_FnEoFJcsznZGp1cmkw8QGCCJl9l/view?usp=drivesdk",
+				"notes": "بواسطة محمد مسعد"
+			},
+			"jaws18 مصطفى البحاري": {
+				"url": "https://drive.google.com/file/d/1ZqJO70CbWdUnPGNdfibN2aOTm1FxPhYs/view?usp=drivesdk",
+				"notes": "نسخة كاملة بالإنفوفوكس تثبيت صامت"
 			}
-		}
+		},
+		"Operating systems": {
+			"talking windows7 X64": {
+				"url": "https://tecwindow.net/en/talking-windows7-x64/download/eyJjb250ZW50X2lkIjo0ODgsImlwIjoiJXByb3h5X2FkZF94X2ZvcndhcmRlZF9mb3IlIn0:1x2WLA:QIw8HP0WiQlyRYEe6YOXPtMVyyn5-muLFTUOkfgfLts/",
+				"notes": "نسخة PE 64 بت للصيانة"
+			},
+			"talking windows7 X86": {
+				"url": "https://tecwindow.net/en/talking-windows7-x86/download/eyJjb250ZW50X2lkIjo0ODcsImlwIjoiJXByb3h5X2FkZF94X2ZvcndhcmRlZF9mb3IlIn0:1x2WLA:G85_OOVsJh4QLYa0yPatyjViwPfU64l13VOzI62wZaY/",
+				"notes": "نسخة PE 32 بت للصيانة"
+			},
+			"talking windows10 X64": {
+				"url": "https://tecwindow.net/en/talking-windows10-x64/download/eyJjb250ZW50X2lkIjo0MDcsImlwIjoiJXByb3h5X2FkZF94X2ZvcndhcmRlZF9mb3IlIn0:1x2WLA:dPma40wAuCfwHV_iuhbUWmnAORQppzdysQiBD_TSY2E/",
+				"notes": "نسخة 10 للصيانة 64 بت"
+			},
+			"talking windows10 X86": {
+				"url": "https://tecwindow.net/en/talking-windows10-x86/download/eyJjb250ZW50X2lkIjo0MDgsImlwIjoiJXByb3h5X2FkZF94X2ZvcndhcmRlZF9mb3IlIn0:1x2WLA:PiuwJFXFq1WD6Fp_YZFOx3WGXGdqP5I-ryWFuaQwbp8/",
+				"notes": "نسخة 10 للصيانة 32 بت"
+			},
+			"Windows XP Professional X64": {
+				"url": "https://tecwindow.net/en/windows-xp-professional-x64/download/eyJjb250ZW50X2lkIjo2NzgsImlwIjoiJXByb3h5X2FkZF94X2ZvcndhcmRlZF9mb3IlIn0:1x2WLA:ZvpUKzwotayye84Lf9SZ55v5zuy5SmGoGDtmwbYWE-A/",
+				"notes": "نسخة XP معمارية 64 بت"
+			},
+			"Windows XP Professional X86": {
+				"url": "https://tecwindow.net/en/windows-xp-professional-x86/download/eyJjb250ZW50X2lkIjo2NzcsImlwIjoiJXByb3h5X2FkZF94X2ZvcndhcmRlZF9mb3IlIn0:1x2WLA:WSykmfAE-f0mFHTe-aDcDvq3kNM5D18gZC2X_K84Hzs/",
+				"notes": "نسخة XP معمارية 32 بت"
+			},
+			"windows7 Professional English X64": {
+				"url": "https://tecwindow.net/en/windows7-professional-english-x64/download/eyJjb250ZW50X2lkIjo0MTEsImlwIjoiJXByb3h5X2FkZF94X2ZvcndhcmRlZF9mb3IlIn0:1x2WLA:f6ExX3AxfeBvqLMzQNDWGS4J7S_K80WEFjaqBPgMdOA/",
+				"notes": ""
+			},
+			"windows7 Professional English X86": {
+				"url": "https://tecwindow.net/en/windows7-professional-english-x86/download/eyJjb250ZW50X2lkIjo0MTIsImlwIjoiJXByb3h5X2FkZF94X2ZvcndhcmRlZF9mb3IlIn0:1x2WLA:bb9yq3Rms0bEWG-8GCIl9Jn_w4Bg62OpnTrOUrNR6Kw/",
+				"notes": ""
+			},
+			"Windows8.1 English X64": {
+				"url": "https://tecwindow.net/en/windows81-english-x64/download/eyJjb250ZW50X2lkIjo0MTcsImlwIjoiJXByb3h5X2FkZF94X2ZvcndhcmRlZF9mb3IlIn0:1x2WLA:ItXGDWAEYEcJWO9Jxr5QXNmHfo-36pxbHLUUM1FPFVA/",
+				"notes": ""
+			},
+			"Windows8.1 English X86": {
+				"url": "https://tecwindow.net/en/windows81-english-x86/download/eyJjb250ZW50X2lkIjo0MTgsImlwIjoiJXByb3h5X2FkZF94X2ZvcndhcmRlZF9mb3IlIn0:1x2WLA:RkqFH67I5YyZjxnZ1AuVArlX_XlUkGY-zIUUL91zIqs/",
+				"notes": ""
+			},
+			"Windows10 English x64": {
+				"url": "https://tecwindow.net/en/windows10-english-x64/download/eyJjb250ZW50X2lkIjo0MjEsImlwIjoiJXByb3h5X2FkZF94X2ZvcndhcmRlZF9mb3IlIn0:1x2WLA:dAXDd9XSG_wKIjqi38yG2AQynY9ppRb_P8eDCvH5ll8/",
+				"notes": ""
+			},
+			"Windows10 English X86": {
+				"url": "https://tecwindow.net/en/windows10-english-x86/download/eyJjb250ZW50X2lkIjo0MjIsImlwIjoiJXByb3h5X2FkZF94X2ZvcndhcmRlZF9mb3IlIn0:1x2WLA:3FBvWa1BzcZRWxF_3jQZYwy_hGfZAuCK2bfzrsJzK8Y/",
+				"notes": ""
+			},
+			"windows_11 consumer editions": {
+				"url": "https://tecwindow.net/en/windows11-english-x64/download/eyJjb250ZW50X2lkIjo0MjMsImlwIjoiJXByb3h5X2FkZF94X2ZvcndhcmRlZF9mb3IlIn0:1x2WLA:0AYpeopzbVYPiWILv-eJzKCvp3M3X0eOXDwY0eOVfeI/",
+				"notes": "نسخة المستهلكين المجمعة (Consumer Editions)"
+			}
+		},
+		"Synthesizers آلات النطق": {
+			"NB_Infovox3": {
+				"url": "https://tecwindow.net/en/nb_infovox3/download/eyJjb250ZW50X2lkIjoxMTMxLCJpcCI6IiVwcm94eV9hZGRfeF9mb3J3YXJkZWRfZm9yJSJ9:1x2Xq2:UuRkCwKlKcekeeNUWzAZgc1hpVShHoht73vWxsQMslw/",
+				"notes": "بواسطة ناصر بوعزيز لنسخ 2026 فما فوق"
+			},
+			"مدير الأصوات infovox3": {
+				"url": "https://tecwindow.net/en/infovox3-voices-manager/download/eyJjb250ZW50X2lkIjoxMzQwLCJpcCI6IiVwcm94eV9hZGRfeF9mb3J3YXJkZWRfZm9yJSJ9:1x2Xpu:39SNIvLOBDe8v4zCg-5Sbr64ehDFEVVaa5zCbjdnQwY/",
+				"notes": "بواسطة ناصر بوعزيز"
+			},
+			"acapela Infovox3 without voices": {
+				"url": "https://tecwindow.net/en/acapela-Infovox3-without-voices/download/eyJjb250ZW50X2lkIjoxMzM4LCJpcCI6IiVwcm94eV9hZGRfeF9mb3J3YXJkZWRfZm9yJSJ9:1x2Xpu:l-zfUSz4Cjxf5lLWq-PVrE0HgjGuhJDMFv-w61SrRzU/",
+				"notes": "نسخة بدون أصوات وتعمل مع العديد من نسخ NVDA"
+			},
+			"Eloquence for Sapy 5": {
+				"url": "https://tecwindow.net/en/eloquence-for-sapy-5/download/eyJjb250ZW50X2lkIjoxMDE3LCJpcCI6IiVwcm94eV9hZGRfeF9mb3J3YXJkZWRfZm9yJSJ9:1x2Xpu:kQ7A0IGmHYlD1qw6UZdXgIcXv9wBe6Acaia6eqXds48/",
+				"notes": "مخصص لمحرك SAPI 5 ويدعم US English, Spanish, Brazilian Portuguese"
+			},
+			"acapela tts with 3 voices for nvda 2026 plus": {
+				"url": "https://tecwindow.net/en/acapela-tts-with-3-voices-for-nvda-2026-plus/download/eyJjb250ZW50X2lkIjoxMzI1LCJpcCI6IiVwcm94eV9hZGRfeF9mb3J3YXJkZWRfZm9yJSJ9:1x2Xpu:K9uNhK2pFQtdGOGG431GthxRX-fEZuhMt2yjWsETRdI/",
+				"notes": "يحتوي على أصوات: سلمى، ليلى، وهيذر (لنسخ NVDA 2026 فما فوق)"
+			},
+			"acapela tts with 4 voices for nvda 2024 below": {
+				"url": "https://tecwindow.net/en/acapela-tts-with-4-voices-for-nvda-2024-below/download/eyJjb250ZW50X2lkIjoxMDcwLCJpcCI6IiVwcm94eV9hZGRfeF9mb3J3YXJkZWRfZm9yJSJ9:1x2Xpu:4dX4STHx-aWC8mPh1PR6R49oKpJnYG9GS8ip6F9Oi5I/",
+				"notes": "تعمل مع NVDA 2024 وتحتوي على أربعة أصوات"
+			},
+			"acapela tts with 4 voices for nvda 2025 plus": {
+				"url": "https://tecwindow.net/en/acapela-tts-with-4-voices-for-nvda-2025-plus/download/eyJjb250ZW50X2lkIjoxMjgyLCJpcCI6IiVwcm94eV9hZGRfeF9mb3J3YXJkZWRfZm9yJSJ9:1x2Xpu:0kAE0LAbxeqi849he5mc2hCVVkrdHonUzkxuH8Ct-1E/",
+				"notes": "مخصصة لنسخ NVDA 2025 فما فوق وتحتوي على أربعة أصوات"
+			},
+			"IBMTTS driver": {
+				"url": "https://tecwindow.net/en/ibmtts-driver/download/eyJjb250ZW50X2lkIjoxMDQ0LCJpcCI6IiVwcm94eV9hZGRfeF9mb3J3YXJkZWRfZm9yJSJ9:1x2Xpu:8e6Af6VZUAZsQjoV44mjh-upWg3KBoEoTeKjHS2Gxz8/",
+				"notes": "محرك آليكونز (IBMTTS)"
+			},
+			"Eloquence for nvda": {
+				"url": "https://tecwindow.net/en/eloquence-for-nvda/download/eyJjb250ZW50X2lkIjoxMDQzLCJpcCI6IiVwcm94eV9hZGRfeF9mb3J3YXJkZWRfZm9yJSJ9:1x2Xpu:uDtjMZm8qX2BxoP_VysRoylId71Mm8a7H5VvuanJCcI/",
+				"notes": ""
+			}
+		},
+		"Protection and security programs": {},
+		"Download and Upload Tools": {
+			"Dropbox": {
+				"url": "https://tecwindow.net/en/dropbox/download/eyJjb250ZW50X2lkIjo1MiwiaXAiOiIlcHJveHlfYWRkX3hfZm9yd2FyZGVkX2ZvciUifQ:1x3jg4:NssKamktRXho1YtCjLZTl6u8285Py-B0sJPMPHdIZf4/",
+				"notes": "Online"
+			},
+			"Dropbox Offline Installer X64": {
+				"url": "https://tecwindow.net/en/dropbox-offline-installer-x86/download/eyJjb250ZW50X2lkIjoxMjg5LCJpcCI6IiVwcm94eV9hZGRfeF9mb3J3YXJkZWRfZm9yJSJ9:1x3jfr:kwqM2ueRN6UJDspBkRtHu27UmQOV2upaLe7lq570Ls8/",
+				"notes": "Offline 64-bit"
+			},
+			"Google Drive Drive File Stream": {
+				"url": "https://tecwindow.net/en/google-drive-drive-file-stream-1110/download/eyJjb250ZW50X2lkIjoxMTEwLCJpcCI6IiVwcm94eV9hZGRfeF9mb3J3YXJkZWRfZm9yJSJ9:1x3jfr:Bza6k8dkNfjtI4rgLJo4_6wnbCPG_zW6OL9apw1OBhM/",
+				"notes": ""
+			},
+			"One Drive": {
+				"url": "https://tecwindow.net/en/one-drive/download/eyJjb250ZW50X2lkIjo1NCwiaXAiOiIlcHJveHlfYWRkX3hfZm9yd2FyZGVkX2ZvciUifQ:1x3jfr:Bi8Ziams13A2bDJmhnsahWP7ZgZVa0JmV8WD1D7Mdc8/",
+				"notes": ""
+			},
+			"Mega X64": {
+				"url": "https://tecwindow.net/en/mega-x64/download/eyJjb250ZW50X2lkIjo1NSwiaXAiOiIlcHJveHlfYWRkX3hfZm9yd2FyZGVkX2ZvciUifQ:1x3jfr:cafkrthmYt_Rw3zeguuOSyGSBz2cKnExvapxCIB0xMw/",
+				"notes": "Upload Mega 64-bit"
+			},
+			"Mega X86": {
+				"url": "https://tecwindow.net/en/mega-x86/download/eyJjb250ZW50X2lkIjo1NiwiaXAiOiIlcHJveHlfYWRkX3hfZm9yd2FyZGVkX2ZvciUifQ:1x3jfr:PATZlVpGS7QGTmm6wN5BV45ao0eXGevZxynENZkuSkg/",
+				"notes": "Upload Mega 32-bit"
+			},
+			"pCloud": {
+				"url": "https://tecwindow.net/en/pcloud/download/eyJjb250ZW50X2lkIjo1NywiaXAiOiIlcHJveHlfYWRkX3hfZm9yd2FyZGVkX2ZvciUifQ:1x3jfr:rJucjkQ0Jpfo5V7_lgiWbBj6OdHgOQQza73Gm_IBEC0/",
+				"notes": "64-bit"
+			},
+			"WinSCP": {
+				"url": "https://tecwindow.net/en/winscp/download/eyJjb250ZW50X2lkIjo1OCwiaXAiOiIlcHJveHlfYWRkX3hfZm9yd2FyZGVkX2ZvciUifQ:1x3jfr:fksRJPubjnNk5pUwSutOL1i7LyFdhKj58tHa1QR1wbs/",
+				"notes": "Open-source SFTP and FTP client"
+			},
+			"FileZilla Client X64": {
+				"url": "https://tecwindow.net/en/filezilla-client-x64/download/eyJjb250ZW50X2lkIjo1OSwiaXAiOiIlcHJveHlfYWRkX3hfZm9yd2FyZGVkX2ZvciUifQ:1x3jfr:tUHi29kdfqGu4yqqCjkCBdP2feG5et3vXmgt_yrzecU/",
+				"notes": "64-bit"
+			},
+			"Internet Download Manager IDM": {
+				"url": "https://tecwindow.net/en/internet-download-manager-idm/download/eyJjb250ZW50X2lkIjo2MSwiaXAiOiIlcHJveHlfYWRkX3hfZm9yd2FyZGVkX2ZvciUifQ:1x3jxM:xGy93TNCSVmEJtgRyp4SD3QmdntZcgTFxOWtOh9nz_g/",
+				"notes": "Version: 6.43, Password: 1234"
+			},
+			"Internet Download Manager Silent Install": {
+				"url": "https://tecwindow.net/en/internett-download-manager-silent-install/download/eyJjb250ZW50X2lkIjoxMjA3LCJpcCI6IiVwcm94eV9hZGRfeF9mb3J3YXJkZWRfZm9yJSJ9:1x3jxM:wZizaU1wQFYThX-ZAgnEBGBsHd9oC2JSL0ZOsQSdv3k/",
+				"notes": "Version: 6.42, Silent Install"
+			},
+			"Free Download Manager": {
+				"url": "https://tecwindow.net/en/free-download-manager/download/eyJjb250ZW50X2lkIjo2MywiaXAiOiIlcHJveHlfYWRkX3hfZm9yd2FyZGVkX2ZvciUifQ:1x3jxM:dGegqDAzKBYidesSc4nVi4QjH3VMOvqZFdfhdhAOwVQ/",
+				"notes": "Version: 3.9.7, Free"
+			},
+			"TCA Media Downloader": {
+				"url": "https://tecwindow.net/en/tca-media-downloader/download/eyJjb250ZW50X2lkIjo2NywiaXAiOiIlcHJveHlfYWRkX3hfZm9yd2FyZGVkX2ZvciUifQ:1x3jxM:lPgIloErHDTtr8hKQVXJfMhY0xvIbdlpEsHsFuq2SKI/",
+				"notes": "Multi-site downloader, Password: tecnoconocimientoaccesible"
+			},
+			"4K Video Downloader X64": {
+				"url": "https://tecwindow.net/en/4k-video-downloader-x64/download/eyJjb250ZW50X2lkIjoxMTkyLCJpcCI6IiVwcm94eV9hZGRfeF9mb3J3YXJkZWRfZm9yJSJ9:1x3jxM:1mPCmSSd0f7r_8uwz-rZh7XBYUdYZCi20fwAg3oJZvM/",
+				"notes": "Version: 4.33.5.0172, 64-bit"
+			},
+			"Accessible YouTube Downloader Pro": {
+				"url": "https://tecwindow.net/en/accessible-youtube-downloader-pro/download/eyJjb250ZW50X2lkIjo3NDgsImlwIjoiJXByb3h5X2FkZF94X2ZvcndhcmRlZF9mb3IlIn0:1x3jxM:HidKfAILGX_0PbaRPvS-k0lznvQq96dsbKcri8_sNgg/",
+				"notes": "Version: 2.0"
+			},
+			"Renova Music": {
+				"url": "https://tecwindow.net/en/renova-music/download/eyJjb250ZW50X2lkIjo5NTEsImlwIjoiJXByb3h5X2FkZF94X2ZvcndhcmRlZF9mb3IlIn0:1x3jxM:h6zTMHcj1SDOb97OPJtS5BGJ1cLLDd_CZc9lJ6cDJ0o/",
+				"notes": "Music player and downloader"
+			},
+			"Renova Music Portable": {
+				"url": "https://tecwindow.net/en/renova-music-portable/download/eyJjb250ZW50X2lkIjo5NTIsImlwIjoiJXByb3h5X2FkZF94X2ZvcndhcmRlZF9mb3IlIn0:1x3jxM:uruUSSEyjEjC1HmnLvpqrLdt4ya9tgcpMHkusPoW6Vw/",
+				"notes": "Portable version"
+			},
+			"qBittorrent": {
+				"url": "https://tecwindow.net/en/qbittorrent/download/eyJjb250ZW50X2lkIjoxMDkzLCJpcCI6IiVwcm94eV9hZGRfeF9mb3J3YXJkZWRfZm9yJSJ9:1x3jxM:GQ5lK_vdBXgSQQvDIAlSF20coAZYD62voG1uWbe9kFg/",
+				"notes": "P2P file sharing and downloading"
+			},
+			"qBittorrent X64": {
+				"url": "https://tecwindow.net/en/qbittorrent-x64/download/eyJjb250ZW50X2lkIjoxMDk0LCJpcCI6IiVwcm94eV9hZGRfeF9mb3J3YXJkZWRfZm9yJSJ9:1x3jxM:5B9htawgnQ-owrUu8EJykxlSwCXm9kp3bz3rhn-2yoc/",
+				"notes": "64-bit"
+			}
+		},
+		"Multimedia and Production Tools": {},
+		"General": {},
+		"AI and Visual Recognition Tools": {}
 	},
 	"أندرويد الكفيف العربي": {
 		"Screen readers": {
@@ -49,17 +419,33 @@
 				"url": "https://tecwindow.net/en/comet/download/eyJjb250ZW50X2lkIjoxMzA4LCJpcCI6IiVwcm94eV9hZGRfeF9mb3J3YXJkZWRfZm9yJSJ9:1x2Gbz:4qoVdtRFUfF7I5O4Us3d-yv8SBzDAkLXbs-KyTxP9ws/",
 				"notes": ""
 			}
-		}
+		},
+		"Banking and Digital Wallets": {},
+		"برامج دينية وتعليمية": {}
 	},
-	"arabic Bookshare": {},
+	"arabic Bookshare": {
+		"مكاتب ومؤلفين": {},
+		"أقسام متخصصة": {},
+		"كتب صوتية (Audiobooks):": {},
+		"مجلات ودوريات (Journals and Periodicals):": {}
+	},
 	"حياة وثقافة الكفيف العربي": {},
 	"AI Age عصر الذكاء": {},
 	"آفاق الاستثمار ومخاطره": {},
 	"حقوق وخدمات المكفوفين": {},
 	"المعاملات المالية للكفيف": {},
-	"تعليم تدريب تأهيل المكفوفين": {},
+	"تعليم تدريب تأهيل المكفوفين": {
+		"مناهج دراسية": {},
+		"دورات  تعليمية": {},
+		"الدراسات التخصصية، والأبحاث العلمية": {}
+	},
 	"للكفيفات فقط": {},
 	"صنعة إيديا": {},
 	"سوق المكفوفين": {},
-	"IPhone arab blind": {}
+	"IPhone arab blind": {
+		"Multimedia and Production Tools": {},
+		"Communication and messaging": {},
+		"Banking and Digital Wallets": {},
+		"Religious and Educational Software": {}
+	}
 }
