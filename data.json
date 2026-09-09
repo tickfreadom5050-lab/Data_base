@@ -22,12 +22,12 @@
 				"notes": "Architecture: 32-bit"
 			},
 			"Opera": {
-				"url": "https://tecwindow.net/en/opera/download/eyJjb250ZW50X2lkIjo0NjMsImlwIjoiJXByb3h5X2FkZF94X2ZvcndhcmRlZF9mb3IlIn0:1x3kMy:dgdHX-rM3Lh2TGon-nSVmSq2fxtHV_y6tUcRRby1xTE/",
+				"url": "https://tecwindow.net/en/opera/download/eyJjb250ZW50X2lkIjo0NjMsImlwIjoiJXByb3h5X2FkZF94X2ZvcndhcmRlZF9mb3IlIn0:1x4HQB:2kkpfOP5CteauQVRnrVZ0HUjNDW_VT2VatRDxNeXTAo/",
 				"url2": "",
 				"notes": "Architecture: 64-bit"
 			},
 			"Opera.": {
-				"url": "https://tecwindow.net/en/opera-x86/download/eyJjb250ZW50X2lkIjoxMDYxLCJpcCI6IiVwcm94eV9hZGRfeF9mb3J3YXJkZWRfZm9yJSJ9:1x3kMy:t6vss_1hlCv9zzPoc-yclChFVgMYmH9BSO_gxRtnGOc/",
+				"url": "https://tecwindow.net/en/opera-x86/download/eyJjb250ZW50X2lkIjoxMDYxLCJpcCI6IiVwcm94eV9hZGRfeF9mb3J3YXJkZWRfZm9yJSJ9:1x4HQB:5_Wn8XdAn-xBuhSeAfgiwkCM4lsKVaFMniDooUaSt_4/",
 				"url2": "",
 				"notes": "Architecture: 32-bit"
 			},
@@ -36,10 +36,10 @@
 				"url2": "",
 				"notes": "for Windows 7 to 8.1"
 			},
-			"Microsoft Edge Microsoft Store": {
+			"Microsoft Edge,": {
 				"url": "https://apps.microsoft.com/detail/XPFFTQ037JWMHS?hl=en-US&gl=EG&ocid=pdpshare",
 				"url2": "",
-				"notes": ""
+				"notes": "Microsoft Store"
 			},
 			"Microsoft Edge": {
 				"url": "https://tecwindow.net/en/microsoft-edge/download/eyJjb250ZW50X2lkIjo1NTEsImlwIjoiJXByb3h5X2FkZF94X2ZvcndhcmRlZF9mb3IlIn0:1x3kMy:5wyDoiD37IqohLwPsg9RFV4awqBSwXAkXDK-xN--txs/",
@@ -54,34 +54,6 @@
 			"Brave X86": {
 				"url": "https://tecwindow.net/en/brave-x86/download/eyJjb250ZW50X2lkIjoxMDQ5LCJpcCI6IiVwcm94eV9hZGRfeF9mb3J3YXJkZWRfZm9yJSJ9:1x3kMy:eNm7NTxVFqXhr5IsWLSQqBDwtVsfXSEdD1yiuAt1TSA/",
 				"notes": "Architecture: 32-bit, Language: English"
-			},
-			"Google Chrome 64-bit": {
-				"url": "https://tecwindow.net/en/google-chrome-64-bit/download/eyJjb250ZW50X2lkIjoxMTA0LCJpcCI6IiVwcm94eV9hZGRfeF9mb3J3YXJkZWRfZm9yJSJ9:1x3kMy:9B7ecW6tRl7lgZTgcL7oCuLSwX_qnW-sKcmKdy6toeM/",
-				"notes": ""
-			},
-			"Google Chrome 32-bit": {
-				"url": "https://tecwindow.net/en/google-chrome-32-bit/download/eyJjb250ZW50X2lkIjoxMTA1LCJpcCI6IiVwcm94eV9hZGRfeF9mb3J3YXJkZWRfZm9yJSJ9:1x3kMy:Vb--vfDfsZZ__MoDKDjEVc-qoDriR2m1lWy_cBD5cWA/",
-				"notes": ""
-			},
-			"Opera X64": {
-				"url": "https://tecwindow.net/en/opera/download/eyJjb250ZW50X2lkIjo0NjMsImlwIjoiJXByb3h5X2FkZF94X2ZvcndhcmRlZF9mb3IlIn0:1x3kMy:dgdHX-rM3Lh2TGon-nSVmSq2fxtHV_y6tUcRRby1xTE/",
-				"notes": ""
-			},
-			"Opera X86": {
-				"url": "https://tecwindow.net/en/opera-x86/download/eyJjb250ZW50X2lkIjoxMDYxLCJpcCI6IiVwcm94eV9hZGRfeF9mb3J3YXJkZWRfZm9yJSJ9:1x3kMy:t6vss_1hlCv9zzPoc-yclChFVgMYmH9BSO_gxRtnGOc/",
-				"notes": ""
-			},
-			"Microsoft Edge for Windows 7 to 8.1": {
-				"url": "https://tecwindow.net/en/microsoft-edge-for-windows7881/download/eyJjb250ZW50X2lkIjo1NTIsImlwIjoiJXByb3h5X2FkZF94X2ZvcndhcmRlZF9mb3IlIn0:1x3kMy:r0Rb1xtGvMsu_kEkYX5lsLM6gStBSxFIogOc7S50Vl8/",
-				"notes": "Windows 7 to Windows 8.1"
-			},
-			"Microsoft Edge for Windows 10 and 11": {
-				"url": "https://tecwindow.net/en/microsoft-edge/download/eyJjb250ZW50X2lkIjo1NTEsImlwIjoiJXByb3h5X2FkZF94X2ZvcndhcmRlZF9mb3IlIn0:1x3kMy:5wyDoiD37IqohLwPsg9RFV4awqBSwXAkXDK-xN--txs/",
-				"notes": "Windows 10, 11"
-			},
-			"Brave X64": {
-				"url": "https://tecwindow.net/en/brave-x64bit/download/eyJjb250ZW50X2lkIjoxMDQ4LCJpcCI6IiVwcm94eV9hZGRfeF9mb3J3YXJkZWRfZm9yJSJ9:1x3kMy:sJ2ZffyVcud7nMQUzSGDWWOLZlnAJagPp-YJ57-o0gk/",
-				"notes": "Language: English"
 			},
 			"Tor Browser Portable X64": {
 				"url": "https://dist.torproject.org/torbrowser/15.0.21/tor-browser-windows-x86_64-portable-15.0.21.exe",
@@ -101,6 +73,7 @@
 			},
 			"Vivaldi X86": {
 				"url": "https://downloads.vivaldi.com/stable/Vivaldi.exe",
+				"url2": "",
 				"notes": "Official standalone installer"
 			},
 			"LibreWolf": {
@@ -191,7 +164,6 @@
 				"notes": ""
 			}
 		},
-		"تحرير ومعالجة النصوص": {},
 		"Screen Readers": {
 			"nvda": {
 				"url": "https://tecwindow.net/en/nvda-11/download/eyJjb250ZW50X2lkIjoxMSwiaXAiOiIlcHJveHlfYWRkX3hfZm9yd2FyZGVkX2ZvciUifQ:1x2Fsx:DJ5drifWkvnxjEnpnkjvvnmAsKBZwLRtgISBhLO78TU/",
@@ -266,6 +238,20 @@
 			"windows_11 consumer editions": {
 				"url": "https://tecwindow.net/en/windows11-english-x64/download/eyJjb250ZW50X2lkIjo0MjMsImlwIjoiJXByb3h5X2FkZF94X2ZvcndhcmRlZF9mb3IlIn0:1x2WLA:0AYpeopzbVYPiWILv-eJzKCvp3M3X0eOXDwY0eOVfeI/",
 				"notes": "نسخة المستهلكين المجمعة (Consumer Editions)"
+			},
+			"Windows 10 22H2 X64": {
+				"url": "https://is5.arfiles.net/Win.10.Aio.19045.7417.Multi.iso",
+				"notes": "Build 19045.7417 (64Bit)"
+			},
+			"Hiren's BootCD": {
+				"url": "https://tecwindow.net/en/hirens-bootcd/download/eyJjb250ZW50X2lkIjoxMjI1LCJpcCI6IiVwcm94eV9hZGRfeF9mb3J3YXJkZWRfZm9yJSJ9:1x4DVR:ZpaNLUs7swY3BiQLbzFgiT63rsNDl-cd9gBRgjmceic/",
+				"url2": "",
+				"notes": "Version: 1.0.8.Architecture: 64Bit."
+			},
+			"Windows 11 25H2": {
+				"url": "https://f4.144server.xyz/WIN11Aio16in125H2262009168.iso",
+				"url2": "",
+				"notes": "Description: Last version of Windows 11 - 24.Aug.2026 (No TPM Required) Multilingual"
 			}
 		},
 		"Synthesizers آلات النطق": {
@@ -306,14 +292,36 @@
 				"notes": ""
 			}
 		},
-		"Protection and security programs": {},
+		"Protection and security programs": {
+			"ESET Internet Security": {
+				"url": "https://ins8.arfiles.net/ESET.Internet.Security_18.2.18.0_x64_Final.rar",
+				"notes": "Version: v18.2.18.0, Architecture: 64Bit, Size: 68.1 MB, Best antivirus that provides excellent protection against viruses and competes with all antiviruses software"
+			},
+			"ESET NOD32 AntiVirus": {
+				"url": "https://progs.online/NOD32_AntiVirus_19.0.14.0.rar",
+				"notes": "Version: 19.0.14.0, Architecture: 64Bit, Size: 71.2 MB, ESET NOD32 Antivirus is a lightweight, subscription-based security solution designed to protect Windows computers from malware, ransomware, and phishing attacks"
+			},
+			"ESET Smart Security Premium": {
+				"url": "https://progs.online/ESET_Smart_Security_Premium_18.2.18.0.rar",
+				"notes": "Version: 18.2.18.0, Architecture: 32Bit, Size: 59.5 MB, ESET Smart Security Premium (now available as part of the ESET HOME Security suite) is a comprehensive internet security and antivirus suite for Windows, but it is the paid version"
+			},
+			"Avast": {
+				"url": "https://ins3.arfiles.net/Avast%20Free%20Antivirus%2025.2.9898.rar",
+				"notes": "Version: Free Antivirus Offline 25.2.9898, Architecture: 32 & 64 bit, Size: 636.6 MB, Avast antivirus free version"
+			},
+			"360 Total Security Premium Antivirus": {
+				"url": "https://dimm.arfiles.net/360_Total_Security_11.0.0.1313.rar",
+				"notes": "Version: 11.0.0.1313, Architecture: 32 & 64 bit, Size: 1.0 MB, 360 Total Security Premium for Windows is a comprehensive cybersecurity and system optimization suite developed by Qihoo 360"
+			}
+		},
 		"Download and Upload Tools": {
 			"Dropbox": {
 				"url": "https://tecwindow.net/en/dropbox/download/eyJjb250ZW50X2lkIjo1MiwiaXAiOiIlcHJveHlfYWRkX3hfZm9yd2FyZGVkX2ZvciUifQ:1x3jg4:NssKamktRXho1YtCjLZTl6u8285Py-B0sJPMPHdIZf4/",
 				"notes": "Online"
 			},
-			"Dropbox Offline Installer X64": {
-				"url": "https://tecwindow.net/en/dropbox-offline-installer-x86/download/eyJjb250ZW50X2lkIjoxMjg5LCJpcCI6IiVwcm94eV9hZGRfeF9mb3J3YXJkZWRfZm9yJSJ9:1x3jfr:kwqM2ueRN6UJDspBkRtHu27UmQOV2upaLe7lq570Ls8/",
+			"Dropbox Offline Installer": {
+				"url": "https://tecwindow.net/en/dropbox-offline-installer-x64/download/eyJjb250ZW50X2lkIjoxMDYwLCJpcCI6IiVwcm94eV9hZGRfeF9mb3J3YXJkZWRfZm9yJSJ9:1x4HOi:uc8uyRkPvKu76T3K2O5GUoq1gQS-GX2PkP-2OjnZkU4/",
+				"url2": "",
 				"notes": "Offline 64-bit"
 			},
 			"Google Drive Drive File Stream": {
@@ -383,21 +391,397 @@
 			"qBittorrent X64": {
 				"url": "https://tecwindow.net/en/qbittorrent-x64/download/eyJjb250ZW50X2lkIjoxMDk0LCJpcCI6IiVwcm94eV9hZGRfeF9mb3J3YXJkZWRfZm9yJSJ9:1x3jxM:5B9htawgnQ-owrUu8EJykxlSwCXm9kp3bz3rhn-2yoc/",
 				"notes": "64-bit"
+			},
+			"Dropbox Offline Installer X86": {
+				"url": "https://tecwindow.net/en/dropbox-offline-installer-x86/download/eyJjb250ZW50X2lkIjoxMjg5LCJpcCI6IiVwcm94eV9hZGRfeF9mb3J3YXJkZWRfZm9yJSJ9:1x4HOi:XcuPfbDa5kZUaVexg0fBYPZKyOdeTU7Nhdml5LTCq5E/",
+				"url2": "",
+				"notes": ""
+			},
+			"iCloud X64": {
+				"url": "https://tecwindow.net/en/icloud/download/eyJjb250ZW50X2lkIjoxMTU1LCJpcCI6IiVwcm94eV9hZGRfeF9mb3J3YXJkZWRfZm9yJSJ9:1x4AGz:jJvPaHzNA1kfvkuA7WYUuVImA8ewpanJYAIEFuWNQCo/",
+				"notes": "خدمة التخزين السحابي ومزامنة الملفات والصور وبيانات السحابة مع أجهزة Apple. Architecture: 64Bit."
+			},
+			"Quick Share": {
+				"url": "https://tecwindow.net/en/quick-share/download/eyJjb250ZW50X2lkIjoxMDI4LCJpcCI6IiVwcm94eV9hZGRfeF9mb3J3YXJkZWRfZm9yJSJ9:1x4Agv:Jha5CFmntiragk_JdK3f0B3gBEST_ZbSuTlrNXvQMU0/",
+				"notes": "مشاركة الملفات لاسلكياً بين أجهزة Android القريبة وأجهزة Windows. Architecture: X64 64 Bit. OS: Windows 10/11."
+			},
+			"Google Drive": {
+				"url": "https://tecwindow.net/en/google-drive-drive-file-stream/download/eyJjb250ZW50X2lkIjo1MywiaXAiOiIlcHJveHlfYWRkX3hfZm9yd2FyZGVkX2ZvciUifQ:1x4AcC:RDf0G6DneDrSa6r2iUsdAryRjVRm2MXY_CPCsDy9yfs/",
+				"notes": "العميل المكتبي الرسمي لمزامنة وتخزين ملفات Google Drive والتكامل مع مستكشف الملفات"
 			}
 		},
-		"Multimedia and Production Tools": {},
-		"General": {},
-		"AI and Visual Recognition Tools": {}
+		"Multimedia and Production Tools": {
+			"Total Video Audio Converter": {
+				"url": "https://t.me/qadreen/9/132",
+				"notes": "Version: 4.1.2 Build 1649. تحويل صيغ الصوت والفيديو، نسخة مفعلة (ملاحظة: واجهة التثبيت بلغة غير مدعومة وتتطلب ترجمة NVDA)"
+			},
+			"Apple Music X64": {
+				"url": "https://tecwindow.net/en/apple-music-1150/download/eyJjb250ZW50X2lkIjoxMTUwLCJpcCI6IiVwcm94eV9hZGRfeF9mb3J3YXJkZWRfZm9yJSJ9:1x4AGz:V83CB__R5GwypufUqRKIMFLgTKd6Iw3_vy3LKTgvqq8/",
+				"notes": "مشغل الموسيقى والوصول لمكتبة Apple Music الصوتية على Windows. Architecture: 64Bit."
+			},
+			"Apple TV X64": {
+				"url": "https://tecwindow.net/en/apple-tv/download/eyJjb250ZW50X2lkIjoxMTUxLCJpcCI6IiVwcm94eV9hZGRfeF9mb3J3YXJkZWRfZm9yJSJ9:1x4AGz:Zqfmj3gloySQT2BX-XcCVwJ-6Q2v5DfpNhBXRqmiRXc/",
+				"notes": "تطبيق تشغيل وبث العروض المرئية والأفلام عبر خدمة Apple TV. Architecture: 64Bit."
+			},
+			"Format Factory": {
+				"url": "https://tecwindow.net/en/format-factory-x64/download/eyJjb250ZW50X2lkIjo1ODgsImlwIjoiJXByb3h5X2FkZF94X2ZvcndhcmRlZF9mb3IlIn0:1x4Mw5:9z1fwEV0uN1uM3AkfgmTBoq-6RVneCZuBiU1srdS00I/",
+				"notes": "Version: 5.21.0.0, Architecture: 64Bit, Convert video, audio and image formats"
+			},
+			"Format Factory.": {
+				"url": "https://tecwindow.net/en/format-factory-x86/download/eyJjb250ZW50X2lkIjo0NjQsImlwIjoiJXByb3h5X2FkZF94X2ZvcndhcmRlZF9mb3IlIn0:1x4Hvh:8mDDWk90JDX5w5VX4t6GkgIlmVUiiMcLTR2nF4AgDCk/",
+				"notes": "Version: 4.10.5.0, Architecture: 32Bit, تحويل صيغ الفيديو والصوت والصور"
+			},
+			"MP3 M4R Converter": {
+				"url": "https://tecwindow.net/en/mp3-m4r-converter/download/eyJjb250ZW50X2lkIjo0NjUsImlwIjoiJXByb3h5X2FkZF94X2ZvcndhcmRlZF9mb3IlIn0:1x4Hvh:jBO7CkoDhkQt9a8pdDVy0JAFV3dud7i8yKyVQX2Uts8/",
+				"notes": "OS: Windows, Language: English, A program that converts mp3 format to m4r format for iPhone phones"
+			},
+			"Video to video": {
+				"url": "https://tecwindow.net/en/video-to-video/download/eyJjb250ZW50X2lkIjo0NjYsImlwIjoiJXByb3h5X2FkZF94X2ZvcndhcmRlZF9mb3IlIn0:1x4Hvh:E44ptShoo5raBvos14gZeGroJNUg_8Q1k1MSr_RSomw/ ",
+				"notes": "OS: Windows, Language: English, Free Convert Video and Audio Files to AVI, MP4, MKV, MPEG, WMV, 3GP, MP3, FLV, YouTube, and mobile devices"
+			},
+			"File Converter": {
+				"url": "https://tecwindow.net/en/file-converter-x64/download/eyJjb250ZW50X2lkIjo0NjgsImlwIjoiJXByb3h5X2FkZF94X2ZvcndhcmRlZF9mb3IlIn0:1x4Hvh:Wi_0H_nAtnM9Hxe29zNywyPHVsSfBbZeJKoR49-W5E4/",
+				"notes": "Version: 2.1, Architecture: 64Bit, Convert and compress files using context menu in Windows Explorer"
+			},
+			"Total Video Converter": {
+				"url": "https://tecwindow.net/en/total-video-converter/download/eyJjb250ZW50X2lkIjoxMTgyLCJpcCI6IiVwcm94eV9hZGRfeF9mb3J3YXJkZWRfZm9yJSJ9:1x4Hvh:mk6CpCkt_OCfCiXuyW0ccxY9h47JxU8LnxVTra61Tkk/",
+				"notes": "Version: 3.71, OS: Windows, Language: English, Converts any Video and audio to any format for iPhone, iPad, mobile, PSP"
+			},
+			"HandBrake": {
+				"url": "https://tecwindow.net/en/handbrake/download/eyJjb250ZW50X2lkIjo1NzMsImlwIjoiJXByb3h5X2FkZF94X2ZvcndhcmRlZF9mb3IlIn0:1x4Hvh:ugW69ICljQgxgDEAuH75A9GVD_wTBB-39GTvzM24oGE/",
+				"notes": "Version: 1.6.1, OS: Windows 10/11, Language: English, Open-source tool for converting video to modern supported codecs"
+			},
+			"uMusic": {
+				"url": "https://tecwindow.net/en/umusic/download/eyJjb250ZW50X2lkIjo1NzUsImlwIjoiJXByb3h5X2FkZF94X2ZvcndhcmRlZF9mb3IlIn0:1x4N5G:Iu5TZazq2FZ3ItAs_KRA4f207Xdf_YWN9zY1CAJ6BUc/",
+				"notes": "Version: 0.3, OS: Windows, Language: English, A program that converts audio files into video"
+			},
+			"ffmpeg": {
+				"url": "https://tecwindow.net/en/ffmpeg-64-bit/download/eyJjb250ZW50X2lkIjoxMTM1LCJpcCI6IiVwcm94eV9hZGRfeF9mb3J3YXJkZWRfZm9yJSJ9:1x4N6a:1RodAtKETaoiVfUGsEkqUpxDp0Wql3RVYz1v9-2Ln1w/",
+				"notes": "Version: 6.1, Architecture: 64Bit, Language: English, Free and open-source tools for handling multimedia data, video/audio editing, format conversion, and streaming"
+			},
+			"AccsiCapture": {
+				"url": "https://tecwindow.net/en/accsicapture/download/eyJjb250ZW50X2lkIjoxMzc0LCJpcCI6IiVwcm94eV9hZGRfeF9mb3J3YXJkZWRfZm9yJSJ9:1x4N96:R0zbmnhO7s1nQKWkI-gT-mCCQoF2_a53uEMDUag9dko/",
+				"notes": "Version: 2.0.4.19, Architecture: 64Bit, OS: Windows 11, Accessible screen capture, 4K video recording, multi-track audio routing, with 100% screen reader accessibility"
+			},
+			"FastStone Capture": {
+				"url": "https://tecwindow.net/en/faststone-capture/download/eyJjb250ZW50X2lkIjo5MzAsImlwIjoiJXByb3h5X2FkZF94X2ZvcndhcmRlZF9mb3IlIn0:1x4N96:sC4Vfvww1vc66efO9JbQtIDy99Jp6yqMMzb3c2NPIss/",
+				"notes": "Version: 10.0, Architecture: 32 and 64 bit, OS: Windows, Screen capture tool and screen video recorder"
+			},
+			"Camtasia Studio 8": {
+				"url": "https://tecwindow.net/en/camtasia-studio-8/download/eyJjb250ZW50X2lkIjo5MzEsImlwIjoiJXByb3h5X2FkZF94X2ZvcndhcmRlZF9mb3IlIn0:1x4N96:M8t5K-v_DMtphNutKYp5Gm-fUPIjxe7X09OE0K1pxb0/",
+				"notes": "Version: 8.6.0, Architecture: 32 and 64 bit, Screen recorder and video editor for tutorials, demonstrations, and presentations"
+			},
+			"OBS Studio": {
+				"url": "https://tecwindow.net/en/obs-studio-x64/download/eyJjb250ZW50X2lkIjo5OCwiaXAiOiIlcHJveHlfYWRkX3hfZm9yd2FyZGVkX2ZvciUifQ:1x4N96:HVgpdm6WlACYY4j9PtZoKTCdvU0vsb__GKOo6N57g3I/",
+				"notes": "Version: 32.2.1, Architecture: 64Bit, Free live broadcasting and multicast to multiple services simultaneously, plus screen recording"
+			},
+			"OBS Studio.": {
+				"url": "https://tecwindow.net/en/obs-studio-x86/download/eyJjb250ZW50X2lkIjo5OSwiaXAiOiIlcHJveHlfYWRkX3hfZm9yd2FyZGVkX2ZvciUifQ:1x4N96:7yZbOZ7F41KZQWuZt_MtekilGm5ZuMPUYO5I7srR2Nw/",
+				"notes": "Version: 27.2.4, Architecture: 32Bit, Free live broadcasting and multicast to multiple services simultaneously, plus screen recording"
+			},
+			"Apowersoft Screen Recorder\": {": {
+				"url": "https://progs.online/Apowersoft_Screen_Recorder_Pro_2.4.1.12.rar",
+				"url2": "",
+				"notes": "Version: Pro 2.4.1.12, Architecture: 32 & 64 bit, Size: 28.5 MB, Apowersoft Screen Recorder is a straightforward, easy-to-use software application for Windows that lets you capture your computer screen, webcam, and audio"
+			}
+		},
+		"General": {
+			"Google for Desktop": {
+				"url": "https://tecwindow.net/en/google-for-desktop/download/eyJjb250ZW50X2lkIjoxMzE2LCJpcCI6IiVwcm94eV9hZGRfeF9mb3J3YXJkZWRfZm9yJSJ9:1x4AjD:aBzT_zZOUM5jUSnzw7tMZw1wWdDy6EEnna1ZjZTLsxQ/",
+				"notes": "تطبيق سطح المكتب للبحث وتوليد الإجابات المعتمدة على نماذج الذكاء الاصطناعي، ومشاركة الشاشة والوصول للملفات. Architecture: 64-Bit. OS: Windows 11."
+			},
+			"Apple Devices X64": {
+				"url": "https://tecwindow.net/en/apple-devices/download/eyJjb250ZW50X2lkIjoxMTQ5LCJpcCI6IiVwcm94eV9hZGRfeF9mb3J3YXJkZWRfZm9yJSJ9:1x4AHm:JvOSCutvwobNZdrQsBo2t2mcMjOFi1ArWXqdeLdKELM/",
+				"notes": "إدارة أجهزة Apple ومزامنة البيانات وتحديث النظام عبر بيئة Windows. Architecture: 64Bit."
+			},
+			"iTunes": {
+				"url": "https://tecwindow.net/en/itunes/download/eyJjb250ZW50X2lkIjoxMTUyLCJpcCI6IiVwcm94eV9hZGRfeF9mb3J3YXJkZWRfZm9yJSJ9:1x4AGz:kJsVERGV13dIdSewylE3AHC-5KpCLs5uWzO6yL0_DNY/",
+				"notes": "إدارة أجهزة Apple، النسخ الاحتياطي والمزامنة، ومشغل وسائط. Architecture: 32Bit."
+			},
+			"iTunes.": {
+				"url": "https://tecwindow.net/en/itunes-64-bit/download/eyJjb250ZW50X2lkIjoxMTUzLCJpcCI6IiVwcm94eV9hZGRfeF9mb3J3YXJkZWRfZm9yJSJ9:1x4AGz:OeRnDDE8vfqahH42_blnx4iJbuCLR00tHqauU4ucoYo/",
+				"notes": "إدارة أجهزة Apple، النسخ الاحتياطي والمزامنة، ومشغل وسائط. Architecture: 64Bit."
+			},
+			"Android Studio\": {": {
+				"url": "https://ins5.arfiles.net/Android%20Studio%202025.2.2.8%20x64.rar\",",
+				"url2": "",
+				"notes": "Version: v2025.2.2.8 (Installer), Architecture: 64Bit, Size: 1.4 GB, IDE to develop android application that contains many features added by Google to the emulator, testing and dealing with graphics"
+			}
+		},
+		"AI and Visual Recognition Tools": {
+			"Microsoft Copilot": {
+				"url": "https://tecwindow.net/ar/microsoft-copilot-1233/download/eyJjb250ZW50X2lkIjoxMjMzLCJpcCI6IiVwcm94eV9hZGRfeF9mb3J3YXJkZWRfZm9yJSJ9:1x4DZE:yinKjG2lBfgkELBrK3-6EzORLQZWCIPKeQTadW5-1Fo/",
+				"notes": "المساعد الذكي المكتبي من مايكروسوفت لتوليد النصوص والبحث وتلخيص المهام"
+			},
+			"Microsoft 365 Copilot": {
+				"url": "https://apps.microsoft.com/detail/9WZDNCRD29V9?hl=en-us&gl=EG&ocid=pdpshare",
+				"notes": "نسخة Microsoft Store الرسمية المدمجة مع منظومة Microsoft 365"
+			},
+			"Claude": {
+				"url": "https://tecwindow.net/ar/claude-1234/download/eyJjb250ZW50X2lkIjoxMjM0LCJpcCI6IiVwcm94eV9hZGRfeF9mb3J3YXJkZWRfZm9yJSJ9:1x4DZE:IiVxO-RC-aKu4Zkum-yLiq8IihF4ysXk9s_V5a8yZxM/",
+				"notes": "Architecture: X64 64Bit, تطبيق سطح المكتب للنموذج الذكي من Anthropic"
+			},
+			"Claude.": {
+				"url": "https://apps.microsoft.com/detail/9PC168XFZ38V?hl=en-us&gl=EG&ocid=pdpshare",
+				"notes": "نسخة Microsoft Store الرسمية"
+			},
+			"ChatGPT": {
+				"url": "https://tecwindow.net/ar/chatgpt-1243/download/eyJjb250ZW50X2lkIjoxMjQzLCJpcCI6IiVwcm94eV9hZGRfeF9mb3J3YXJkZWRfZm9yJSJ9:1x4DZE:8PrnR6zxbVijTsQ1YgndQ0TvEkqB_AWWQjtWO6kBFms/",
+				"notes": "OS: Windows 10 and above, Language: English, تطبيق سطح المكتب الرسمي"
+			},
+			"Perplexity": {
+				"url": "https://tecwindow.net/ar/perplexity-1272/download/eyJjb250ZW50X2lkIjoxMjcyLCJpcCI6IiVwcm94eV9hZGRfeF9mb3J3YXJkZWRfZm9yJSJ9:1x4DZE:PafTkGJjbwSkt0AofokYy5UaEl-nv0xJrfJHEwb_RVo/",
+				"notes": "محرك البحث التوليدي والذكاء الاصطناعي لسطح المكتب"
+			},
+			"Perplexity.": {
+				"url": "https://apps.microsoft.com/detail/9P9XG917PWCJ?hl=en-us&gl=EG&ocid=pdpshare",
+				"notes": "نسخة Microsoft Store الرسمية"
+			},
+			"Be My Eyes": {
+				"url": "https://tecwindow.net/ar/be-my-eyes-1170/download/eyJjb250ZW50X2lkIjoxMTcwLCJpcCI6IiVwcm94eV9hZGRfeF9mb3J3YXJkZWRfZm9yJSJ9:1x4Dxm:B0G4GGOMkDClajnkKS2oWb4oLSXMgqIS_6eePfR_t3Q/",
+				"notes": "أداة مساعدة بصرية تعتمد على الذكاء الاصطناعي (Be My AI) لوصف الشاشة والصور للمكفوفين وضعاف البصر عبر Windows"
+			},
+			"Be My Eyes.": {
+				"url": "https://apps.microsoft.com/detail/9MSW46LTDWGF?hl=en-us&gl=EG&ocid=pdpshare",
+				"notes": "نسخة Microsoft Store الرسمية"
+			},
+			"ScribeMe": {
+				"url": "https://tecwindow.net/ar/scribeme/download/eyJjb250ZW50X2lkIjoxMTk4LCJpcCI6IiVwcm94eV9hZGRfeF9mb3J3YXJkZWRfZm9yJSJ9:1x4Dxm:aqU6tJN2YxVuaG1SxzRVciSkhPOrKtmvLwbL1fe5p20/",
+				"notes": "OS: Windows 10/11, Language: English, استخراج النصوص ووصف الصور بشرائح العرض، وصف محتوى الشاشة (Snap nScribe)، واستخراج النصوص من PDF بالتعرف الضوئي (OCR)"
+			},
+			"i-PDF": {
+				"url": "https://tecwindow.net/ar/i-pdf/download/eyJjb250ZW50X2lkIjoxMjg1LCJpcCI6IiVwcm94eV9hZGRfeF9mb3J3YXJkZWRfZm9yJSJ9:1x4Dxm:Vyx3KUORWGhdFmxy26uwHUmtAyVqvg4ca6APElvhmMM/",
+				"notes": "قراءة ملفات PDF والصور واستخراج النصوص منهما بالاعتماد على نماذج الذكاء الاصطناعي مثل Gemini"
+			},
+			"MAReader": {
+				"url": "https://tecwindow.net/ar/mareader/download/eyJjb250ZW50X2lkIjoxMzYxLCJpcCI6IiVwcm94eV9hZGRfeF9mb3J3YXJkZWRfZm9yJSJ9:1x4Dxm:ZcPRPwmfkQ_58ThAPCADuCwSdb4i7U42kSmU4WgBg0E/",
+				"notes": "أداة متخصصة للمكفوفين لوصف الصور واستخراج النصوص المكتوبة من ملفات PDF والصور الرقمية"
+			},
+			"Tech Freedom": {
+				"url": "https://tecwindow.net/ar/tech-freedom-1247/download/eyJjb250ZW50X2lkIjoxMjQ3LCJpcCI6IiVwcm94eV9hZGRfeF9mb3J3YXJkZWRfZm9yJSJ9:1x4Dxm:QdUH58ePkuFKVsCvrDdZ8efDSVv-mXOc4hxt2UXEHIY/",
+				"notes": "مجموعة أدوات مساعدة بصرية وتقنية متكاملة للمكفوفين تتيح التعرف على النصوص، قراءة المستندات، والتعامل مع الوسائط"
+			},
+			"ABBYY FineReader Standard": {
+				"url": "https://tecwindow.net/ar/abbyy-finereader-standard-edition/download/eyJjb250ZW50X2lkIjoxNTAsImlwIjoiJXByb3h5X2FkZF94X2ZvcndhcmRlZF9mb3IlIn0:1x4EXb:bhV9rWYZ9l2Vtq9X8GO7P-pq9XLPwHPodsS8JiGVCrU/",
+				"notes": "Version: 15.0.18.1494, OS: Windows, Language: English, التعرف الضوئي على الحروف (OCR)، مسح وتحويل المستندات وملفات PDF المصورة إلى نصوص رقمية قابلة للتحرير والقراءة"
+			},
+			"LM Studio": {
+				"url": "https://lmstudio.ai/download/bionic/latest/win32/x64",
+				"notes": "OS: Windows, Architecture: X64 64Bit, بيئة سطح مكتب متكاملة لتشغيل وإدارة النماذج اللغوية مفتوحة المصدر محلياً دون الحاجة للإنترنت"
+			},
+			"Ollama": {
+				"url": "https://ollama.com/download/OllamaSetup.exe",
+				"notes": "OS: Windows, أداة تشغيل نماذج الذكاء الاصطناعي محلياً عبر سطر الأوامر (CLI) وتوفير خادم محلي (Local API Server)"
+			},
+			"Jan": {
+				"url": "https://github.com/janhq/jan/releases/download/v0.8.4/Jan_0.8.4_x64-setup.exe",
+				"notes": "Version: 0.8.4, OS: Windows, Architecture: X64 64Bit, واجهة مفتوحة المصدر وبديل محلي أوفلاين لـ ChatGPT لتشغيل النماذج بالكامل دون اتصال"
+			},
+			"Whisper Desktop": {
+				"url": "https://get-whisper.com/get",
+				"notes": "OS: Windows, أداة تحويل الكلام إلى نص (Speech-to-Text) والتفريغ الصوتي بالاعتماد على نماذج Whisper من OpenAI محلياً عبر GPU"
+			},
+			"Tesseract OCR": {
+				"url": "https://sourceforge.net/projects/tesseract-ocr.mirror/files/latest/download",
+				"notes": "محرك التعرف الضوئي على الحروف (OCR) مفتوح المصدر لنظام Windows، يدعم استخراج النصوص باللغة العربية والإنجليزية عبر سطر الأوامر والمكتبات البرمجية"
+			},
+			"Kimi": {
+				"url": "https://appsupport.moonshot.cn/api/app/pkg/latest/windows/download",
+				"notes": "OS: Windows, تطبيق سطح المكتب للنموذج الذكي Kimi من Moonshot AI، مخصص لمعالجة وتحليل السياقات الضخمة والمستندات الطويلة"
+			},
+			"AnythingLLM": {
+				"url": "https://cdn.anythingllm.com/latest/AnythingLLMDesktop.exe",
+				"notes": "Architecture: X64 64Bit, OS: Windows, تطبيق سطح مكتب شامل للدردشة مع المستندات والملفات (RAG)، يدعم النماذج المحلية والسحابية مع حماية تامة للخصوصية"
+			},
+			"ChatGPT.": {
+				"url": "https://apps.microsoft.com/detail/9NT1R1C2HH7J?hl=en-us&gl=EG&ocid=pdpshare",
+				"notes": "نسخة Microsoft Store الرسمية"
+			},
+			"ScribeMe.": {
+				"url": "https://apps.microsoft.com/detail/9NWBR4K0FM5X?hl=en-us&gl=EG&ocid=pdpshare",
+				"notes": "نسخة Microsoft Store الرسمية"
+			}
+		},
+		"Word Processing and Text Editing تحرير ومعالجة النصوص": {
+			"Microsoft Office Professional Plus 2024 X64": {
+				"url": "https://ins7.arfiles.net/Microsoft Office Professional Plus 2024 2608 Build 20326.20112 Multilingual x64.rar",
+				"url2": "https://t.me/qadreen/9/127",
+				"notes": "Version: 2608, Build: 20326.20112, Multilingual, Offline installer archive"
+			},
+			"Microsoft Office 2021 Professional Plus Pre-activated X64": {
+				"url": "https://archive.org/download/msoffice-2021x-64-pre-activated/MSOffice_2021x64Pre-activated.iso",
+				"notes": "Pre-activated, Offline ISO image"
+			},
+			"Microsoft Office 2019 X64": {
+				"url": "https://archive.org/download/microsoft.-office-x-64.v-2019/Microsoft.Office-x64.v2019.iso",
+				"notes": "Version: 2019, Offline ISO image"
+			},
+			"Microsoft Office 2016-2021 AIO X86 X64": {
+				"url": "https://archive.org/download/aio-office-2016-2021-32-64-eng/AIO Office 2016-2021(32-64)ENG.iso",
+				"notes": "Versions: 2016 to 2021, Language: English, Dual architecture (32-bit and 64-bit), Offline ISO image, Size: 3.7 GB"
+			},
+			"Microsoft Office 2003 Arabic": {
+				"url": "https://tecwindow.net/en/microsoft-office-2003-arabic/download/eyJjb250ZW50X2lkIjoxMDAsImlwIjoiJXByb3h5X2FkZF94X2ZvcndhcmRlZF9mb3IlIn0:1x48ll:JSeayXft10ao069JPcjb-nXGU4GFRmMMxfvEKgboSz8/",
+				"notes": ""
+			},
+			"Microsoft Office 2003 English": {
+				"url": "https://tecwindow.net/en/microsoft-office-2003-english/download/eyJjb250ZW50X2lkIjoxMDEsImlwIjoiJXByb3h5X2FkZF94X2ZvcndhcmRlZF9mb3IlIn0:1x48yE:-kvscIBefOYzjRVsIz1YXfldn2TVQN0473j6cMmcZCY/",
+				"notes": ""
+			},
+			"Microsoft Office 2007 Arabic": {
+				"url": "https://tecwindow.net/en/microsoft-office-2007-arabic/download/eyJjb250ZW50X2lkIjoxMDMsImlwIjoiJXByb3h5X2FkZF94X2ZvcndhcmRlZF9mb3IlIn0:1x48ll:22xzpkxGwZdEZwUrucdvFjZDuuXqzbttv80G8c1TWvA/",
+				"notes": ""
+			},
+			"Microsoft Office 2007 English": {
+				"url": "https://tecwindow.net/en/microsoft-office-2007-english/download/eyJjb250ZW50X2lkIjoxMDQsImlwIjoiJXByb3h5X2FkZF94X2ZvcndhcmRlZF9mb3IlIn0:1x48yE:rz3zjpZHxWP3sooK3SRbbQrPzxYnMbsVUEoZder61n8/",
+				"notes": ""
+			},
+			"Microsoft Office 2010 Arabic.": {
+				"url": "https://tecwindow.net/en/microsoft-office-2010-x64-arabic/download/eyJjb250ZW50X2lkIjoxMDYsImlwIjoiJXByb3h5X2FkZF94X2ZvcndhcmRlZF9mb3IlIn0:1x48ll:NSFIU3WUuBHvUe4UDY_5jAC3c7EqlxHN-nVv4-hWEnY/",
+				"url2": "",
+				"notes": "Architecture: X64 64Bit."
+			},
+			"Microsoft Office 2010 Arabic": {
+				"url": "https://tecwindow.net/en/microsoft-office-2010-x86-arabic/download/eyJjb250ZW50X2lkIjoxMDcsImlwIjoiJXByb3h5X2FkZF94X2ZvcndhcmRlZF9mb3IlIn0:1x48ll:FTHOyGxGdlGNl1A0Tffv0_Krvqiz50VJFsGp6-YU0Qw/",
+				"url2": "",
+				"notes": "Architecture: X86 32Bit."
+			},
+			"Microsoft Office 2010 English.": {
+				"url": "https://tecwindow.net/en/microsoft-office-2010-x64-english/download/eyJjb250ZW50X2lkIjoxMDgsImlwIjoiJXByb3h5X2FkZF94X2ZvcndhcmRlZF9mb3IlIn0:1x48yE:_z7pW3wfZeMFSp7XnBsYAOBhNi6HdAElTQWUOEeRZuU/",
+				"url2": "",
+				"notes": "Architecture: X64 64Bit."
+			},
+			"Microsoft Office 2010 English": {
+				"url": "https://tecwindow.net/en/microsoft-office-2010-x86-english/download/eyJjb250ZW50X2lkIjoxMDksImlwIjoiJXByb3h5X2FkZF94X2ZvcndhcmRlZF9mb3IlIn0:1x48yE:R-hxQBBIllQ4J33BjQyfUghZ0EgVPtY85JoHeFDCsO0/",
+				"url2": "",
+				"notes": "Architecture: X86 32Bit."
+			},
+			"Adobe Acrobat Reader DC": {
+				"url": "https://tecwindow.net/en/adobe-acrobat-reader-dc/download/eyJjb250ZW50X2lkIjoxNDgsImlwIjoiJXByb3h5X2FkZF94X2ZvcndhcmRlZF9mb3IlIn0:1x4957:EZj9roQ4NklMgcZa4oVR7V1uDU9twILCz4fiVXx2iIU/",
+				"notes": "Architecture: 32Bit. Version: 26.001.21771."
+			},
+			"Bookworm Portable.": {
+				"url": "https://tecwindow.net/en/bookworm-x64-portable/download/eyJjb250ZW50X2lkIjo3MDcsImlwIjoiJXByb3h5X2FkZF94X2ZvcndhcmRlZF9mb3IlIn0:1x48yE:bCgcOpN4xMI24Zk5hePzJ9yAC5aXYR0pVPwrbH0q2GQ/",
+				"url2": "",
+				"notes": "Version: 2026.1. Architecture: 64 bit."
+			},
+			"Bookworm Portable": {
+				"url": "https://tecwindow.net/en/Bookworm-X32-portable/download/eyJjb250ZW50X2lkIjo3MDgsImlwIjoiJXByb3h5X2FkZF94X2ZvcndhcmRlZF9mb3IlIn0:1x499o:O4FZRU2LgtetxswWlyKJoTaC8se_nYcItc0PCvu_17Q/",
+				"url2": "",
+				"notes": "Version: 2026.1. Architecture: 32 bit."
+			},
+			"Bookworm Installer": {
+				"url": "https://tecwindow.net/en/bookworm-x32-installer/download/eyJjb250ZW50X2lkIjo3MDksImlwIjoiJXByb3h5X2FkZF94X2ZvcndhcmRlZF9mb3IlIn0:1x49Ag:jPxWxv3SdwbXKPeMUTDq-nvHwemOy1Qv6pX1u9-Dl5w/",
+				"url2": "",
+				"notes": "Version: 2026.1. Architecture: 32 bit. Installer version."
+			},
+			"Bookworm Installer.": {
+				"url": "https://tecwindow.net/en/bookworm-x64-installer/download/eyJjb250ZW50X2lkIjo3MTAsImlwIjoiJXByb3h5X2FkZF94X2ZvcndhcmRlZF9mb3IlIn0:1x48yE:NvYFpUzbNWVJizySDUWvn847mKtFjGckQ4ElNXd_DLM/",
+				"url2": "",
+				"notes": "Version: 2026.1. Architecture: 64 bit. Installer version."
+			},
+			"Kurzweil": {
+				"url": "https://tecwindow.net/en/kurzweil-1000/download/eyJjb250ZW50X2lkIjoxNDksImlwIjoiJXByb3h5X2FkZF94X2ZvcndhcmRlZF9mb3IlIn0:1x49FN:E9qdbiOusTbjtlNz_ua1GVdaxbhSj_1rVEM3uW4YLjU/",
+				"notes": "Version: 14."
+			},
+			"Microsoft Office 365 Pro Plus": {
+				"url": "https://is14.arfiles.net/Office%20365%20Pro%20Plus%20Version%202510%20Build%2019328.20158%20x64%20%2B%20Visio%20%2B%20Project.rar",
+				"notes": "Version: 2510, Build: 19328.20158, Architecture: X64 64Bit, Includes Visio and Project, Size: 3.6 GB"
+			},
+			"Microsoft Office 2016": {
+				"url": "https://is7.arfiles.net/MS.Office.2016.Pro.Plus.March.2023.x86.zip",
+				"url2": "",
+				"notes": "Professional English 32 bit Version: Size:"
+			},
+			"\"LibreOffice\":": {
+				"url": "https://download.documentfoundation.org/libreoffice/stable/26.8.0/win/x86_64/LibreOffice_26.8.0_Win_x86-64.msi",
+				"url2": "",
+				"notes": "Version: 26.8.0, Architecture: X64"
+			},
+			"yWriter": {
+				"url": "https://t.me/qadreen/9/142",
+				"url2": "",
+				"notes": "برنامج متخصص في كتابة الروايات ومعالجة النصوص,  الأدبية وتنظيم الفصول"
+			},
+			"Notepad++": {
+				"url": "https://progs.online/Notepad%2B%2B_8.9.6x64.rar",
+				"url2": "",
+				"notes": "Version: 8.9.6, Architecture: 64Bit, Size: 6.5 MB, Notepad++ is a free, open-source text editor for Microsoft Windows"
+			},
+			"Notepad++.": {
+				"url": "https://progs.online/Notepad%2B%2B_8.9.6..rar",
+				"url2": "",
+				"notes": "Version: 8.9.6, Architecture: 32Bit, Size: 6.4 MB, Notepad++ is a free, open-source text editor for Microsoft Windows"
+			},
+			"Nitro\": {": {
+				"url": "https://progs.online/Nitro_Pro_14.39.0.18.rar",
+				"url2": "",
+				"notes": "Version: Pro 14.39.0.18, Architecture: 64Bit, Size: 2.0 MB, Nitro app for Windows, formally known as Nitro PDF Pro (or formerly Nitro Pro), is a powerful desktop software used to create, view, edit, convert, and securely sign PDF documents"
+			}
+		},
+		"System Maintenance and Utilities": {
+			"HDD Low Level Format": {
+				"url": "https://t.me/qadreen/9/128",
+				"notes": "أداة لعمل فورمات منخفض المستوى (Low Level Format) ومسح البيانات نهائياً دون إمكانية استرجاعها"
+			},
+			"AOMEI Partition Assistant Pro": {
+				"url": "https://t.me/qadreen/9/129",
+				"notes": "Version: 15.8. إدارة وتقسيم وسائط التخزين، الإصدار الأفضل والأعلى توافقية مع قارئات الشاشة"
+			},
+			"Driver Magician 6.0": {
+				"url": "https://t.me/qadreen/9/130",
+				"notes": "نسخة مفعلة لنسخ، استعادة، وجلب وتحديث تعريفات العتاد"
+			},
+			"AOMEI Backupper Technician": {
+				"url": "https://is10.arfiles.net/AOMEI%20Backupper%20Technician%20Plus%208.4.0%20x64%20WinPE.rar",
+				"url2": "",
+				"notes": "Version: Plus v8.4.0 WinPE, Architecture: 64 bit, Size: 749.7 MB, A program to perform regular backup for disks and partitions\""
+			}
+		},
+		"Accessible Games": {}
 	},
 	"أندرويد الكفيف العربي": {
-		"Screen readers": {
+		"Screen Readers": {
 			"HearSee Screen Reader": {
 				"url": "https://tecwindow.net/en/hearsee-screen-reader/download/eyJjb250ZW50X2lkIjoxMzUzLCJpcCI6IiVwcm94eV9hZGRfeF9mb3J3YXJkZWRfZm9yJSJ9:1x2FrR:aYqrAnuqqdRxznScONi5IP4te5604_mUeZ2p_EOQUd4/",
-				"notes": ""
+				"url2": "",
+				"notes": "نافزة التقنية"
 			},
 			"jieshuo max": {
 				"url": "https://tecwindow.net/en/jieshuo-max/download/eyJjb250ZW50X2lkIjoxMzIxLCJpcCI6IiVwcm94eV9hZGRfeF9mb3J3YXJkZWRfZm9yJSJ9:1x2FrR:d0nSgmS4xoSl3o3oN2uuES7qhAalxUdZDWri2Bxc8Q0/",
 				"notes": "البرنامج الصيني"
+			},
+			"Android Accessibility Suite TalkBack": {
+				"url": "https://play.google.com/store/apps/details?id=com.google.android.marvin.talkback",
+				"notes": ""
+			},
+			"Prudence Screen Reader": {
+				"url": "https://play.google.com/store/apps/details?id=com.prudence.reader",
+				"notes": ""
+			},
+			"Ferda Screen Reader": {
+				"url": "https://play.google.com/store/apps/details?id=com.ferda.md",
+				"notes": ""
+			},
+			"HS Screen Reader": {
+				"url": "https://play.google.com/store/apps/details?id=com.eray_bolat.hs_screen_reader",
+				"notes": ""
+			},
+			"Jieshuo MAX.": {
+				"url": "https://t.me/qadreen/11/109",
+				"notes": "النسخة الكاملة (MAX)"
+			},
+			"Jieshuo Plus": {
+				"url": "https://t.me/qadreen/11/110",
+				"notes": "النسخة القياسية (Plus)"
+			},
+			"Jieshuo Lite": {
+				"url": "https://t.me/qadreen/11/111",
+				"notes": "النسخة المخففة للأجهزة المتوسطة والضعيفة (Lite)"
+			},
+			"حزمة إضافات Ahmed Ghazy v9.3 لقارئ الشاشة Jieshuo": {
+				"url": "https://t.me/qadreen/11/60",
+				"notes": "حزمة إضافات واختصارات مخصصة لقارئ الشاشة جيشوا"
 			}
 		},
 		"Synthesizers": {
@@ -408,6 +792,78 @@
 			"Smart Voice (Arabic version)": {
 				"url": "https://tecwindow.net/en/smart-voice-arabic-version/download/eyJjb250ZW50X2lkIjo1NzksImlwIjoiJXByb3h5X2FkZF94X2ZvcndhcmRlZF9mb3IlIn0:1x2Gge:cgjgdVk9b7fJHV8vHDFq424-YF_t4jXiS9L3yjaWIVA/",
 				"notes": "نسخة عربية"
+			},
+			"MultiTTS 1.8.3": {
+				"url": "https://t.me/qadreen/11/25",
+				"notes": "تطبيق Multi TTS لقراءة النصوص وتشغيل حزم الأصوات بدون إنترنت"
+			},
+			"MultiTTS 1.8.2 Coexistence": {
+				"url": "https://t.me/qadreen/11/36",
+				"notes": "تطبيق Multi TTS نسخة التعايش (تثبت بجانب النسخة الأصلية بدون استبدالها)"
+			},
+			"Pravka": {
+				"url": "https://t.me/qadreen/11/62",
+				"notes": "تطبيق مجاني بديل لـ Auto TTS و Multilingual يعمل على دمج المحركات"
+			},
+			"Acapela Leila Voice Pack": {
+				"url": "https://t.me/qadreen/11/26",
+				"notes": "صوت ليلى العربي من Acapela لإضافته لتطبيق Multi TTS"
+			},
+			"Acapela Salma Voice Pack": {
+				"url": "https://t.me/qadreen/11/27",
+				"notes": "صوت سلمى العربي من Acapela لإضافته لتطبيق Multi TTS"
+			},
+			"Vocalizer Samantha High Voice Pack": {
+				"url": "https://t.me/qadreen/11/29",
+				"notes": "صوت Samantha الإنجليزي عالي الجودة من Vocalizer"
+			},
+			"Acapela Will Old Voice Pack": {
+				"url": "https://t.me/qadreen/11/30",
+				"notes": "صوت Will الإنجليزي الأمريكي الكلاسيكي من Acapela"
+			},
+			"Vocalizer Ava Compact Voice Pack": {
+				"url": "https://t.me/qadreen/11/33",
+				"notes": "صوت Ava الإنجليزي من Vocalizer"
+			},
+			"Acapela Heather Voice Pack": {
+				"url": "https://t.me/qadreen/11/37",
+				"notes": "صوت Heather الإنجليزي من Acapela"
+			},
+			"Microsoft Eric Neural Voice Pack": {
+				"url": "https://t.me/qadreen/11/69",
+				"notes": "أفضل أصوات مايكروسوفت الإنجليزية العصبية لإضافتها إلى Multi TTS"
+			},
+			"SmartVoice 4.1.16 Leila and Samantha Premium High": {
+				"url": "https://t.me/qadreen/11/39",
+				"notes": "الإصدار 4.1.16 مدمج بصوت ليلى العربي و Samantha إنجليزي بجودة فائقة"
+			},
+			"SmartVoice 4.1.16 Tariq and Daniel Compact": {
+				"url": "https://t.me/qadreen/11/40",
+				"notes": "الإصدار 4.1.16 مدمج بصوت طارق العربي و Daniel إنجليزي مضغوط"
+			},
+			"SmartVoice 4.1.16 Maged Leila Tariq and Allison Premium High": {
+				"url": "https://t.me/qadreen/11/41",
+				"notes": "الإصدار 4.1.16 مدمج بماجد Compact وليلى وطارق و Allison Premium High"
+			},
+			"SmartVoice 4.2.0 Tariq and Samantha Premium": {
+				"url": "https://t.me/qadreen/11/42",
+				"notes": "الإصدار 4.2.0 مدمج بأصوات طارق العربي و Samantha بريميوم"
+			},
+			"SmartVoice 4.1.16 Leila and Allison Premium High": {
+				"url": "https://t.me/qadreen/11/43",
+				"notes": "الإصدار 4.1.16 مدمج بليلى عربي و Allison إنجليزي"
+			},
+			"SmartVoice 4.1.13 Maged Leila and Samantha Compact": {
+				"url": "https://t.me/qadreen/11/65",
+				"notes": "الإصدار 4.1.13 مدمج بأصوات ماجد وليلى وسامانثا بحجم خفيف"
+			},
+			"SmartVoice 4.1.12 Maged Compact Leila and Samantha Premium High": {
+				"url": "https://t.me/qadreen/11/66",
+				"notes": "الإصدار 4.1.12 مدمج بماجد وليلى وسامانثا عالية الجودة"
+			},
+			"ETI Eloquence Android": {
+				"url": "https://t.me/qadreen/11/108",
+				"notes": "نسخة ETI Eloquence تعمل على جميع هواتف أندرويد الحديثة والقديمة"
 			}
 		},
 		"Internet browser apps": {
@@ -421,7 +877,57 @@
 			}
 		},
 		"Banking and Digital Wallets": {},
-		"برامج دينية وتعليمية": {}
+		"برامج دينية وتعليمية": {
+			"ذِكر الهدى": {
+				"url": "https://t.me/qadreen/11/122",
+				"notes": "التحديث الجديد لتطبيق ذِكر الهدى، نقلة نوعية في أداء التطبيق وحل لأبرز مشاكل المشغل الصوتي سابقاً"
+			}
+		},
+		"AI and Visual Recognition Tools": {
+			"Cash Reader Premium v2.32.1": {
+				"url": "https://t.me/qadreen/11/21",
+				"notes": "النسخة المدفوعة لقراءة والتعرف الفوري على العملات النقدية الورقية للمكفوفين"
+			}
+		},
+		"General": {
+			"Google Keyboard Modified 2.0 X64": {
+				"url": "https://t.me/qadreen/11/38",
+				"notes": "نسخة معدلة ومحسنة من لوحة مفاتيح جوجل"
+			},
+			"V Keyboard 3.0": {
+				"url": "https://t.me/qadreen/11/47",
+				"notes": "لوحة مفاتيح خفيفة وسريعة تدعم الإملاء الصوتي بدقة عالية"
+			},
+			"AppManager v4.0.5": {
+				"url": "https://t.me/qadreen/11/49",
+				"notes": "أداة لتثبيت التطبيقات وتجاوز الإعدادات المقيدة عبر انتحال مثبت متجر Play"
+			},
+			"APK Extractor Pro 14.5.0": {
+				"url": "https://t.me/qadreen/11/20",
+				"notes": "استخراج وتصدير حزم APK من التطبيقات المثبتة لمشاركتها"
+			},
+			"Shelter": {
+				"url": "https://t.me/qadreen/11/22",
+				"notes": "إنشاء مساحة عمل معزولة (Work Profile) ونسخ التطبيقات داخلها"
+			},
+			"Ad Skipper Premium 1.4.0": {
+				"url": "https://t.me/qadreen/11/44",
+				"notes": "تخطي الإعلانات تلقائياً في تطبيق YouTube"
+			},
+			"True Phone Premium v2.4.30": {
+				"url": "https://t.me/qadreen/11/24",
+				"notes": "تطبيق الاتصال وإدارة سجل المكالمات وجهات الاتصال المتوافق والمدفوع"
+			},
+			"SnapTube Premium 7.64.0": {
+				"url": "https://t.me/qadreen/11/45",
+				"notes": "تنزيل مقاطع الفيديو والملفات الصوتية من YouTube ومختلف المنصات"
+			},
+			"VidMate 5.3535": {
+				"url": "https://t.me/qadreen/11/46",
+				"notes": "تنزيل مقاطع الفيديو بجودات متعددة من المنصات المختلفة"
+			}
+		},
+		"Accessible Games": {}
 	},
 	"arabic Bookshare": {
 		"مكاتب ومؤلفين": {},
@@ -432,7 +938,6 @@
 	"حياة وثقافة الكفيف العربي": {},
 	"AI Age عصر الذكاء": {},
 	"آفاق الاستثمار ومخاطره": {},
-	"حقوق وخدمات المكفوفين": {},
 	"المعاملات المالية للكفيف": {},
 	"تعليم تدريب تأهيل المكفوفين": {
 		"مناهج دراسية": {},
@@ -440,12 +945,14 @@
 		"الدراسات التخصصية، والأبحاث العلمية": {}
 	},
 	"للكفيفات فقط": {},
-	"صنعة إيديا": {},
 	"سوق المكفوفين": {},
 	"IPhone arab blind": {
 		"Multimedia and Production Tools": {},
 		"Communication and messaging": {},
 		"Banking and Digital Wallets": {},
-		"Religious and Educational Software": {}
-	}
+		"Religious and Educational Software": {},
+		"AI and Visual Recognition Tools": {}
+	},
+	"حقوق وخدمات المكفوفين": {},
+	"صنعة إيديا": {}
 }
