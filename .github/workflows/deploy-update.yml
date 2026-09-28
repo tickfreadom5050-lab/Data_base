@@ -2,35 +2,39 @@ name: Auto Update Data and Version
 
 on:
   schedule:
-    - cron: '0 12 * * *'
+    - cron: '0 0 * * *'
   workflow_dispatch:
 
 jobs:
   update-files:
     runs-on: ubuntu-latest
-
     steps:
-      - name: Checkout My Repository
+      - name: Checkout Repository
         uses: actions/checkout@v4
         with:
           token: ${{ secrets.PAT_TOKEN }}
 
-      - name: Fetch Data JSON from Friend's Private Repo
+      - name: Fetch Latest Data from Peer Repository
         run: |
-          curl -H "Authorization: token ${{ secrets.PAT_TOKEN }}" \
-               -H "Accept: application/vnd.github.v3.raw" \
-               -s -o data.json \
-               https://api.github.com/repos/saedmohamedn2210-create/qadreen-data/contents/data.json
+          curl -sSL "https://raw.githubusercontent.com/saedmohamedn2210-create/qadreen-data/main/data.json" -o data.json
 
-      - name: Update Version Data
+      - name: Update Version Number
         run: |
-          CURRENT_VER=$(cat version_data.txt | tr -d '\r\n ')
-          NEW_VER=$((CURRENT_VER + 1))
-          echo "$NEW_VER" > version_data.txt
+          if [ -f Version_data_base.txt ]; then
+            CURRENT_VER=$(cat Version_data_base.txt | tr -d '\r\n')
+            if [[ "$CURRENT_VER" =~ ^[0-9]+$ ]]; then
+              NEW_VER=$((CURRENT_VER + 1))
+            else
+              NEW_VER=1
+            fi
+          else
+            NEW_VER=1
+          fi
+          echo "$NEW_VER" > Version_data_base.txt
 
-      - name: Commit and Push Changes to My Repo
+      - name: Commit and Push Changes
         run: |
-          git config --global user.name "github-actions[bot]"
-          git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          git add data.json version_data.txt
-          git diff --quiet && git diff --staged --quiet || (git commit -m "Auto update data.json from friend's repo and bump version_data.txt" && git push)
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add data.json Version_data_base.txt
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Auto update data.json and bump version" && git push)
