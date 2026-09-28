@@ -1,0 +1,36 @@
+name: Auto Update Data and Version
+
+on:
+  schedule:
+    - cron: '0 12 * * *'
+  workflow_dispatch:
+
+jobs:
+  update-files:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout My Repository
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.PAT_TOKEN }}
+
+      - name: Fetch Data JSON from Friend's Private Repo
+        run: |
+          curl -H "Authorization: token ${{ secrets.PAT_TOKEN }}" \
+               -H "Accept: application/vnd.github.v3.raw" \
+               -s -o data.json \
+               https://api.github.com/repos/saedmohamedn2210-create/qadreen-data/contents/data.json
+
+      - name: Update Version Data
+        run: |
+          CURRENT_VER=$(cat version_data.txt | tr -d '\r\n ')
+          NEW_VER=$((CURRENT_VER + 1))
+          echo "$NEW_VER" > version_data.txt
+
+      - name: Commit and Push Changes to My Repo
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add data.json version_data.txt
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Auto update data.json from friend's repo and bump version_data.txt" && git push)
