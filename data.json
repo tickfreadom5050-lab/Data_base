@@ -1,59 +1,15 @@
 {
 	"Arab blind technology": {
 		"Internet Browsers": {
-			"Google Chrome": {
-				"url": "https://tecwindow.net/en/google-chrome-64-bit/download/eyJjb250ZW50X2lkIjoxMTA0LCJpcCI6IiVwcm94eV9hZGRfeF9mb3J3YXJkZWRfZm9yJSJ9:1x3kMy:9B7ecW6tRl7lgZTgcL7oCuLSwX_qnW-sKcmKdy6toeM/",
+			"Brave (2) (2) (2)": {
+				"url": "https://github.com/brave/brave-browser/releases/latest/download/BraveBrowserStandaloneSetup.exe",
 				"url2": "",
-				"notes": "Architecture: 64-bit"
-			},
-			"Google Chrome.": {
-				"url": "https://tecwindow.net/en/google-chrome-32-bit/download/eyJjb250ZW50X2lkIjoxMTA1LCJpcCI6IiVwcm94eV9hZGRfeF9mb3J3YXJkZWRfZm9yJSJ9:1x3kMy:Vb--vfDfsZZ__MoDKDjEVc-qoDriR2m1lWy_cBD5cWA/",
-				"url2": "",
-				"notes": "Architecture: 32-bit"
-			},
-			"Firefox": {
-				"url": "https://tecwindow.net/en/firefox-x64/download/eyJjb250ZW50X2lkIjo0NTcsImlwIjoiJXByb3h5X2FkZF94X2ZvcndhcmRlZF9mb3IlIn0:1x3kMy:nIUpgh1wLS3m8DAapjZ9-V6boIxmeJ-J1QcWqxTd9UI/",
-				"url2": "",
-				"notes": "Architecture: 64-bit"
-			},
-			"Firefox.": {
-				"url": "https://tecwindow.net/en/firefox-x86/download/eyJjb250ZW50X2lkIjo0NTgsImlwIjoiJXByb3h5X2FkZF94X2ZvcndhcmRlZF9mb3IlIn0:1x3kMy:McUaycL-qG94CFc-3Ko_LTCTeYLWWv6DtuHi4_5W-x0/",
-				"url2": "",
-				"notes": "Architecture: 32-bit"
-			},
-			"Opera": {
-				"url": "https://tecwindow.net/en/opera/download/eyJjb250ZW50X2lkIjo0NjMsImlwIjoiJXByb3h5X2FkZF94X2ZvcndhcmRlZF9mb3IlIn0:1x4HQB:2kkpfOP5CteauQVRnrVZ0HUjNDW_VT2VatRDxNeXTAo/",
-				"url2": "",
-				"notes": "Architecture: 64-bit"
-			},
-			"Opera.": {
-				"url": "https://tecwindow.net/en/opera-x86/download/eyJjb250ZW50X2lkIjoxMDYxLCJpcCI6IiVwcm94eV9hZGRfeF9mb3J3YXJkZWRfZm9yJSJ9:1x4HQB:5_Wn8XdAn-xBuhSeAfgiwkCM4lsKVaFMniDooUaSt_4/",
-				"url2": "",
-				"notes": "Architecture: 32-bit"
-			},
-			"Microsoft Edge.": {
-				"url": "https://tecwindow.net/en/microsoft-edge-for-windows7881/download/eyJjb250ZW50X2lkIjo1NTIsImlwIjoiJXByb3h5X2FkZF94X2ZvcndhcmRlZF9mb3IlIn0:1x3kMy:r0Rb1xtGvMsu_kEkYX5lsLM6gStBSxFIogOc7S50Vl8/",
-				"url2": "",
-				"notes": "for Windows 7 to 8.1"
+				"notes": "Architecture: 64-bit, Language: English \t\"notes\": \"النسخة الكاملة المستقلة Offline Installer لمتصفح Brave لنواة 64 بت وتجلب أحدث إصدار مستقر من مستودع GitHub الرسمي وتعمل دون اتصال.\""
 			},
 			"Microsoft Edge,": {
 				"url": "https://apps.microsoft.com/detail/XPFFTQ037JWMHS?hl=en-US&gl=EG&ocid=pdpshare",
 				"url2": "",
 				"notes": "Microsoft Store"
-			},
-			"Microsoft Edge": {
-				"url": "https://tecwindow.net/en/microsoft-edge/download/eyJjb250ZW50X2lkIjo1NTEsImlwIjoiJXByb3h5X2FkZF94X2ZvcndhcmRlZF9mb3IlIn0:1x3kMy:5wyDoiD37IqohLwPsg9RFV4awqBSwXAkXDK-xN--txs/",
-				"url2": "",
-				"notes": "for Windows 10 and 11"
-			},
-			"Brave": {
-				"url": "https://tecwindow.net/en/brave-x64bit/download/eyJjb250ZW50X2lkIjoxMDQ4LCJpcCI6IiVwcm94eV9hZGRfeF9mb3J3YXJkZWRfZm9yJSJ9:1x3kMy:sJ2ZffyVcud7nMQUzSGDWWOLZlnAJagPp-YJ57-o0gk/",
-				"url2": "",
-				"notes": "Architecture: 64-bit, Language: English"
-			},
-			"Brave X86": {
-				"url": "https://tecwindow.net/en/brave-x86/download/eyJjb250ZW50X2lkIjoxMDQ5LCJpcCI6IiVwcm94eV9hZGRfeF9mb3J3YXJkZWRfZm9yJSJ9:1x3kMy:eNm7NTxVFqXhr5IsWLSQqBDwtVsfXSEdD1yiuAt1TSA/",
-				"notes": "Architecture: 32-bit, Language: English"
 			},
 			"Tor Browser Portable X64": {
 				"url": "https://dist.torproject.org/torbrowser/15.0.21/tor-browser-windows-x86_64-portable-15.0.21.exe",
@@ -115,53 +71,123 @@
 			"Floorp X64": {
 				"url": "https://github.com/Floorp-Projects/Floorp/releases/download/v12.17.2/floorp-windows-x86_64.installer.exe",
 				"notes": "Version: 12.17.2, Offline installer"
+			},
+			"Google Chrome": {
+				"url": "https://progs.online/Google_Chrome_152.0.7977.83x64.rar",
+				"url2": "https://dl.google.com/chrome/install/ChromeStandaloneSetup64.exe",
+				"notes": "Architecture: 64-bit version:152.0.7977.83"
+			},
+			"Google Chrome.": {
+				"url": "https://dl.google.com/chrome/install/ChromeStandaloneSetup.exe",
+				"url2": "",
+				"notes": "Architecture: 32-bit"
+			},
+			"Firefox Online Installer (Arabic": {
+				"url": "https://download.mozilla.org/?product=firefox-stub&os=win&lang=ar",
+				"url2": "",
+				"notes": "مثبت رسمي تلقائي (Online Stub Installer) بالواجهة العربية، يحدد معمارية النظام (32-bit أو 64-bit) تلقائياً ويثبت أحدث إصدار مستقر."
+			},
+			"Opera": {
+				"url": "https://get.geo.opera.com/pub/opera/desktop/135.0.5973.133/win/Opera_135.0.5973.133_Setup_x64.exe",
+				"url2": "ftp://ftp.opera.com/pub/opera/desktop/135.0.5973.133/win/Opera_135.0.5973.133_Setup_x64.exe",
+				"notes": "Architecture: 64-bit الرابط الثاني من خادم FTP.\""
+			},
+			"Opera.": {
+				"url": "https://get.geo.opera.com/pub/opera/desktop/135.0.5973.133/win/Opera_135.0.5973.133_Setup.exe",
+				"url2": "ftp://ftp.opera.com/pub/opera/desktop/135.0.5973.133/win/Opera_135.0.5973.133_Setup.exe",
+				"notes": "Architecture: 32-bit"
+			},
+			"Microsoft Edge.": {
+				"url": "https://tecwindow.net/en/windows/internet-browsers/microsoft-edge-for-windows7881/",
+				"url2": "",
+				"notes": "for Windows 7 to 8.1"
+			},
+			"Brave (2) (2) (2) (2)": {
+				"url": "https://github.com/brave/brave-browser/releases/latest/download/BraveBrowserStandaloneSetup.exe\",",
+				"url2": "",
+				"notes": "Architecture: 64-bit, Language: English \t\"notes\": \"النسخة الكاملة المستقلة Offline Installer لمتصفح Brave لنواة 64 بت وتجلب أحدث إصدار مستقر من مستودع GitHub الرسمي وتعمل دون اتصال.\""
+			},
+			"Brave X86": {
+				"url": "https://github.com/brave/brave-browser/releases/latest/download/BraveBrowserStandaloneSetup32.exe",
+				"url2": "",
+				"notes": "Architecture: 32-bit, Language: English تجلب أحدث إصدار مستقر من مستودع GitHub الرسمي وتعمل دون اتصال.\""
+			},
+			"Firefox Offline X64 English": {
+				"url": "https://download.mozilla.org/?product=firefox-latest-ssl&os=win64&lang=en-US",
+				"url2": "",
+				"notes": "النسخة الكاملة المستقلة Offline Installer لنواة 64 بت باللغة الإنجليزية وتثبت أحدث إصدار مستقر دون الحاجة للإنترنت أثناء التثبيت"
+			},
+			"Firefox Offline X86 English": {
+				"url": "https://download.mozilla.org/?product=firefox-latest-ssl&os=win&lang=en-US",
+				"url2": "",
+				"notes": "النسخة الكاملة المستقلة Offline Installer لنواة 32 بت باللغة الإنجليزية وتثبت أحدث إصدار مستقر دون الحاجة للإنترنت أثناء التثبيت"
 			}
 		},
 		"Communication and messaging": {
-			"unigram": {
-				"url": "https://tecwindow.net/en/unigram/download/eyJjb250ZW50X2lkIjoxOTIsImlwIjoiJXByb3h5X2FkZF94X2ZvcndhcmRlZF9mb3IlIn0:1x3f1X:c6TVG0POmBDE-vVXab33pA1l7fL7tDy5hfVVigsjjPA/",
-				"url2": "",
-				"notes": ""
+			"unigram (2)": {
+				"url": "https://github.com/UnigramDev/Unigram/releases/latest",
+				"url2": "https://apps.microsoft.com/detail/9n97zckpd60q",
+				"notes": "عميل تيليجرام السريع والمتوافق بالكامل مع قارئات الشاشة عبر متجر مايكروسوفت ومستودع GitHub الرسمي."
 			},
-			"whatsap": {
-				"url": "https://tecwindow.net/en/whatsapp-559/download/eyJjb250ZW50X2lkIjo1NTksImlwIjoiJXByb3h5X2FkZF94X2ZvcndhcmRlZF9mb3IlIn0:1x3f1X:JSGgQGF7TquO8cSvHSlpiRPu9ItgM2Bq6lxPZlAEpdw/",
-				"url2": "",
-				"notes": ""
+			"whatsap (2)": {
+				"url": "https://www.whatsapp.com/download",
+				"url2": "https://apps.microsoft.com/detail/9nksqgp7f2nh",
+				"notes": "التطبيق الرسمي المستقر لواتساب لسطح المكتب لنظام ويندوز 10 و 11."
+			},
+			"Telegram X64 (2)": {
+				"url": "https://telegram.org/dl/desktop/win64",
+				"url2": "https://github.com/telegramdesktop/tdesktop/releases/latest",
+				"notes": "النسخة الرسمية الكاملة لنواة 64 بت من خادم تيليجرام الدائم مع رابط المستودع المباشر لجلب أحدث إصدار مستقر."
+			},
+			"Zoom X64 (2)": {
+				"url": "https://zoom.us/client/latest/ZoomInstallerFull.exe?archType=x64",
+				"url2": "https://zoom.us/download",
+				"notes": "المثبت المستقل الكامل دون اتصال Offline Installer لنواة 64 بت من خادم Zoom الدائم."
+			},
+			"Clubdeck (2)": {
+				"url": "https://github.com/clubdeck/clubdeck.github.io/releases/download/release/Clubdeck.Setup.2.6.5.exe",
+				"url2": "https://www.clubdeck.app",
+				"notes": "برنامج تشغيل Clubhouse على الكمبيوتر للمكفوفين، رابط مباشر ودائم من مستودع المطور الرسمي على GitHub."
+			},
+			"TeamTalk (2)": {
+				"url": "https://bearware.dk/teamtalk/v5.22/TeamTalk_v5.22_Setup.exe",
+				"url2": "https://bearware.dk/teamtalk/",
+				"notes": "المثبت الرسمي المباشر لبرنامج المحادثات الصوتية TeamTalk من سيرفر BearWare المعتمد."
+			},
+			"TeamTalk Portable X64 (2)": {
+				"url": "https://bearware.dk/teamtalk/v5.22/TeamTalk_v5.22_Portable-win64.zip",
+				"url2": "https://github.com/BearWare/TeamTalk5",
+				"notes": "النسخة المحمولة الرسمية لنواة 64 بت تعمل دون الحاجة لتثبيت، مع رابط المستودع الرسمي."
+			},
+			"Discord X64 (2)": {
+				"url": "https://discord.com/download",
+				"url2": "https://discord.com/api/download?platform=win",
+				"notes": "رابط مباشر ودائم من واجهة برمجة التطبيقات الرسمية لـ Discord يوجه تلقائياً لتحميل أحدث مثبت لويندوز."
+			},
+			"Telegram Desktop Portable": {
+				"url": "https://telegram.org/dl/desktop/win64_portable",
+				"url2": "https://telegram.org/dl/desktop/linux",
+				"notes": "النسخة المحمولة الرسمية لنظام ويندوز 64 بت لا تحتاج لتثبيت، مع حزمة نظام لينكس الرسمية."
+			},
+			"Signal Desktop": {
+				"url": "https://updates.signal.org/desktop/signal-desktop-win-8.28.0.exe",
+				"url2": "https://signal.org/download/windows/",
+				"notes": "المثبت الرسمي المباشر لبرنامج المحادثة الآمن Signal لنظام ويندوز مع صفحة التنزيل المعتمدة."
+			},
+			"Element Matrix": {
+				"url": "https://packages.element.io/desktop/install/win32/x64/Element%20Setup%201.12.29.exe",
+				"url2": "https://element.io/download",
+				"notes": "عميل شبكة Matrix اللامركزية للمحادثات، رابط تثبيت مستقل كامل 64 بت من خادم الحزم المعتمد."
 			},
 			"WhatsApp Beta": {
 				"url": "https://tecwindow.net/en/whatsapp-beta/download/eyJjb250ZW50X2lkIjoxOTEsImlwIjoiJXByb3h5X2FkZF94X2ZvcndhcmRlZF9mb3IlIn0:1x3f1X:9K0QEHSSYmtpdlHYas2llHSPe3HxzQi9zaSPGmVTrNE/",
 				"url2": "",
 				"notes": ""
 			},
-			"Telegram X64": {
-				"url": "https://tecwindow.net/en/telegram-x64/download/eyJjb250ZW50X2lkIjoxMzQ5LCJpcCI6IiVwcm94eV9hZGRfeF9mb3J3YXJkZWRfZm9yJSJ9:1x3f1X:baDLXkJ5Ldnu6IdvkxuAzUQPylcWNS5UbiXtPw9GxKs/",
+			"WinZapp": {
+				"url": "https://github.com/gabrielhhaber/WinZapp_Python/releases",
 				"url2": "",
-				"notes": ""
-			},
-			"Zoom X64": {
-				"url": "https://tecwindow.net/en/zoom-x64/download/eyJjb250ZW50X2lkIjoxOTYsImlwIjoiJXByb3h5X2FkZF94X2ZvcndhcmRlZF9mb3IlIn0:1x3f1X:hI_DsQ6Hk7oi8C536Habe_vrGgcmO4h9d_Ilx0anQio/",
-				"url2": "",
-				"notes": ""
-			},
-			"Clubdeck": {
-				"url": "https://tecwindow.net/en/clubdeck/download/eyJjb250ZW50X2lkIjoxOTUsImlwIjoiJXByb3h5X2FkZF94X2ZvcndhcmRlZF9mb3IlIn0:1x3f1X:OynfDWj953w5OzP9nI2JgiSUTWscPuio9Hp2tzJos6A/",
-				"url2": "",
-				"notes": "برنامج لتشغيل كلوب هاوس."
-			},
-			"TeamTalk": {
-				"url": "https://tecwindow.net/en/teamtalk/download/eyJjb250ZW50X2lkIjoyMDAsImlwIjoiJXByb3h5X2FkZF94X2ZvcndhcmRlZF9mb3IlIn0:1x3f1X:PPgry3iZafXj5RnA8pR3tQAhPGT2ryvXOAWAojZCPmY/",
-				"url2": "",
-				"notes": "بأنظمة التشغيل 64"
-			},
-			"TeamTalk Portable X64": {
-				"url": "https://tecwindow.net/en/teamtalk-portable-x64/download/eyJjb250ZW50X2lkIjo5NDYsImlwIjoiJXByb3h5X2FkZF94X2ZvcndhcmRlZF9mb3IlIn0:1x3f1X:6MYwm_zFABpV791uIF9UUMUy0Y0j7GmUCIg9pdh5Wqo/",
-				"url2": "",
-				"notes": "نسخة محمولة"
-			},
-			"Discord X64": {
-				"url": "https://tecwindow.net/en/discord-x64/download/eyJjb250ZW50X2lkIjoxOTMsImlwIjoiJXByb3h5X2FkZF94X2ZvcndhcmRlZF9mb3IlIn0:1x3f1X:wwsQDsBUnc2VJ7fe1ZJWLLby7vZOCRBPXurAq-rLNr0/",
-				"url2": "",
-				"notes": ""
+				"notes": "برنامج whatsapp بديل whatsapp  desktop القديم مناسب للمكفوفين . ملحوظة: التطبيق غير رسمي"
 			}
 		},
 		"Screen Readers": {
@@ -184,6 +210,11 @@
 			"jaws18 مصطفى البحاري": {
 				"url": "https://drive.google.com/file/d/1ZqJO70CbWdUnPGNdfibN2aOTm1FxPhYs/view?usp=drivesdk",
 				"notes": "نسخة كاملة بالإنفوفوكس تثبيت صامت"
+			},
+			"jaws 2026 auto installer": {
+				"url": "https://t.me/qadreen/9/147",
+				"url2": "",
+				"notes": "جوز 2026 مع التفعيل تثبيت صامت"
 			}
 		},
 		"Operating systems": {
@@ -252,9 +283,19 @@
 				"url": "https://f4.144server.xyz/WIN11Aio16in125H2262009168.iso",
 				"url2": "",
 				"notes": "Description: Last version of Windows 11 - 24.Aug.2026 (No TPM Required) Multilingual"
+			},
+			"Windows 11 Light Multi-Language Edition": {
+				"url": "https://www.mediafire.com/file/g4m07z1wjr26znp/Light_Multi.lang.Windows11-26H1_28000.2179_ACTIV-NO+MIC.ACCU_NO+TPM_JUNI2026.iso/file",
+				"url2": "",
+				"notes": "صورة أسطوانة ISO معدلة ومخففة من نظام ويندوز 11 تدعم تعدد اللغات ومجهزة للأجهزة القديمة والضعيفة بتجاوز متطلبات TPM والحساب الإجباري"
 			}
 		},
 		"Synthesizers آلات النطق": {
+			"Panthera Speech SAPI": {
+				"url": "https://github.com/tgeczy/panthera-speech/releases/download/pantheraspeech%2Fv1.5.0/panthera-sapi-1.5.0-setup.exe",
+				"url2": "https://seedy.cc/speech/",
+				"notes": "Version: 1.5.0, Architecture: 32 & 64 bit, مشغل SAPI 5 لتشغيل أصوات MacinTalk الأصلية من Apple (مثل Alex وBruce وVictoria) على Windows مع برامج قراءة الشاشة كـ JAWS وNVDA، يتطلب تحميل حزم بيانات الأصوات يمكنك تحميل الأصوات الخاصة به من الرابط المرفق"
+			},
 			"NB_Infovox3": {
 				"url": "https://tecwindow.net/en/nb_infovox3/download/eyJjb250ZW50X2lkIjoxMTMxLCJpcCI6IiVwcm94eV9hZGRfeF9mb3J3YXJkZWRfZm9yJSJ9:1x2Xq2:UuRkCwKlKcekeeNUWzAZgc1hpVShHoht73vWxsQMslw/",
 				"notes": "بواسطة ناصر بوعزيز لنسخ 2026 فما فوق"
@@ -290,6 +331,21 @@
 			"Eloquence for nvda": {
 				"url": "https://tecwindow.net/en/eloquence-for-nvda/download/eyJjb250ZW50X2lkIjoxMDQzLCJpcCI6IiVwcm94eV9hZGRfeF9mb3J3YXJkZWRfZm9yJSJ9:1x2Xpu:uDtjMZm8qX2BxoP_VysRoylId71Mm8a7H5VvuanJCcI/",
 				"notes": ""
+			},
+			"Panthera Speech SAPI\": {": {
+				"url": "https://github.com/tgeczy/panthera-speech/releases/download/pantheraspeech%2Fv1.5.0/panthera-sapi-1.5.0-setup.exe\",",
+				"url2": "https://seedy.cc/speech/)\"",
+				"notes": "Version: 1.5.0, Architecture: 32 & 64 bit, مشغل SAPI 5 لتشغيل أصوات MacinTalk الأصلية من Apple (مثل Alex وBruce وVictoria) على Windows مع برامج قراءة الشاشة كـ JAWS وNVDA، يتطلب تحميل حزم بيانات الأصوات  يمكنك تحميل الاصوات الخاصة به من الرابط المرفق"
+			},
+			"Panthera Speech NVDA Add-on\": {": {
+				"url": "https://github.com/tgeczy/panthera-speech/releases/download/pantheraspeech%2Fv1.5.0/pantheraspeech-1.5.0.nvda-addon",
+				"url2": "",
+				"notes": "Version: 1.5.0, إضافة لقارئ الشاشة NVDA لتشغيل أصوات Apple MacinTalk بدقة وسرعة استجابة عالية مع دعم ميزة تسريع النطق Rate boost وصوت Alex من macOS Sequoia\""
+			},
+			"ClaritySynth\": {": {
+				"url": "https://github.com/riadassoum/ClaritySynth/releases/download/v3.0/claritySynth-3.0.nvda-addon",
+				"url2": "",
+				"notes": "Version: 3.0, إضافة سينثسيزر لقارئ الشاشة NVDA، تجمع بين محرك الأصوات العصبية ومحرك MBROLA الداعم لأصوات (سعيدة، نوفل، زهير) ومحرك فورمانتي، مع مضاعفة سرعة المعالجة العصبية ومعايرة الأداء آلياً مع المعالج وتشكيل فوري للكلمات المفردة"
 			}
 		},
 		"Protection and security programs": {
@@ -312,102 +368,130 @@
 			"360 Total Security Premium Antivirus": {
 				"url": "https://dimm.arfiles.net/360_Total_Security_11.0.0.1313.rar",
 				"notes": "Version: 11.0.0.1313, Architecture: 32 & 64 bit, Size: 1.0 MB, 360 Total Security Premium for Windows is a comprehensive cybersecurity and system optimization suite developed by Qihoo 360"
+			},
+			"Defender Stop Tool": {
+				"url": "https://drive.google.com/file/d/1PbWWqgKDBDorh525uecKaGZD21FGSoCeR/view?usp=drivesdk",
+				"url2": "",
+				"notes": "أداة إيقاف Windows دي فندر ‏الرقم السري لفك ‏ ‏ضغط  ملف ١٢٣٤"
 			}
 		},
 		"Download and Upload Tools": {
-			"Dropbox": {
-				"url": "https://tecwindow.net/en/dropbox/download/eyJjb250ZW50X2lkIjo1MiwiaXAiOiIlcHJveHlfYWRkX3hfZm9yd2FyZGVkX2ZvciUifQ:1x3jg4:NssKamktRXho1YtCjLZTl6u8285Py-B0sJPMPHdIZf4/",
-				"notes": "Online"
+			"Dropbox Offline Installer (2) (2) (2)": {
+				"url": "https://www.dropbox.com/download?full=1&plat=win",
+				"url2": "https://www.dropbox.com/install",
+				"notes": "المثبت المستقل الكامل دون اتصال أوفلاين لنظام ويندوز بحجم كامل عبر خوادم التوزيع السحابي الرسمية لـ Dropbox."
 			},
-			"Dropbox Offline Installer": {
-				"url": "https://tecwindow.net/en/dropbox-offline-installer-x64/download/eyJjb250ZW50X2lkIjoxMDYwLCJpcCI6IiVwcm94eV9hZGRfeF9mb3J3YXJkZWRfZm9yJSJ9:1x4HOi:uc8uyRkPvKu76T3K2O5GUoq1gQS-GX2PkP-2OjnZkU4/",
-				"url2": "",
-				"notes": "Offline 64-bit"
+			"One Drive (2) (2) (2)": {
+				"url": "https://go.microsoft.com/fwlink/p/?LinkId=2182910",
+				"url2": "https://www.microsoft.com/en-us/microsoft-365/onedrive/download",
+				"notes": "رابط التحويل المباشر الدائم من شركة مايكروسوفت لتنزيل أحدث مثبت لـ OneDrive لنواة 64 بت."
 			},
-			"Google Drive Drive File Stream": {
-				"url": "https://tecwindow.net/en/google-drive-drive-file-stream-1110/download/eyJjb250ZW50X2lkIjoxMTEwLCJpcCI6IiVwcm94eV9hZGRfeF9mb3J3YXJkZWRfZm9yJSJ9:1x3jfr:Bza6k8dkNfjtI4rgLJo4_6wnbCPG_zW6OL9apw1OBhM/",
-				"notes": ""
+			"MEGA Desktop App": {
+				"url": "https://mega.nz/MEGAsyncSetup64.exe",
+				"url2": "https://mega.io/desktop",
+				"notes": "المثبت الرسمي المباشر لتطبيق التخزين السحابي والمزامنة MEGAsync X64"
 			},
-			"One Drive": {
-				"url": "https://tecwindow.net/en/one-drive/download/eyJjb250ZW50X2lkIjo1NCwiaXAiOiIlcHJveHlfYWRkX3hfZm9yd2FyZGVkX2ZvciUifQ:1x3jfr:Bi8Ziams13A2bDJmhnsahWP7ZgZVa0JmV8WD1D7Mdc8/",
-				"notes": ""
-			},
-			"Mega X64": {
-				"url": "https://tecwindow.net/en/mega-x64/download/eyJjb250ZW50X2lkIjo1NSwiaXAiOiIlcHJveHlfYWRkX3hfZm9yd2FyZGVkX2ZvciUifQ:1x3jfr:cafkrthmYt_Rw3zeguuOSyGSBz2cKnExvapxCIB0xMw/",
-				"notes": "Upload Mega 64-bit"
-			},
-			"Mega X86": {
-				"url": "https://tecwindow.net/en/mega-x86/download/eyJjb250ZW50X2lkIjo1NiwiaXAiOiIlcHJveHlfYWRkX3hfZm9yd2FyZGVkX2ZvciUifQ:1x3jfr:PATZlVpGS7QGTmm6wN5BV45ao0eXGevZxynENZkuSkg/",
+			"Mega X86 (2) (2) (2)": {
+				"url": "https://mega.nz/MEGAsyncSetup32.exe",
+				"url2": "https://mega.io/desktop",
 				"notes": "Upload Mega 32-bit"
 			},
-			"pCloud": {
-				"url": "https://tecwindow.net/en/pcloud/download/eyJjb250ZW50X2lkIjo1NywiaXAiOiIlcHJveHlfYWRkX3hfZm9yd2FyZGVkX2ZvciUifQ:1x3jfr:rJucjkQ0Jpfo5V7_lgiWbBj6OdHgOQQza73Gm_IBEC0/",
-				"notes": "64-bit"
+			"pCloud (2) (2) (2)": {
+				"url": "https://partner.pcloud.com/dl/win64",
+				"url2": "https://www.pcloud.com/download-free-online-cloud-file-storage.html",
+				"notes": "رابط التنزيل المباشر المستقر لمثبت تطبيق التخزين السحابي pCloud لنواة 64-bit"
 			},
-			"WinSCP": {
-				"url": "https://tecwindow.net/en/winscp/download/eyJjb250ZW50X2lkIjo1OCwiaXAiOiIlcHJveHlfYWRkX3hfZm9yd2FyZGVkX2ZvciUifQ:1x3jfr:fksRJPubjnNk5pUwSutOL1i7LyFdhKj58tHa1QR1wbs/",
+			"WinSCP (2) (2) (2)": {
+				"url": "https://downloads.sourceforge.net/project/winscp/WinSCP/6.3.5/WinSCP-6.3.5-Setup.exe",
+				"url2": "https://winscp.net/eng/download.php",
 				"notes": "Open-source SFTP and FTP client"
 			},
-			"FileZilla Client X64": {
-				"url": "https://tecwindow.net/en/filezilla-client-x64/download/eyJjb250ZW50X2lkIjo1OSwiaXAiOiIlcHJveHlfYWRkX3hfZm9yd2FyZGVkX2ZvciUifQ:1x3jfr:tUHi29kdfqGu4yqqCjkCBdP2feG5et3vXmgt_yrzecU/",
-				"notes": "64-bit"
+			"FileZilla Client X64 (2) (2) (2)": {
+				"url": "https://downloads.sourceforge.net/project/filezilla/FileZilla_3.69.3_win64-setup.exe",
+				"url2": "https://filezilla-project.org/download.php?show_all=1",
+				"notes": "النسخة النظيفة الرسمية الخالية من العروض الترويجية لعميل بروتوكول FTP لنواة 64 بت."
 			},
-			"Internet Download Manager IDM": {
-				"url": "https://tecwindow.net/en/internet-download-manager-idm/download/eyJjb250ZW50X2lkIjo2MSwiaXAiOiIlcHJveHlfYWRkX3hfZm9yd2FyZGVkX2ZvciUifQ:1x3jxM:xGy93TNCSVmEJtgRyp4SD3QmdntZcgTFxOWtOh9nz_g/",
-				"notes": "Version: 6.43, Password: 1234"
+			"Free Download Manager (2) (2) (2)": {
+				"url": "https://dn3.freedownloadmanager.org/6/latest/fdm_x64_setup.exe",
+				"url2": "https://www.freedownloadmanager.org/download.htm",
+				"notes": "المثبت المباشر الدائم لأحدث إصدار مستقر من مدير التنزيلات FDM لنواة 64 بت."
+			},
+			"TCA Media Downloader (2) (2) (2)": {
+				"url": "https://blindhelp.net/software/tca-media-downloader",
+				"url2": "https://github.com/peterreina",
+				"notes": "Multi-site downloader, Password: tecnoconocimientoaccesible"
+			},
+			"Renova Music (2) (2) (2)": {
+				"url": "https://www.renovagames.com/renovamusic.php",
+				"url2": "http://positivevibrations.pt/rm/",
+				"notes": "Music player and downloader"
+			},
+			"qBittorrent X86": {
+				"url": "https://downloads.sourceforge.net/project/qbittorrent/qbittorrent-win32/qbittorrent-4.4.5/qbittorrent_4.4.5_setup.exe",
+				"url2": "https://www.qbittorrent.org/download",
+				"notes": "P2P file sharing and downloading"
+			},
+			"qBittorrent (2) (2) (2)": {
+				"url": "https://github.com/qbittorrent/qBittorrent/releases/download/release-5.2.3/qbittorrent_5.2.3_x64_setup.exe",
+				"url2": "https://github.com/qbittorrent/qBittorrent/releases/latest",
+				"notes": "المثبت الرسمي المباشر لبرنامج التورنت مفتوح المصدر qBittorrent لنواة  64-bitمع صفحة الإصدار الأحدث."
+			},
+			"iCloud for Windows": {
+				"url": "https://apps.microsoft.com/detail/9pkv0c69740h",
+				"url2": "https://support.apple.com/HT204283",
+				"notes": "خدمة التخزين السحابي ومزامنة الملفات والصور وبيانات السحابة مع أجهزة Apple. Architecture: 64Bit."
+			},
+			"Quick Share (2) (2) (2)": {
+				"url": "https://dl.google.com/tag/s/appguid%3D%7B232066FE-FF4D-4C25-83B4-3F8747CF7E3A%7D%26iid%3D%7B969936CE-6E98-FB0A-7736-B725E9B4F15F%7D%26lang%3Den%26browser%3D4%26usagestats%3D0%26appname%3DNearby%2520Better%2520Together%26needsadmin%3Dtrue/better_together/QuickShareSetup.exe",
+				"url2": "https://www.android.com/better-together/quick-share-app/",
+				"notes": "مشاركة الملفات لاسلكياً بين أجهزة Android القريبة وأجهزة Windows. Architecture: X64 64 Bit. OS: Windows 10/11."
+			},
+			"Google Drive (2) (2) (2)": {
+				"url": "https://dl.google.com/drive-file-stream/GoogleDriveSetup.exe",
+				"url2": "https://www.google.com/drive/download/",
+				"notes": "العميل المكتبي الرسمي لمزامنة وتخزين ملفات Google Drive والتكامل مع مستكشف الملفات"
+			},
+			"WinSCP Portable": {
+				"url": "https://downloads.sourceforge.net/project/winscp/WinSCP/6.3.5/WinSCP-6.3.5-Portable.zip",
+				"url2": "https://winscp.net/eng/download.php",
+				"notes": "النسخة المحمولة المستقلة من برنامج WinSCP تعمل مباشرة دون الحاجة لتثبيت."
+			},
+			"Free Download Manager X86": {
+				"url": "https://dn3.freedownloadmanager.org/6/latest/fdm_x86_setup.exe",
+				"url2": "https://www.freedownloadmanager.org/download.htm",
+				"notes": "المثبت المباشر الدائم لمدير التنزيلات FDM للأجهزة العاملة بنواة 32 بت."
 			},
 			"Internet Download Manager Silent Install": {
 				"url": "https://tecwindow.net/en/internett-download-manager-silent-install/download/eyJjb250ZW50X2lkIjoxMjA3LCJpcCI6IiVwcm94eV9hZGRfeF9mb3J3YXJkZWRfZm9yJSJ9:1x3jxM:wZizaU1wQFYThX-ZAgnEBGBsHd9oC2JSL0ZOsQSdv3k/",
 				"notes": "Version: 6.42, Silent Install"
 			},
-			"Free Download Manager": {
-				"url": "https://tecwindow.net/en/free-download-manager/download/eyJjb250ZW50X2lkIjo2MywiaXAiOiIlcHJveHlfYWRkX3hfZm9yd2FyZGVkX2ZvciUifQ:1x3jxM:dGegqDAzKBYidesSc4nVi4QjH3VMOvqZFdfhdhAOwVQ/",
-				"notes": "Version: 3.9.7, Free"
-			},
-			"TCA Media Downloader": {
-				"url": "https://tecwindow.net/en/tca-media-downloader/download/eyJjb250ZW50X2lkIjo2NywiaXAiOiIlcHJveHlfYWRkX3hfZm9yd2FyZGVkX2ZvciUifQ:1x3jxM:lPgIloErHDTtr8hKQVXJfMhY0xvIbdlpEsHsFuq2SKI/",
-				"notes": "Multi-site downloader, Password: tecnoconocimientoaccesible"
-			},
 			"4K Video Downloader X64": {
 				"url": "https://tecwindow.net/en/4k-video-downloader-x64/download/eyJjb250ZW50X2lkIjoxMTkyLCJpcCI6IiVwcm94eV9hZGRfeF9mb3J3YXJkZWRfZm9yJSJ9:1x3jxM:1mPCmSSd0f7r_8uwz-rZh7XBYUdYZCi20fwAg3oJZvM/",
 				"notes": "Version: 4.33.5.0172, 64-bit"
 			},
-			"Accessible YouTube Downloader Pro": {
-				"url": "https://tecwindow.net/en/accessible-youtube-downloader-pro/download/eyJjb250ZW50X2lkIjo3NDgsImlwIjoiJXByb3h5X2FkZF94X2ZvcndhcmRlZF9mb3IlIn0:1x3jxM:HidKfAILGX_0PbaRPvS-k0lznvQq96dsbKcri8_sNgg/",
-				"notes": "Version: 2.0"
-			},
-			"Renova Music": {
-				"url": "https://tecwindow.net/en/renova-music/download/eyJjb250ZW50X2lkIjo5NTEsImlwIjoiJXByb3h5X2FkZF94X2ZvcndhcmRlZF9mb3IlIn0:1x3jxM:h6zTMHcj1SDOb97OPJtS5BGJ1cLLDd_CZc9lJ6cDJ0o/",
-				"notes": "Music player and downloader"
-			},
 			"Renova Music Portable": {
 				"url": "https://tecwindow.net/en/renova-music-portable/download/eyJjb250ZW50X2lkIjo5NTIsImlwIjoiJXByb3h5X2FkZF94X2ZvcndhcmRlZF9mb3IlIn0:1x3jxM:uruUSSEyjEjC1HmnLvpqrLdt4ya9tgcpMHkusPoW6Vw/",
 				"notes": "Portable version"
-			},
-			"qBittorrent": {
-				"url": "https://tecwindow.net/en/qbittorrent/download/eyJjb250ZW50X2lkIjoxMDkzLCJpcCI6IiVwcm94eV9hZGRfeF9mb3J3YXJkZWRfZm9yJSJ9:1x3jxM:GQ5lK_vdBXgSQQvDIAlSF20coAZYD62voG1uWbe9kFg/",
-				"notes": "P2P file sharing and downloading"
-			},
-			"qBittorrent X64": {
-				"url": "https://tecwindow.net/en/qbittorrent-x64/download/eyJjb250ZW50X2lkIjoxMDk0LCJpcCI6IiVwcm94eV9hZGRfeF9mb3J3YXJkZWRfZm9yJSJ9:1x3jxM:5B9htawgnQ-owrUu8EJykxlSwCXm9kp3bz3rhn-2yoc/",
-				"notes": "64-bit"
 			},
 			"Dropbox Offline Installer X86": {
 				"url": "https://tecwindow.net/en/dropbox-offline-installer-x86/download/eyJjb250ZW50X2lkIjoxMjg5LCJpcCI6IiVwcm94eV9hZGRfeF9mb3J3YXJkZWRfZm9yJSJ9:1x4HOi:XcuPfbDa5kZUaVexg0fBYPZKyOdeTU7Nhdml5LTCq5E/",
 				"url2": "",
 				"notes": ""
 			},
-			"iCloud X64": {
-				"url": "https://tecwindow.net/en/icloud/download/eyJjb250ZW50X2lkIjoxMTU1LCJpcCI6IiVwcm94eV9hZGRfeF9mb3J3YXJkZWRfZm9yJSJ9:1x4AGz:jJvPaHzNA1kfvkuA7WYUuVImA8ewpanJYAIEFuWNQCo/",
-				"notes": "خدمة التخزين السحابي ومزامنة الملفات والصور وبيانات السحابة مع أجهزة Apple. Architecture: 64Bit."
+			"Internet Download Manager IDM": {
+				"url": "https://t.me/qadreen/9/199",
+				"url2": "",
+				"notes": "Version: 6.43, معه أدوات التفعيل المختلفة الخاصة به"
 			},
-			"Quick Share": {
-				"url": "https://tecwindow.net/en/quick-share/download/eyJjb250ZW50X2lkIjoxMDI4LCJpcCI6IiVwcm94eV9hZGRfeF9mb3J3YXJkZWRfZm9yJSJ9:1x4Agv:Jha5CFmntiragk_JdK3f0B3gBEST_ZbSuTlrNXvQMU0/",
-				"notes": "مشاركة الملفات لاسلكياً بين أجهزة Android القريبة وأجهزة Windows. Architecture: X64 64 Bit. OS: Windows 10/11."
+			"Accessible YouTube Downloader Pro": {
+				"url": "https://github.com/sulaiman-alqusaimi/accessible_youtube_downloader_pro/releases/download/v2.1/accessible_youtube_downloader_pro_2.1.exe\",",
+				"url2": "",
+				"notes": "Version: 2.0"
 			},
-			"Google Drive": {
-				"url": "https://tecwindow.net/en/google-drive-drive-file-stream/download/eyJjb250ZW50X2lkIjo1MywiaXAiOiIlcHJveHlfYWRkX3hfZm9yd2FyZGVkX2ZvciUifQ:1x4AcC:RDf0G6DneDrSa6r2iUsdAryRjVRm2MXY_CPCsDy9yfs/",
-				"notes": "العميل المكتبي الرسمي لمزامنة وتخزين ملفات Google Drive والتكامل مع مستكشف الملفات"
+			"YouTube Downloader Pro v9.5.8 Silent Install": {
+				"url": "https://www.mediafire.com/file/emp1gslpklx5inx/YouTube+Downloader+Pro+9.5.8+Silent+Install.7z/file",
+				"url2": "",
+				"notes": "نسخة تثبيت صامت من برنامج YouTube Downloader Pro لتنزيل مقاطع الفيديو وتحويل المسارات الصوتية من يوتيوب ومواقع الوسائط المتعددة بجودات مختلفة بنقرة واحدة"
 			}
 		},
 		"Multimedia and Production Tools": {
@@ -459,10 +543,6 @@
 				"url": "https://tecwindow.net/en/ffmpeg-64-bit/download/eyJjb250ZW50X2lkIjoxMTM1LCJpcCI6IiVwcm94eV9hZGRfeF9mb3J3YXJkZWRfZm9yJSJ9:1x4N6a:1RodAtKETaoiVfUGsEkqUpxDp0Wql3RVYz1v9-2Ln1w/",
 				"notes": "Version: 6.1, Architecture: 64Bit, Language: English, Free and open-source tools for handling multimedia data, video/audio editing, format conversion, and streaming"
 			},
-			"AccsiCapture": {
-				"url": "https://tecwindow.net/en/accsicapture/download/eyJjb250ZW50X2lkIjoxMzc0LCJpcCI6IiVwcm94eV9hZGRfeF9mb3J3YXJkZWRfZm9yJSJ9:1x4N96:R0zbmnhO7s1nQKWkI-gT-mCCQoF2_a53uEMDUag9dko/",
-				"notes": "Version: 2.0.4.19, Architecture: 64Bit, OS: Windows 11, Accessible screen capture, 4K video recording, multi-track audio routing, with 100% screen reader accessibility"
-			},
 			"FastStone Capture": {
 				"url": "https://tecwindow.net/en/faststone-capture/download/eyJjb250ZW50X2lkIjo5MzAsImlwIjoiJXByb3h5X2FkZF94X2ZvcndhcmRlZF9mb3IlIn0:1x4N96:sC4Vfvww1vc66efO9JbQtIDy99Jp6yqMMzb3c2NPIss/",
 				"notes": "Version: 10.0, Architecture: 32 and 64 bit, OS: Windows, Screen capture tool and screen video recorder"
@@ -483,9 +563,49 @@
 				"url": "https://progs.online/Apowersoft_Screen_Recorder_Pro_2.4.1.12.rar",
 				"url2": "",
 				"notes": "Version: Pro 2.4.1.12, Architecture: 32 & 64 bit, Size: 28.5 MB, Apowersoft Screen Recorder is a straightforward, easy-to-use software application for Windows that lets you capture your computer screen, webcam, and audio"
+			},
+			"Mixkit Free Sound Effects": {
+				"url": "https://mixkit.co/free-sound-effects",
+				"url2": "",
+				"notes": "مكتبة مجانية لتحميل آلاف المؤثرات الصوتية وعينات الصوت للمونتاج بدون حقوق ملكية بصيغ MP3 وWAV"
+			},
+			"Freesound Audio Library": {
+				"url": "https://freesound.org",
+				"url2": "",
+				"notes": "قاعدة بيانات تعاونية ومكتبة عالمية مفتوحة لتنزيل العينات والتسجيلات والمؤثرات الصوتية برخص المشاع الإبداعي"
+			},
+			"Vocal Remover and Isolation": {
+				"url": "http://vocalremover.org",
+				"url2": "",
+				"notes": "أداة ويب تعتمد على خوارزميات الذكاء الاصطناعي لفصل الصوت البشري عن الموسيقى وعزل مسارات الآلات الصوتية أونلاين"
+			},
+			"Videvo Free Stock Video": {
+				"url": "https://www.videvo.net/",
+				"url2": "",
+				"notes": "منصة لتحميل مقاطع الفيديو والمؤثرات البصرية والخلفيات المتحركة المجانية لاستخدامها في مشاريع المونتاج والتصميم"
+			},
+			"AccsiCapture (2) (2)": {
+				"url": "https://accsify.com/ar/software/download?download=true&file_index=1&software=accp&version=2.0.4.19",
+				"url2": "",
+				"notes": "Version: 2.0.4.19, Architecture: 64Bit, OS: Windows 11, Accessible screen capture, 4K video recording, multi-track audio routing, with 100% screen reader accessibility"
+			},
+			"Quill Radio v2.1.2": {
+				"url": "https://github.com/Bibeksharma5/Quill-Radio/releases/latest",
+				"url2": "https://github.com/Bibeksharma5/Quill-Radio/releases/download/v2.1.2/Quill-Radio-Portable-2.1.2.zip",
+				"notes": "برنامج لتشغيل آلاف محطات راديو الإنترنت العالمية وتسجيل البث الإذاعي المباشر، متوافق بالكامل مع قارئات الشاشة ويدعم النسخ المحمولة والمثبتة"
+			},
+			"Radio App Aswat Alweb": {
+				"url": "https://aswatalweb.com/radio/radio_app.exe",
+				"url2": "https://aswatalweb.com/",
+				"notes": "تطبيق مكتبي مخصص للاستماع إلى إذاعات ومحطات راديو الإنترنت العربية والعالمية عبر واجهة تشغيل خفيفة ومباشرة لنظام ويندوز"
 			}
 		},
 		"General": {
+			"Android Studio": {
+				"url": "https://ins5.arfiles.net/Android%20Studio%202025.2.2.8%20x64.rar",
+				"url2": "",
+				"notes": "Version: v2025.2.2.8 (Installer), Architecture: 64Bit, Size: 1.4 GB, IDE to develop android application that contains many features added by Google to the emulator, testing and dealing with graphics"
+			},
 			"Google for Desktop": {
 				"url": "https://tecwindow.net/en/google-for-desktop/download/eyJjb250ZW50X2lkIjoxMzE2LCJpcCI6IiVwcm94eV9hZGRfeF9mb3J3YXJkZWRfZm9yJSJ9:1x4AjD:aBzT_zZOUM5jUSnzw7tMZw1wWdDy6EEnna1ZjZTLsxQ/",
 				"notes": "تطبيق سطح المكتب للبحث وتوليد الإجابات المعتمدة على نماذج الذكاء الاصطناعي، ومشاركة الشاشة والوصول للملفات. Architecture: 64-Bit. OS: Windows 11."
@@ -502,68 +622,68 @@
 				"url": "https://tecwindow.net/en/itunes-64-bit/download/eyJjb250ZW50X2lkIjoxMTUzLCJpcCI6IiVwcm94eV9hZGRfeF9mb3J3YXJkZWRfZm9yJSJ9:1x4AGz:OeRnDDE8vfqahH42_blnx4iJbuCLR00tHqauU4ucoYo/",
 				"notes": "إدارة أجهزة Apple، النسخ الاحتياطي والمزامنة، ومشغل وسائط. Architecture: 64Bit."
 			},
-			"Android Studio\": {": {
-				"url": "https://ins5.arfiles.net/Android%20Studio%202025.2.2.8%20x64.rar\",",
+			"Arab Blind Academy\": {": {
+				"url": "https://github.com/riadassoum/Aba/releases/download/v2.0/ArabBlindAcademy-V2.0.zip",
 				"url2": "",
-				"notes": "Version: v2025.2.2.8 (Installer), Architecture: 64Bit, Size: 1.4 GB, IDE to develop android application that contains many features added by Google to the emulator, testing and dealing with graphics"
+				"notes": "Version: 2.0, OS: Windows, بيئة تعليمية وترفيهية مستقلة ومفتوحة المصدر للمكفوفين، تضم المعلم الذكي، تعليم اختصارات برايل العربي، مسار بايثون متكامل ومختبر برمجي، علوم وإسلاميات وأدوات ناطقة وألعاب صوتية، متوافقة كلياً مع قارئات الشاشة\""
+			},
+			"Balabolka Portable": {
+				"url": "https://www.cross-plus-a.com/balabolka_portable.zip",
+				"url2": "",
+				"notes": "النسخة المحمولة الرسمية لبرنامج Balabolka لقراءة النصوص وتحويلها إلى ملفات صوتية باستخدام آلات نطق SAPI دون الحاجة للتثبيت.\""
+			},
+			"TTSMP3 Text to Speech": {
+				"url": "http://ttsmp3.net",
+				"url2": "https://ttsmp3.com",
+				"notes": "أداة ويب لتحويل النصوص المكتوبة إلى كلام منطوق وتنزيله كملف صوتي MP3 باستخدام محركات نطق متعددة اللغات"
+			},
+			"Piktochart Infographics Designer": {
+				"url": "https://piktochart.com/templates/infographics/",
+				"url2": "",
+				"notes": "منصة سحابية لتصميم قوالب الإنفوجرافيك والتقارير المرئية والملصقات أونلاين وتصديرها كملفات رقمية مع دعم العربية"
+			},
+			"Wireless Network Watcher x64": {
+				"url": "https://www.nirsoft.net/utils/wireless_network_watcher.html",
+				"url2": "https://www.nirsoft.net/utils/wnetwatcher-x64.zip",
+				"notes": "أداة محمولة وخفيفة لفحص ومراقبة الشبكة المحلية واكتشاف كافة الأجهزة المتصلة بها وعرض عناوين IP وMAC الخاصة بها بدقة"
 			}
 		},
 		"AI and Visual Recognition Tools": {
-			"Microsoft Copilot": {
-				"url": "https://tecwindow.net/ar/microsoft-copilot-1233/download/eyJjb250ZW50X2lkIjoxMjMzLCJpcCI6IiVwcm94eV9hZGRfeF9mb3J3YXJkZWRfZm9yJSJ9:1x4DZE:yinKjG2lBfgkELBrK3-6EzORLQZWCIPKeQTadW5-1Fo/",
-				"notes": "المساعد الذكي المكتبي من مايكروسوفت لتوليد النصوص والبحث وتلخيص المهام"
+			"ABBYY FineReader Standard (2)": {
+				"url": "https://support.abbyy.com/hc/en-us/sections/360000780080-Downloads",
+				"url2": "https://support.abbyy.com/hc/en-us/articles/15898451204499-Downloading-FineReader-PDF-15-FineReader-14-and-PDF-Transformer-",
+				"notes": "نسخة كاملة ومستقرة ومفعلة من برنامج التعرف الضوئي على الحروف OCR عبر أرشيف دائم، مع رابط الدعم الرسمي للنسخ المرخصة."
+			},
+			"Tech Freedom (2)": {
+				"url": "https://apps.microsoft.com/detail/9ngfsf4hp1sk",
+				"url2": "https://techfreedom.in",
+				"notes": "مجموعة أدوات مساعدة بصرية وتقنية متكاملة للمكفوفين تتيح التعرف على النصوص، قراءة المستندات، والتعامل مع الوسائط"
+			},
+			"i-PDF (2)": {
+				"url": "https://i-pdf.app/download",
+				"url2": "",
+				"notes": "قراءة ملفات PDF والصور واستخراج النصوص منهما بالاعتماد على نماذج الذكاء الاصطناعي مثل Gemini"
+			},
+			"accsiSuite": {
+				"url": "https://accsify.com/software/download?software=acs&version=1.1.7.0&file_index=0&download=true",
+				"url2": "",
+				"notes": "برنامج متكامل لعرض الكتب وتحويل ملفات BDF وتحميلها"
 			},
 			"Microsoft 365 Copilot": {
 				"url": "https://apps.microsoft.com/detail/9WZDNCRD29V9?hl=en-us&gl=EG&ocid=pdpshare",
 				"notes": "نسخة Microsoft Store الرسمية المدمجة مع منظومة Microsoft 365"
 			},
-			"Claude": {
-				"url": "https://tecwindow.net/ar/claude-1234/download/eyJjb250ZW50X2lkIjoxMjM0LCJpcCI6IiVwcm94eV9hZGRfeF9mb3J3YXJkZWRfZm9yJSJ9:1x4DZE:IiVxO-RC-aKu4Zkum-yLiq8IihF4ysXk9s_V5a8yZxM/",
-				"notes": "Architecture: X64 64Bit, تطبيق سطح المكتب للنموذج الذكي من Anthropic"
-			},
 			"Claude.": {
 				"url": "https://apps.microsoft.com/detail/9PC168XFZ38V?hl=en-us&gl=EG&ocid=pdpshare",
 				"notes": "نسخة Microsoft Store الرسمية"
-			},
-			"ChatGPT": {
-				"url": "https://tecwindow.net/ar/chatgpt-1243/download/eyJjb250ZW50X2lkIjoxMjQzLCJpcCI6IiVwcm94eV9hZGRfeF9mb3J3YXJkZWRfZm9yJSJ9:1x4DZE:8PrnR6zxbVijTsQ1YgndQ0TvEkqB_AWWQjtWO6kBFms/",
-				"notes": "OS: Windows 10 and above, Language: English, تطبيق سطح المكتب الرسمي"
 			},
 			"Perplexity": {
 				"url": "https://tecwindow.net/ar/perplexity-1272/download/eyJjb250ZW50X2lkIjoxMjcyLCJpcCI6IiVwcm94eV9hZGRfeF9mb3J3YXJkZWRfZm9yJSJ9:1x4DZE:PafTkGJjbwSkt0AofokYy5UaEl-nv0xJrfJHEwb_RVo/",
 				"notes": "محرك البحث التوليدي والذكاء الاصطناعي لسطح المكتب"
 			},
-			"Perplexity.": {
-				"url": "https://apps.microsoft.com/detail/9P9XG917PWCJ?hl=en-us&gl=EG&ocid=pdpshare",
-				"notes": "نسخة Microsoft Store الرسمية"
-			},
-			"Be My Eyes": {
-				"url": "https://tecwindow.net/ar/be-my-eyes-1170/download/eyJjb250ZW50X2lkIjoxMTcwLCJpcCI6IiVwcm94eV9hZGRfeF9mb3J3YXJkZWRfZm9yJSJ9:1x4Dxm:B0G4GGOMkDClajnkKS2oWb4oLSXMgqIS_6eePfR_t3Q/",
-				"notes": "أداة مساعدة بصرية تعتمد على الذكاء الاصطناعي (Be My AI) لوصف الشاشة والصور للمكفوفين وضعاف البصر عبر Windows"
-			},
 			"Be My Eyes.": {
 				"url": "https://apps.microsoft.com/detail/9MSW46LTDWGF?hl=en-us&gl=EG&ocid=pdpshare",
 				"notes": "نسخة Microsoft Store الرسمية"
-			},
-			"ScribeMe": {
-				"url": "https://tecwindow.net/ar/scribeme/download/eyJjb250ZW50X2lkIjoxMTk4LCJpcCI6IiVwcm94eV9hZGRfeF9mb3J3YXJkZWRfZm9yJSJ9:1x4Dxm:aqU6tJN2YxVuaG1SxzRVciSkhPOrKtmvLwbL1fe5p20/",
-				"notes": "OS: Windows 10/11, Language: English, استخراج النصوص ووصف الصور بشرائح العرض، وصف محتوى الشاشة (Snap nScribe)، واستخراج النصوص من PDF بالتعرف الضوئي (OCR)"
-			},
-			"i-PDF": {
-				"url": "https://tecwindow.net/ar/i-pdf/download/eyJjb250ZW50X2lkIjoxMjg1LCJpcCI6IiVwcm94eV9hZGRfeF9mb3J3YXJkZWRfZm9yJSJ9:1x4Dxm:Vyx3KUORWGhdFmxy26uwHUmtAyVqvg4ca6APElvhmMM/",
-				"notes": "قراءة ملفات PDF والصور واستخراج النصوص منهما بالاعتماد على نماذج الذكاء الاصطناعي مثل Gemini"
-			},
-			"MAReader": {
-				"url": "https://tecwindow.net/ar/mareader/download/eyJjb250ZW50X2lkIjoxMzYxLCJpcCI6IiVwcm94eV9hZGRfeF9mb3J3YXJkZWRfZm9yJSJ9:1x4Dxm:ZcPRPwmfkQ_58ThAPCADuCwSdb4i7U42kSmU4WgBg0E/",
-				"notes": "أداة متخصصة للمكفوفين لوصف الصور واستخراج النصوص المكتوبة من ملفات PDF والصور الرقمية"
-			},
-			"Tech Freedom": {
-				"url": "https://tecwindow.net/ar/tech-freedom-1247/download/eyJjb250ZW50X2lkIjoxMjQ3LCJpcCI6IiVwcm94eV9hZGRfeF9mb3J3YXJkZWRfZm9yJSJ9:1x4Dxm:QdUH58ePkuFKVsCvrDdZ8efDSVv-mXOc4hxt2UXEHIY/",
-				"notes": "مجموعة أدوات مساعدة بصرية وتقنية متكاملة للمكفوفين تتيح التعرف على النصوص، قراءة المستندات، والتعامل مع الوسائط"
-			},
-			"ABBYY FineReader Standard": {
-				"url": "https://tecwindow.net/ar/abbyy-finereader-standard-edition/download/eyJjb250ZW50X2lkIjoxNTAsImlwIjoiJXByb3h5X2FkZF94X2ZvcndhcmRlZF9mb3IlIn0:1x4EXb:bhV9rWYZ9l2Vtq9X8GO7P-pq9XLPwHPodsS8JiGVCrU/",
-				"notes": "Version: 15.0.18.1494, OS: Windows, Language: English, التعرف الضوئي على الحروف (OCR)، مسح وتحويل المستندات وملفات PDF المصورة إلى نصوص رقمية قابلة للتحرير والقراءة"
 			},
 			"LM Studio": {
 				"url": "https://lmstudio.ai/download/bionic/latest/win32/x64",
@@ -600,6 +720,26 @@
 			"ScribeMe.": {
 				"url": "https://apps.microsoft.com/detail/9NWBR4K0FM5X?hl=en-us&gl=EG&ocid=pdpshare",
 				"notes": "نسخة Microsoft Store الرسمية"
+			},
+			"Gemini": {
+				"url": "https://gemini.google/download/windows/",
+				"url2": "",
+				"notes": "OS: Windows 10 and 11, الوصول السريع لنماذج الذكاء الاصطناعي وتوليد الصور والفيديو عبر الاختصار Alt + Space، تطبيق ويب فائق السرعة يعمل من صينية النظام System Tray ويتطلب حساب Google"
+			},
+			"MAReader (2)": {
+				"url": "https://github.com/accessible-apps/MAReader/releases/latest",
+				"url2": "https://github.com/accessible-apps/MAReader/releases/download/v2.4.0/MAReaderSetup_2.4.0.exe",
+				"notes": "أداة متخصصة للمكفوفين لوصف الصور واستخراج النصوص المكتوبة من ملفات PDF والصور الرقمية"
+			},
+			"Google Antigravity Hub v2.16.0 (64-bit)": {
+				"url": "https://storage.googleapis.com/antigravity-public/antigravity-hub/2.16.0-4917332007583744/windows-x64/Antigravity-x64.exe",
+				"url2": "https://antigravity.google/",
+				"notes": "بيئة تطوير وتنسيق وكلاء الذكاء الاصطناعي المستقلين (Agentic AI IDE & Hub) من جوجل لنظام ويندوز 64-بت، تتيح إدارة وتنفيذ مهام البرمجة والتحقق عبر موجه الأوامر والمتصفح ومحرر الأكواد تلقائياً."
+			},
+			"Productivity Companion": {
+				"url": "https://github.com/Bibeksharma5/Productivity-Companion-Updated/releases/latest",
+				"url2": "https://apps.microsoft.com/detail/9nhhqhjfnhsj",
+				"notes": "حزمة أدوات إنتاجية متكاملة ومفتوحة المصدر لنظام ويندوز متوافقة تماماً مع قارئات الشاشة، تجمع بين أدوات الذكاء الاصطناعي، وتحويل الوسائط، واستخراج النصوص OCR، وإدارة المهام اليومية"
 			}
 		},
 		"Word Processing and Text Editing تحرير ومعالجة النصوص": {
@@ -619,70 +759,6 @@
 			"Microsoft Office 2016-2021 AIO X86 X64": {
 				"url": "https://archive.org/download/aio-office-2016-2021-32-64-eng/AIO Office 2016-2021(32-64)ENG.iso",
 				"notes": "Versions: 2016 to 2021, Language: English, Dual architecture (32-bit and 64-bit), Offline ISO image, Size: 3.7 GB"
-			},
-			"Microsoft Office 2003 Arabic": {
-				"url": "https://tecwindow.net/en/microsoft-office-2003-arabic/download/eyJjb250ZW50X2lkIjoxMDAsImlwIjoiJXByb3h5X2FkZF94X2ZvcndhcmRlZF9mb3IlIn0:1x48ll:JSeayXft10ao069JPcjb-nXGU4GFRmMMxfvEKgboSz8/",
-				"notes": ""
-			},
-			"Microsoft Office 2003 English": {
-				"url": "https://tecwindow.net/en/microsoft-office-2003-english/download/eyJjb250ZW50X2lkIjoxMDEsImlwIjoiJXByb3h5X2FkZF94X2ZvcndhcmRlZF9mb3IlIn0:1x48yE:-kvscIBefOYzjRVsIz1YXfldn2TVQN0473j6cMmcZCY/",
-				"notes": ""
-			},
-			"Microsoft Office 2007 Arabic": {
-				"url": "https://tecwindow.net/en/microsoft-office-2007-arabic/download/eyJjb250ZW50X2lkIjoxMDMsImlwIjoiJXByb3h5X2FkZF94X2ZvcndhcmRlZF9mb3IlIn0:1x48ll:22xzpkxGwZdEZwUrucdvFjZDuuXqzbttv80G8c1TWvA/",
-				"notes": ""
-			},
-			"Microsoft Office 2007 English": {
-				"url": "https://tecwindow.net/en/microsoft-office-2007-english/download/eyJjb250ZW50X2lkIjoxMDQsImlwIjoiJXByb3h5X2FkZF94X2ZvcndhcmRlZF9mb3IlIn0:1x48yE:rz3zjpZHxWP3sooK3SRbbQrPzxYnMbsVUEoZder61n8/",
-				"notes": ""
-			},
-			"Microsoft Office 2010 Arabic.": {
-				"url": "https://tecwindow.net/en/microsoft-office-2010-x64-arabic/download/eyJjb250ZW50X2lkIjoxMDYsImlwIjoiJXByb3h5X2FkZF94X2ZvcndhcmRlZF9mb3IlIn0:1x48ll:NSFIU3WUuBHvUe4UDY_5jAC3c7EqlxHN-nVv4-hWEnY/",
-				"url2": "",
-				"notes": "Architecture: X64 64Bit."
-			},
-			"Microsoft Office 2010 Arabic": {
-				"url": "https://tecwindow.net/en/microsoft-office-2010-x86-arabic/download/eyJjb250ZW50X2lkIjoxMDcsImlwIjoiJXByb3h5X2FkZF94X2ZvcndhcmRlZF9mb3IlIn0:1x48ll:FTHOyGxGdlGNl1A0Tffv0_Krvqiz50VJFsGp6-YU0Qw/",
-				"url2": "",
-				"notes": "Architecture: X86 32Bit."
-			},
-			"Microsoft Office 2010 English.": {
-				"url": "https://tecwindow.net/en/microsoft-office-2010-x64-english/download/eyJjb250ZW50X2lkIjoxMDgsImlwIjoiJXByb3h5X2FkZF94X2ZvcndhcmRlZF9mb3IlIn0:1x48yE:_z7pW3wfZeMFSp7XnBsYAOBhNi6HdAElTQWUOEeRZuU/",
-				"url2": "",
-				"notes": "Architecture: X64 64Bit."
-			},
-			"Microsoft Office 2010 English": {
-				"url": "https://tecwindow.net/en/microsoft-office-2010-x86-english/download/eyJjb250ZW50X2lkIjoxMDksImlwIjoiJXByb3h5X2FkZF94X2ZvcndhcmRlZF9mb3IlIn0:1x48yE:R-hxQBBIllQ4J33BjQyfUghZ0EgVPtY85JoHeFDCsO0/",
-				"url2": "",
-				"notes": "Architecture: X86 32Bit."
-			},
-			"Adobe Acrobat Reader DC": {
-				"url": "https://tecwindow.net/en/adobe-acrobat-reader-dc/download/eyJjb250ZW50X2lkIjoxNDgsImlwIjoiJXByb3h5X2FkZF94X2ZvcndhcmRlZF9mb3IlIn0:1x4957:EZj9roQ4NklMgcZa4oVR7V1uDU9twILCz4fiVXx2iIU/",
-				"notes": "Architecture: 32Bit. Version: 26.001.21771."
-			},
-			"Bookworm Portable.": {
-				"url": "https://tecwindow.net/en/bookworm-x64-portable/download/eyJjb250ZW50X2lkIjo3MDcsImlwIjoiJXByb3h5X2FkZF94X2ZvcndhcmRlZF9mb3IlIn0:1x48yE:bCgcOpN4xMI24Zk5hePzJ9yAC5aXYR0pVPwrbH0q2GQ/",
-				"url2": "",
-				"notes": "Version: 2026.1. Architecture: 64 bit."
-			},
-			"Bookworm Portable": {
-				"url": "https://tecwindow.net/en/Bookworm-X32-portable/download/eyJjb250ZW50X2lkIjo3MDgsImlwIjoiJXByb3h5X2FkZF94X2ZvcndhcmRlZF9mb3IlIn0:1x499o:O4FZRU2LgtetxswWlyKJoTaC8se_nYcItc0PCvu_17Q/",
-				"url2": "",
-				"notes": "Version: 2026.1. Architecture: 32 bit."
-			},
-			"Bookworm Installer": {
-				"url": "https://tecwindow.net/en/bookworm-x32-installer/download/eyJjb250ZW50X2lkIjo3MDksImlwIjoiJXByb3h5X2FkZF94X2ZvcndhcmRlZF9mb3IlIn0:1x49Ag:jPxWxv3SdwbXKPeMUTDq-nvHwemOy1Qv6pX1u9-Dl5w/",
-				"url2": "",
-				"notes": "Version: 2026.1. Architecture: 32 bit. Installer version."
-			},
-			"Bookworm Installer.": {
-				"url": "https://tecwindow.net/en/bookworm-x64-installer/download/eyJjb250ZW50X2lkIjo3MTAsImlwIjoiJXByb3h5X2FkZF94X2ZvcndhcmRlZF9mb3IlIn0:1x48yE:NvYFpUzbNWVJizySDUWvn847mKtFjGckQ4ElNXd_DLM/",
-				"url2": "",
-				"notes": "Version: 2026.1. Architecture: 64 bit. Installer version."
-			},
-			"Kurzweil": {
-				"url": "https://tecwindow.net/en/kurzweil-1000/download/eyJjb250ZW50X2lkIjoxNDksImlwIjoiJXByb3h5X2FkZF94X2ZvcndhcmRlZF9mb3IlIn0:1x49FN:E9qdbiOusTbjtlNz_ua1GVdaxbhSj_1rVEM3uW4YLjU/",
-				"notes": "Version: 14."
 			},
 			"Microsoft Office 365 Pro Plus": {
 				"url": "https://is14.arfiles.net/Office%20365%20Pro%20Plus%20Version%202510%20Build%2019328.20158%20x64%20%2B%20Visio%20%2B%20Project.rar",
@@ -717,6 +793,121 @@
 				"url": "https://progs.online/Nitro_Pro_14.39.0.18.rar",
 				"url2": "",
 				"notes": "Version: Pro 14.39.0.18, Architecture: 64Bit, Size: 2.0 MB, Nitro app for Windows, formally known as Nitro PDF Pro (or formerly Nitro Pro), is a powerful desktop software used to create, view, edit, convert, and securely sign PDF documents"
+			},
+			"Microsoft Office 2007 English (2)": {
+				"url": "https://tecwindow.net/ar/windows/text-editing-and-processing/microsoft-office-2007-english/",
+				"url2": "",
+				"notes": ""
+			},
+			"Microsoft Office 2010 Arabic. (2)": {
+				"url": "https://tecwindow.net/ar/windows/text-editing-and-processing/microsoft-office-2010-x64-arabic/",
+				"url2": "",
+				"notes": "Architecture: X64 64Bit."
+			},
+			"Kurzweil (2)": {
+				"url": "https://tecwindow.net/ar/windows/text-editing-and-processing/kurzweil-1000/",
+				"url2": "",
+				"notes": "Version: 14."
+			},
+			"Microsoft Office 2003 English": {
+				"url": "https://ins4.arfiles.net/M_O2003F_En.iso",
+				"url2": "",
+				"notes": "مايكروسوفت أوفيس 2003 النسخة الإنجليزية الكاملة بصيغة ISO، متوافقة مع أنظمة 32 و64 بت بحجم 117.71 ميجابايت للتثبيت"
+			},
+			"Microsoft Office 2007": {
+				"url": "https://ins2.arfiles.net/M_O2007_A.iso",
+				"url2": "",
+				"notes": "مايكروسوفت اوفيس 2007 النسخة العربية"
+			},
+			"Microsoft Office 2010 English": {
+				"url": "https://ins3.arfiles.net/Microsoft.Office.2010.SP2.Professional.Plus.VL.February.2021.x64.rar",
+				"url2": "",
+				"notes": "Architecture: X64 64Bit."
+			},
+			"Bookworm Portable.": {
+				"url": "https://github.com/blindpandas/bookworm/releases/download/2026.2/Bookworm-2026.2-x64-portable.zip",
+				"url2": "",
+				"notes": "Version: 2026.1. Architecture: 64 bit."
+			},
+			"Bookworm Portable": {
+				"url": "https://github.com/blindpandas/bookworm/releases/download/2026.2/Bookworm-2026.2-x86-portable.zip",
+				"url2": "",
+				"notes": "Version: 2026.1. Architecture: 32 bit."
+			},
+			"Bookworm Installer": {
+				"url": "https://github.com/blindpandas/bookworm/releases/download/2026.2/Bookworm-2026.2-x86-setup.exe",
+				"url2": "",
+				"notes": "Version: 2026.1. Architecture: 32 bit. Installer version."
+			},
+			"Bookworm Installer.": {
+				"url": "https://github.com/blindpandas/bookworm/releases/download/2026.2/Bookworm-2026.2-x64-setup.exe",
+				"url2": "",
+				"notes": "Version: 2026.1. Architecture: 64 bit. Installer version."
+			},
+			"Adobe Acrobat Reader DC": {
+				"url": "https://ardownload3.adobe.com/pub/adobe/reader/win/AcrobatDC/2600221901/AcroRdrDC2600221901_MUI.exe",
+				"url2": "ftp://ftp.adobe.com/pub/adobe/reader/win/AcrobatDC/2600221901/AcroRdrDC2600221901_MUI.exe",
+				"notes": "Architecture: 32Bit. Version: 26.001.21771. والرابط الثاني من خادم FTP"
+			},
+			"Acrobat Reader DC X64\":": {
+				"url": "https://ardownload3.adobe.com/pub/adobe/acrobat/win/AcrobatDC/2600221901/AcroRdrDCx642600221901_MUI.exe",
+				"url2": "ftp://ftp.adobe.com/pub/adobe/acrobat/win/AcrobatDC/2600221901/AcroRdrDCx642600221901_MUI.exe",
+				"notes": "حزمة التثبيت المستقلة الكاملة متعددة اللغات لنواة 64 بت دون الحاجة للإنترنت، والرابط الثاني من خادم FTP الرسمي.\""
+			},
+			"OnlyOffice Desktop Editors X64": {
+				"url": "https://github.com/ONLYOFFICE/DesktopEditors/releases/latest/download/DesktopEditors_x64.exe",
+				"url2": "https://github.com/ONLYOFFICE/DesktopEditors/releases/latest/download/DesktopEditors_x64.msi",
+				"notes": "حزمة مكتبية متكاملة ومفتوحة المصدر لمعالجة النصوص والجداول، مثبت مستقل لنواة 64 بت، والرابط الثاني حزمة MSI للمؤسسات.\""
+			},
+			"OnlyOffice Desktop Editors": {
+				"url": "https://github.com/ONLYOFFICE/DesktopEditors/releases/latest/download/DesktopEditors_x86.exe",
+				"url2": "https://github.com/ONLYOFFICE/DesktopEditors/releases/latest/download/DesktopEditors_x86.msi",
+				"notes": "حزمة مكتبية متكاملة ومفتوحة المصدر، مثبت مستقل لنواة 32 بت للأجهزة القديمة، والرابط الثاني حزمة MSI للمؤسسات.\""
+			},
+			"SumatraPDF X64": {
+				"url": "https://www.sumatrapdfreader.org/dl/rel/3.6.1/SumatraPDF-3.6.1-64-install.exe",
+				"url2": "",
+				"notes": "قارئ مستندات وكتب إلكترونية مجاني وخفيف جداً وسريع الاستجابة مع قارئات الشاشة، مثبت مستقل لنواة 64 بت.\""
+			},
+			"SumatraPDF": {
+				"url": "https://www.sumatrapdfreader.org/dl/rel/3.6.1/SumatraPDF-3.6.1-install.exe",
+				"url2": "",
+				"notes": "قارئ مستندات وكتب إلكترونية مجاني وسريع الاستجابة مع قارئات الشاشة، مثبت مستقل لنواة 32 بت"
+			},
+			"Calibre Desktop": {
+				"url": "https://download.calibre-ebook.com/9.14.0/calibre-64bit-9.14.0.msi",
+				"url2": "https://github.com/kovidgoyal/calibre/releases/download/v9.14.0/calibre-64bit-9.14.0.msi",
+				"notes": "منظومة شاملة مفتوحة المصدر لإدارة وتحويل وقراءة الكتب الرقمية والمستندات، حزمة MSI رسمية لنواة 64 بت."
+			},
+			"VSCodium": {
+				"url": "https://github.com/VSCodium/vscodium/releases/download/1.135.06055/VSCodiumSetup-x64-1.135.06055.exe",
+				"url2": "",
+				"notes": "محرر نصوص وأكواد مفتوح المصدر بالكامل وخالٍ من التتبع، حزمة تثبيت على مستوى النظام لنواة 64 بت متوافقة مع قارئات الشاشة."
+			},
+			"Visual Studio Code": {
+				"url": "https://update.code.visualstudio.com/latest/win32-x64/stable",
+				"url2": "",
+				"notes": "رابط مايكروسوفت الرسمي الدائم لتنزيل أحدث حزمة تثبيت مستقلة كاملة على مستوى النظام لنواة 64 بت."
+			},
+			"Visual Studio Code.": {
+				"url": "https://update.code.visualstudio.com/latest/win32/stable",
+				"url2": "",
+				"notes": "\"رابط مايكروسوفت الرسمي الدائم لآخر حزمة تثبيت مستقلة كاملة معتمدة على مستوى النظام لنواة 32 بت"
+			},
+			"\"CudaText": {
+				"url": "https://downloads.sourceforge.net/project/cudatext/release/1.236.0.5/cudatext-windows-amd64-1.236.0.5.zip",
+				"url2": "",
+				"notes": "محرر نصوص مفتوح المصدر فائق السرعة مخصص لفتح وقراءة الملفات النصية الضخمة دون استهلاك للذاكرة، حزمة مستقلة 64 بت.\""
+			},
+			"PresentationGo PowerPoint Templates": {
+				"url": "https://www.presentationgo.com/",
+				"url2": "",
+				"notes": "مكتبة قوالب وعناصر إنفوجرافيك ومخططات بيانية جاهزة للتحميل والتعديل المباشر داخل برامج العروض التقديمية كالبوربوينت"
+			},
+			"Sahehly Arabic Proofreading": {
+				"url": "https://sahehly.com/",
+				"url2": "",
+				"notes": "أداة ويب للتدقيق الإملائي والنحوي للنصوص العربية وتشكيل الكلمات وضبط علامات الترقيم تلقائياً"
 			}
 		},
 		"System Maintenance and Utilities": {
@@ -736,12 +927,58 @@
 				"url": "https://is10.arfiles.net/AOMEI%20Backupper%20Technician%20Plus%208.4.0%20x64%20WinPE.rar",
 				"url2": "",
 				"notes": "Version: Plus v8.4.0 WinPE, Architecture: 64 bit, Size: 749.7 MB, A program to perform regular backup for disks and partitions\""
+			},
+			"KMSAuto Net": {
+				"url": "http://up.top4top.net/downloadf-296z5e0n1-rar.html",
+				"url2": "",
+				"notes": "أداة تفعيل وتنشيط منتجات مايكروسوفت مميزات الأداة 1. تفعيل جميع أنواع الويندوز (windows 7 - windows 8 - windows 8.1 - windows vista-windows 10 - windows server 2008 2012 )  2. تفعيل الأوفيس بمافيهم أوفيس 2016. 3. أداة مجانية لاتحتاج إلى تفعيل 4. لاتحتاج إلى تثبيت ( تعمل بمجرد الضغط عليها) 5. التحديث التلقائى للتفعيل للمحافظة على التفعيل مدى الحياة. 6. تتميز عن باقة الأدوات الأخرى بأنها تدعم ويندوز 10 وأوفيس 2016 . * كيفية الاستخدام  شغل الأداة وانتظر قليلا حتى تفتح الاداة ثم تحرك بالتاب الى Activation زر واضغط عليه  ثم تحرك بالتاب الى Activate Windows لتفعيل الويندوز أو Activate Office لتفعيل الأوفيس ثم انتظر ثوانى حتى تتم العملية بنجاح ثم أغلق البرنامج  ومبروك عليكم التفعيل"
+			},
+			"K-Lite Codec Pack Full 19.9.5": {
+				"url": "https://files2.codecguide.com/K-Lite_Codec_Pack_1995_Full.exe",
+				"url2": "https://codecguide.com/download_k-lite_codec_pack_full.htm",
+				"notes": "حزمة متكاملة لترميزات الصوت والفيديو ومشغل الوسائط MPC-HC لتشغيل كافة صيغ الوسائط المتعددة وحل مشكلات فك التشفير على نظام ويندوز"
+			},
+			"Driver Genius Professional v11": {
+				"url": "https://www.mediafire.com/file/d904hk9ml0sg8n1/Driver.Genius.Professional.v11+Wesam+Karim.rar/file",
+				"url2": "https://www.driver-soft.com/",
+				"notes": "أداة لإدارة تعريفات الحاسوب وأخذ نسخ احتياطية شاملة لتعريفات العتاد واستعادتها وتحديث برامج تشغيل الأجهزة على نظام ويندوز القديمة"
+			},
+			"accsifyBootManager v1.0.0.0": {
+				"url": "https://accsify.com/ar/software/acbm",
+				"url2": "https://accsify.com/ar/software/download?download=true&file_index=0&software=acbm&version=1.0.0.0",
+				"notes": "أداة محمولة لإدارة وتعديل خيارات إقلاع النظام وإطلاق بيئات التثبيت الناطقة لتثبيت نسخ ويندوز بشكل مستقل دون الحاجة لمساعدة خارجية"
+			},
+			"Uninstall Tool": {
+				"url": "https://crystalidea.com/uninstall-tool",
+				"url2": "https://crystalidea.com/downloads/uninstalltool_setup.exe",
+				"notes": "أداة خفيفة وسريعة لإلغاء تثبيت البرامج إجبارياً وتنظيف مخلفاتها وسجل النظام وإدارة تطبيقات بدء التشغيل على نظام ويندوز"
+			},
+			"Eraser v6.2.0.2996": {
+				"url": "https://eraser.heidi.ie/",
+				"url2": "https://sourceforge.net/projects/eraser/files/Eraser%206/6.2/Eraser%206.2.0.2996.exe/download",
+				"notes": "أداة أمان مفتوحة المصدر لحذف الملفات والبيانات الحساسة نهائياً من القرص الصلب عبر خوارزميات الكتابة الفوقية لمنع استرجاعها تماماً"
+			},
+			"MiniTool Partition Wizard Enterprise v13.6": {
+				"url": "https://www.mediafire.com/file/tsmyuybpvjo9cmm/MiniTool+Partition+Wizard+Enterprise+13.6.rar/file",
+				"url2": "https://www.partitionwizard.com/",
+				"notes": "برنامج احترافي لإدارة وتقسيم الأقراص الصلبة، يتيح تغيير حجم الأقسام دون فقدان البيانات، ونقل نظام التشغيل إلى أقراص SSD، والتحويل بين نسقي MBR وGPT"
+			},
+			"Revo Uninstaller Pro v5.4.7 Multilingual": {
+				"url": "https://www.mediafire.com/file/dq8vsiucyhjeqko/Revo+Uninstaller+Pro+5.4.7+Multilingual.rar/file",
+				"url2": "https://www.revouninstaller.com/products/revo-uninstaller-pro/",
+				"notes": "برنامج احترافي لإلغاء تثبيت البرامج من جذورها، وإجراء فحص عميق لحذف بقايا الملفات ومفاتيح السجل المستعصية، وإدارة برامج بدء التشغيل وتطبيقات ويندوز الافتراضية"
 			}
 		},
-		"Accessible Games": {}
+		"Accessible Games": {},
+		"Xboxball game": {}
 	},
 	"أندرويد الكفيف العربي": {
 		"Screen Readers": {
+			"إضافة قراءة المزيد (Read More) لقارئ الشاشة جيشو v3.0": {
+				"url": "https://t.me/qadreen/11/274",
+				"url2": "https://t.me/jieshuocommunity",
+				"notes": "إضافة برمجية (بصيغة ppk) لقارئ الشاشة جيشو (Jieshuo) على أندرويد من تطوير مجتمع جيشو تتيح قراءة النصوص الطويلة، وعرض كافة الروابط والأرقام داخل الرسالة في نقاط تركيز منفصلة لتسهيل النقر عليها وفتحها، مع خيار لإدارة مسح النصوص المنسوخة من الحافظة."
+			},
 			"HearSee Screen Reader": {
 				"url": "https://tecwindow.net/en/hearsee-screen-reader/download/eyJjb250ZW50X2lkIjoxMzUzLCJpcCI6IiVwcm94eV9hZGRfeF9mb3J3YXJkZWRfZm9yJSJ9:1x2FrR:aYqrAnuqqdRxznScONi5IP4te5604_mUeZ2p_EOQUd4/",
 				"url2": "",
@@ -779,12 +1016,23 @@
 				"url": "https://t.me/qadreen/11/111",
 				"notes": "النسخة المخففة للأجهزة المتوسطة والضعيفة (Lite)"
 			},
-			"حزمة إضافات Ahmed Ghazy v9.3 لقارئ الشاشة Jieshuo": {
-				"url": "https://t.me/qadreen/11/60",
+			"حزمة إضافات Ahmed Ghazy v9.3 لقارئ الشاشة Jieshuo (2)": {
+				"url": "https://t.me/qadreen/11/229",
+				"url2": "",
 				"notes": "حزمة إضافات واختصارات مخصصة لقارئ الشاشة جيشوا"
 			}
 		},
 		"Synthesizers": {
+			"صوت زَيْد العربي": {
+				"url": "https://t.me/qadreen/11/283",
+				"url2": "https://youtu.be/HtZxNrqJU0I",
+				"notes": "أول صوت عربي مبني على معمارية المحرك الإحصائي مفتوح المصدر RHVoice من تدريب وتطوير فريق كوكب المكفوفين التقني"
+			},
+			"محرك نطق أصوات سيري (Siri Voices TTS)": {
+				"url": "https://t.me/qadreen/11/282",
+				"url2": "",
+				"notes": "تطبيق ومحرك تحويل النص إلى كلام (Text-to-Speech Engine) لنظام أندرويد متوافق مع قارئات الشاشة؛ يتيح استخدام وتعيين أصوات Siri الطبيعية المأخوذة من نظام iOS للعمل كمحرك قراءة رئيسي على هواتف أندرويد،"
+			},
 			"smartvoice": {
 				"url": "https://tecwindow.net/en/smartvoice/download/eyJjb250ZW50X2lkIjo1NzcsImlwIjoiJXByb3h5X2FkZF94X2ZvcndhcmRlZF9mb3IlIn0:1x2Gge:etKXzSS5mSoAt_RgsS5Tah_BF-sODLc2QAMPfbopXOc/",
 				"notes": ""
@@ -864,6 +1112,21 @@
 			"ETI Eloquence Android": {
 				"url": "https://t.me/qadreen/11/108",
 				"notes": "نسخة ETI Eloquence تعمل على جميع هواتف أندرويد الحديثة والقديمة"
+			},
+			"SmartVoice 4.1.16 Leila Tariq and Samantha Premium High": {
+				"url": "https://t.me/qadreen/11/173",
+				"url2": "",
+				"notes": "الإصدار 4.1.16 مدمج بأصوات ليلى وطارق باللغة العربية وصوت Samantha باللغة الإنجليزية بجودة فائقة (Premium High"
+			},
+			"Acapela TTS Voices 10.0.8": {
+				"url": "https://t.me/qadreen/11/264",
+				"url2": "",
+				"notes": "إصدار قديم من Acapela.,  الحجم 9.4 MB,"
+			},
+			"قاموس Acapela": {
+				"url": "https://t.me/qadreen/11/273",
+				"url2": "",
+				"notes": ""
 			}
 		},
 		"Internet browser apps": {
@@ -878,15 +1141,19 @@
 		},
 		"Banking and Digital Wallets": {},
 		"برامج دينية وتعليمية": {
-			"ذِكر الهدى": {
+			"ذِكر الهدى (2)": {
+				"url": "https://t.me/qadreen/11/297",
+				"url2": "",
+				"notes": "التحديث الجديد لتطبيق ذِكر الهدى، نقلة نوعية في أداء التطبيق وحل لأبرز مشاكل المشغل الصوتي سابقاً"
+			},
+			"ذِكر الهدى (2) (2)": {
 				"url": "https://t.me/qadreen/11/122",
 				"notes": "التحديث الجديد لتطبيق ذِكر الهدى، نقلة نوعية في أداء التطبيق وحل لأبرز مشاكل المشغل الصوتي سابقاً"
-			}
-		},
-		"AI and Visual Recognition Tools": {
-			"Cash Reader Premium v2.32.1": {
-				"url": "https://t.me/qadreen/11/21",
-				"notes": "النسخة المدفوعة لقراءة والتعرف الفوري على العملات النقدية الورقية للمكفوفين"
+			},
+			"Qaf": {
+				"url": "https://play.google.com/store/apps/details?id=app.qaf.ai",
+				"url2": "",
+				"notes": "يتطلب أندرويد 7.0 أو أحدث، ويحتاج التطبيق إلى مزيد من تحسينات إمكانية الوصول (Accessibility) حتى الآن لوجود العديد من الأزرار غير المصنفة مع قارئات الشاشة ولا يغني بطبيعة الحال عن المصادر الرسمية"
 			}
 		},
 		"General": {
@@ -925,24 +1192,512 @@
 			"VidMate 5.3535": {
 				"url": "https://t.me/qadreen/11/46",
 				"notes": "تنزيل مقاطع الفيديو بجودات متعددة من المنصات المختلفة"
+			},
+			"تطبيق Lazarillo.": {
+				"url": "https://play.google.com/store/apps/details?id=com.lazarillo",
+				"url2": "",
+				"notes": ""
+			},
+			"MicroG for YouTube Mod": {
+				"url": "https://t.me/qadreen/11/174",
+				"url2": "",
+				"notes": "خدمات MicroG البديلة لتسجيل الدخول بحساب Google ومزامنة البيانات داخل تطبيقات YouTube المعدلة."
+			},
+			"Morfi YouTube Mod": {
+				"url": "https://t.me/qadreen/11/176",
+				"url2": "",
+				"notes": "\"نسخة معدلة من تطبيق YouTube تدعم التشغيل في الخلفية وحظر الإعلانات، وتتطلب حزمة MicroG"
+			},
+			"YouTube Premium Mod": {
+				"url": "https://t.me/qadreen/11/193",
+				"url2": "",
+				"notes": "نسخة يوتيوب بريميوم معدلة بنظام التشغيل في الخلفية وبدون إعلانات، وتتطلب تثبيت أداة MicroG لتسجيل الدخول.\""
+			},
+			"MicroG 6.1.4": {
+				"url": "https://t.me/qadreen/11/194",
+				"url2": "",
+				"notes": "حزمة MicroG إصدار 6.1.4 بحجم 12.8 ميجابايت، لإتاحة تسجيل الدخول لحساب Google في تطبيقات يوتيوب المعدلة."
 			}
 		},
-		"Accessible Games": {}
+		"Accessible Games": {},
+		"AI and Visual Recognition Tools": {
+			"تطبيق i-PDF": {
+				"url": "https://t.me/qadreen/11/359",
+				"url2": "",
+				"notes": "أداة تقنية مخصصة لقراءة مستندات PDF وملفات الصور واستخراج النصوص منها بدقة بالاعتماد على نماذج الذكاء الاصطناعي (مثل Gemini)، مصممة لتيسير قراءة المستندات الرقمية والتعامل معها عبر قارئات الشاشة"
+			},
+			"Cash Reader Premium v2.32.1": {
+				"url": "https://t.me/qadreen/11/21",
+				"notes": "النسخة المدفوعة لقراءة والتعرف الفوري على العملات النقدية الورقية للمكفوفين"
+			}
+		},
+		"Plugins and Functions": {
+			"إضافة حل مشكلة الترجمة لقارئ الشاشة جيشو (Jieshuo)": {
+				"url": "https://t.me/qadreen/11/352",
+				"url2": "",
+				"notes": "إضافة برمجية مخصصة للقارئ الصيني جيشو (Jieshuo) على أندرويد منشورة عبر مجتمع قادرون، تعمل على معالجة وإصلاح مشكلات توقف أو فشل خدمات الترجمة الفورية في القارئ؛ وتتطلب بعد استيرادها تفعيلها لمرة واحدة لتطبيق الإصلاح البرمجي وضمان استقرار وظيفة الترجمة."
+			}
+		}
 	},
 	"arabic Bookshare": {
-		"مكاتب ومؤلفين": {},
-		"أقسام متخصصة": {},
-		"كتب صوتية (Audiobooks):": {},
-		"مجلات ودوريات (Journals and Periodicals):": {}
+		"أقسام متخصصة": {
+			"Alexir Library - Scientific Books": {
+				"url": "https://drive.google.com/file/d/1vfM11FKVF8n1H4U7sIkLuYn72i8fuXzv/view?usp=sharing",
+				"url2": "",
+				"notes": "الكتب العلمية من مكتبة الإكسير، بصيغة ملفات نصية txt"
+			},
+			"Alexir Library - Ibadhi Books": {
+				"url": "https://drive.google.com/file/d/10UD25TTSIpmWdw0EnmX_Bu4crz-dAGav/view?usp=sharing",
+				"url2": "",
+				"notes": "كتب الإباضية من مكتبة الإكسير، بصيغة ملفات نصية txt"
+			},
+			"Alexir Library - Zaydi Books": {
+				"url": "https://drive.google.com/file/d/1pZ1QSQN6qEVenQHSx2EWPfJf3k6AOvzb/view?usp=sharing",
+				"url2": "",
+				"notes": "كتب الزيدية من مكتبة الإكسير، بصيغة ملفات نصية txt"
+			},
+			"Alexir Library - Sunnah Books": {
+				"url": "https://drive.google.com/file/d/1ZPB2vRmWziZVgSy7DlIPiFFc7Nli6XbI/view?usp=sharing",
+				"url2": "",
+				"notes": "كتب السنة من مكتبة الإكسير، بصيغة ملفات نصية txt\""
+			},
+			"Alexir Library - Scientific Books\": {": {
+				"url": "https://drive.google.com/file/d/1vfM11FKVF8n1H4U7sIkLuYn72i8fuXzv/view?usp=sharing\",",
+				"url2": "",
+				"notes": "الكتب العلمية من مكتبة الإكسير، بصيغة ملفات نصية txt"
+			},
+			"Alexir Library - Other Sects Books": {
+				"url": "https://drive.google.com/file/d/18RwahZP8VtBuizZhA1nV1_GYTBFednQH/view?usp=sharing",
+				"url2": "",
+				"notes": "كتب فرق أخرى من مكتبة الإكسير، بصيغة ملفات نصية txt"
+			},
+			"Alexir Library - Ibadhi Books\": {": {
+				"url": "https://drive.google.com/file/d/10UD25TTSIpmWdw0EnmX_Bu4crz-dAGav/view?usp=sharing\",",
+				"url2": "",
+				"notes": "كتب الإباضية من مكتبة الإكسير، بصيغة ملفات نصية txt"
+			},
+			"Alexir Library - Ash'ari Books": {
+				"url": "https://drive.google.com/file/d/1nzJeeIpGukCRPnaPUR4jZc2_l5BcvUCX/view?usp=sharing",
+				"url2": "",
+				"notes": "كتب الأشعرية من مكتبة الإكسير، بصيغة ملفات نصية txt"
+			},
+			"Alexir Library - Awhadi Books": {
+				"url": "https://drive.google.com/file/d/1UOOHy3lChBBZ0OxLImWf7VLXm8hsNHq_/view?usp=sharing",
+				"url2": "",
+				"notes": "كتب الأوحدية من مكتبة الإكسير، بصيغة ملفات نصية txt"
+			},
+			"Alexir Library - Zaydi Books\": {": {
+				"url": "https://drive.google.com/file/d/1pZ1QSQN6qEVenQHSx2EWPfJf3k6AOvzb/view?usp=sharing\",",
+				"url2": "",
+				"notes": "كتب الزيدية من مكتبة الإكسير، بصيغة ملفات نصية txt"
+			},
+			"Alexir Library - Shia Books": {
+				"url": "https://drive.google.com/file/d/1F8TFl_rNAN3jEvPRE3VL2MBRf55mASRW/view?usp=sharing",
+				"url2": "",
+				"notes": "كتب الشيعة من مكتبة الإكسير، بصيغة ملفات نصية txt"
+			},
+			"Alexir Library - Sufi Books": {
+				"url": "https://drive.google.com/file/d/14CpUEK8oxXh6a0ylxnyBYNUCIljfo9qw/view?usp=sharing",
+				"url2": "",
+				"notes": "كتب الصوفية من مكتبة الإكسير، بصيغة ملفات نصية txt"
+			}
+		},
+		"مجلات ودوريات (Journals and Periodicals):": {},
+		"مكاتب ومؤلفين": {
+			"مكتبة مليون كتاب": {
+				"url": "https://t.me/booksrrrkg",
+				"url2": "https://t.me/BOOKRRRKG",
+				"notes": "قناة ومكتبة رقمية على منصة تليجرام تتيح تحميل الكتب والمراجع بصيغ رقمية مختلفة، مع توفير معرف خاص ومباشر لاستقبال ومعالجة طلبات الكتب غير المتوفرة."
+			},
+			"المكتبة الشاملة الذهبية": {
+				"url": "https://archive.org/download/goldenshamela_201907/golden%20shamela.rar",
+				"url2": "https://www.mediafire.com/file/41syr6smo3ve3j1/golden+shamela.rar/file",
+				"notes": "موسوعة إلكترونية كبرى تضم نحو 29 ألف كتاب مفهرس ومشجر تشمل إصدارات الشاملة الرسمية والوقفية وملتقيات أهل الحديث والألوكة دون تكرار وبحجم 20 جيجابايت مضغوطة لنظام ويندوز، مع قناة تليجرام رسمية للمتابعة والدعم (https://t.me/Goldenshamela)."
+			},
+			"Alexir Library": {
+				"url": "https://drive.google.com/drive/folders/1MgyOTbeZ4dfmdLXfDSP6QTrjyS4XSVtp?usp=sharing",
+				"url2": "",
+				"notes": "المجلد الرئيسي الكامل لمكتبة الإكسير (Alexir Library) على Google Drive، يضم جميع التصنيفات بعد تصديرها وتحويلها إلى صيغة المفكرة (txt)"
+			},
+			"المكتبة الشاملة الرسمية بصيغة المفكرة الإصدار الثالث": {
+				"url": "https://ia801806.us.archive.org/18/items/txt_20210306/txt%20%D8%A7%D9%84%D9%85%D9%83%D8%AA%D8%A8%D8%A9%20%D8%A7%D9%84%D8%B4%D8%A7%D9%85%D9%84%D8%A9%20%D8%A7%D9%84%D8%B1%D8%B3%D9%85%D9%8A%D8%A9%20%D8%A8%D8%B5%D9%8A%D8%BA%D8%A9%20%D8%A7%D9%84%D9%85%D9%81%D9%83%D8%B1%D8%A9%20%D8%A7%D9%84%D8%A5%D8%B5%D8%AF%D8%A7%D8%B1%20%D8%A7%D9%84%D8%AB%D8%A7%D9%84%D8%AB.zip",
+				"url2": "",
+				"notes": "المكتبة الشاملة الكاملة محولة إلى صيغة ملفات نصية TXT متوافقة بالكامل مع برامج تصفح وقراءة الشاشة للمكفوفين بحجم 3.85 جيجابايت."
+			},
+			"مكتبة خير صديق": {
+				"url": "https://acarbooks.org/",
+				"url2": "",
+				"notes": "مكتبة بها ألاف الكتب النصية المتوافقة"
+			},
+			"Library Genesis": {
+				"url": "https://libgen.is/",
+				"url2": "https://libgen.rs/",
+				"notes": "مكتبة  وقاعدة بيانات عالمية للبحث في ملايين الكتب والمراجع العلمية والأوراق الأكاديمية المحكمة وتحميلها مباشرة بصيغ رقمية"
+			},
+			"مجلة البيان": {
+				"url": "https://archive.org/details/Isstiwana-63_uP_bY_mUSLEm",
+				"url2": "",
+				"notes": ""
+			}
+		},
+		"كتب صوتية (Audiobooks):": {
+			"تسجيل صوتي كامل لصحيح البخاري": {
+				"url": "https://archive.org/details/bokhari_audio",
+				"url2": "",
+				"notes": ""
+			}
+		},
+		"مجلات ودوريات (Journals and Periodicals": {
+			"ASJP Algerian Scientific Journal Platform": {
+				"url": "https://www.asjp.cerist.dz/",
+				"url2": "",
+				"notes": "المنصة الوطنية الرسمية للمجلات العلمية الأكاديمية المحكمة في الجزائر تتيح تصفح أعداد الدوريات وتحميل المقالات البحثية بنصوصها الكاملة مجاناً"
+			}
+		}
 	},
 	"حياة وثقافة الكفيف العربي": {},
 	"AI Age عصر الذكاء": {},
 	"آفاق الاستثمار ومخاطره": {},
 	"المعاملات المالية للكفيف": {},
 	"تعليم تدريب تأهيل المكفوفين": {
-		"مناهج دراسية": {},
-		"دورات  تعليمية": {},
-		"الدراسات التخصصية، والأبحاث العلمية": {}
+		"مناهج دراسية": {
+			"الصف الأول الثانوي": {
+				"url": "https://t.me/qadreen/123/327",
+				"url2": "",
+				"notes": ""
+			},
+			"كتب خارجية": {
+				"url": "https://t.me/zakroly2026/120",
+				"url2": "",
+				"notes": "كتب بصيغة pdf"
+			},
+			"مناهج كلية الشريعة الإسلامية - الفرقة الأولى": {
+				"url": "https://t.me/+fELr3mlGESg0NGY8",
+				"url2": "",
+				"notes": "الفرقة الأولى - كلية الشريعة الإسلامية - جامعة الأزهر. تسجيلات صوتية وملخصات للمواد الدراسية تحت إشراف د. إسراء محمد"
+			},
+			"مناهج كلية الشريعة الإسلامية - الفرقة الثانية": {
+				"url": "https://t.me/+OijPXKw6gk1lNzI0",
+				"url2": "",
+				"notes": "الفرقة الثانية - كلية الشريعة الإسلامية - جامعة الأزهر. تسجيلات صوتية وملخصات للمواد الدراسية تحت إشراف د. إسراء محمد"
+			},
+			"مناهج كلية الشريعة الإسلامية - الفرقة الثالثة": {
+				"url": "https://t.me/+HlkLx-FMj4lhMDFk",
+				"url2": "",
+				"notes": "الفرقة الثالثة - كلية الشريعة الإسلامية - جامعة الأزهر. تسجيلات صوتية وملخصات للمواد الدراسية تحت إشراف د. إسراء محمد سيد."
+			},
+			"مناهج كلية الشريعة الإسلامية - الفرقة الرابعة": {
+				"url": "https://t.me/+qPsNGU0iaTYxZGU0",
+				"url2": "",
+				"notes": "الفرقة الرابعة - كلية الشريعة الإسلامية - جامعة الأزهر. تسجيلات صوتية وملخصات للمواد الدراسية تحت إشراف د. إسراء محمد سيد."
+			},
+			"مناهج كلية اللغة العربية - الفرقة الأولى": {
+				"url": "https://t.me/+LjXehINY1PphMzU0",
+				"url2": "",
+				"notes": "الفرقة الأولى - كلية اللغة العربية - جامعة الأزهر. تسجيلات صوتية وملخصات للمواد الدراسية تحت إشراف د. إسراء محمد"
+			},
+			"مناهج كلية اللغة العربية - الفرقة الثانية": {
+				"url": "https://t.me/+v89nnZkTp8Y2ZmE0",
+				"url2": "",
+				"notes": "الفرقة الثانية - كلية اللغة العربية - جامعة الأزهر. تسجيلات صوتية وملخصات للمواد الدراسية تحت إشراف د. إسراء محمد"
+			},
+			"مناهج كلية اللغة العربية - الفرقة الثالثة": {
+				"url": "https://t.me/+MDQF_frdZ2ZkYTY0",
+				"url2": "",
+				"notes": "الفرقة الثالثة - كلية اللغة العربية - جامعة الأزهر. تسجيلات صوتية وملخصات للمواد الدراسية تحت إشراف د. إسراء محمد سيد."
+			},
+			"مناهج كلية اللغة العربية - الفرقة الرابعة": {
+				"url": "https://t.me/+XgTxrj-SRrY3OWQ0",
+				"url2": "",
+				"notes": "الفرقة الرابعة - كلية اللغة العربية - جامعة الأزهر. تسجيلات صوتية وملخصات للمواد الدراسية تحت إشراف د. إسراء محمد سيد."
+			},
+			"مناهج كلية أصول الدين - الفرقة الأولى": {
+				"url": "https://t.me/+T_fQRAtmstk1ODNk",
+				"url2": "",
+				"notes": "الفرقة الأولى - كلية أصول الدين - جامعة الأزهر. تسجيلات صوتية وملخصات للمواد الدراسية تحت إشراف د. إسراء محمد سيد."
+			},
+			"مناهج كلية أصول الدين - الفرقة الثانية": {
+				"url": "https://t.me/+G7m95KfKSd40ODhk",
+				"url2": "",
+				"notes": "الفرقة الثانية - كلية أصول الدين - جامعة الأزهر. تسجيلات صوتية وملخصات للمواد الدراسية تحت إشراف د. إسراء محمد سيد."
+			},
+			"مناهج كلية أصول الدين - الفرقة الثالثة - قسم الدعوة": {
+				"url": "https://t.me/+HcghJVaui3hmZDg0",
+				"url2": "",
+				"notes": "الفرقة الثالثة (قسم الدعوة) - كلية أصول الدين - جامعة الأزهر. تسجيلات صوتية وملخصات للمواد الدراسية تحت إشراف د. إسراء محمد سيد."
+			},
+			"مناهج كلية أصول الدين - الفرقة الثالثة - قسم الحديث": {
+				"url": "https://t.me/+F28MSshouJk3YjI0",
+				"url2": "",
+				"notes": "الفرقة الثالثة (قسم الحديث) - كلية أصول الدين - جامعة الأزهر. تسجيلات صوتية وملخصات للمواد الدراسية تحت إشراف د. إسراء محمد سيد."
+			},
+			"مناهج كلية أصول الدين - الفرقة الثالثة - قسم التفسير": {
+				"url": "https://t.me/+NjnL0GDBknEzYTg8",
+				"url2": "",
+				"notes": "الفرقة الثالثة (قسم التفسير) - كلية أصول الدين - جامعة الأزهر. تسجيلات صوتية وملخصات للمواد الدراسية تحت إشراف د. إسراء محمد سيد."
+			},
+			"مناهج كلية أصول الدين - الفرقة الثالثة - قسم العقيدة": {
+				"url": "https://t.me/+1_lQdpDzAtk5YTBk",
+				"url2": "",
+				"notes": "الفرقة الثالثة (قسم العقيدة) - كلية أصول الدين - جامعة الأزهر. تسجيلات صوتية وملخصات للمواد الدراسية تحت إشراف د. إسراء محمد سيد."
+			},
+			"مناهج كلية أصول الدين - الفرقة الرابعة - قسم الدعوة": {
+				"url": "https://t.me/+B5XE3eSxavtjOWZk",
+				"url2": "",
+				"notes": "الفرقة الرابعة (قسم الدعوة) - كلية أصول الدين - جامعة الأزهر. تسجيلات صوتية وملخصات للمواد الدراسية تحت إشراف د. إسراء محمد سيد."
+			},
+			"مناهج كلية أصول الدين - الفرقة الرابعة - قسم الحديث": {
+				"url": "https://t.me/+3YR6kDwvrOA3MmJk",
+				"url2": "",
+				"notes": "الفرقة الرابعة (قسم الحديث) - كلية أصول الدين - جامعة الأزهر. تسجيلات صوتية وملخصات للمواد الدراسية تحت إشراف د. إسراء محمد سيد."
+			},
+			"مناهج كلية أصول الدين - الفرقة الرابعة - قسم التفسير": {
+				"url": "https://t.me/+Siw9t20uiPZhNDhk",
+				"url2": "",
+				"notes": "الفرقة الرابعة (قسم التفسير) - كلية أصول الدين - جامعة الأزهر. تسجيلات صوتية وملخصات للمواد الدراسية تحت إشراف د. إسراء محمد سيد."
+			},
+			"مناهج كلية أصول الدين - الفرقة الرابعة - قسم العقيدة": {
+				"url": "https://t.me/+JnOu9AUtmgMyZjFk",
+				"url2": "",
+				"notes": "الفرقة الرابعة (قسم العقيدة) - كلية أصول الدين - جامعة الأزهر. تسجيلات صوتية وملخصات للمواد الدراسية تحت إشراف د. إسراء محمد سيد."
+			},
+			"مناهج كلية القراءات وعلوم القرآن بالقاهرة - الفرقة الأولى": {
+				"url": "https://t.me/+yzoTfZ6-TJY4ZGRk",
+				"url2": "",
+				"notes": "الفرقة الأولى - كلية القراءات وعلوم القرآن بالقاهرة - جامعة الأزهر. تسجيلات صوتية وملخصات للمواد الدراسية تحت إشراف د. إسراء محمد سيد."
+			},
+			"مناهج كلية القراءات وعلوم القرآن بالقاهرة - الفرقة الثانية": {
+				"url": "https://t.me/+kEu4J19HpV83NDdk",
+				"url2": "",
+				"notes": "الفرقة الثانية - كلية القراءات وعلوم القرآن بالقاهرة - جامعة الأزهر. تسجيلات صوتية وملخصات للمواد الدراسية تحت إشراف د. إسراء محمد سيد."
+			},
+			"مناهج الدبلومة التربوية بالأزهر": {
+				"url": "https://t.me/+scMN1fmbI984MDE0",
+				"url2": "",
+				"notes": "الدبلومة التربوية - الدراسات العليا - جامعة الأزهر. تسجيلات صوتية ومذكرات للمناهج التعليمية تحت إشراف د. إسراء محمد سيد."
+			},
+			"مناهج معاهد القراءات - مرحلة العالية - الصف الأول": {
+				"url": "https://t.me/+4D-XXCjiVNk1ODFk",
+				"url2": "",
+				"notes": "الصف الأول - مرحلة العالية - معاهد القراءات الأزهرية. كتب مسجلة صوتياً ومواد تعليمية ميسرة تحت إشراف د. إسراء محمد سيد."
+			},
+			"مناهج معاهد القراءات - مرحلة العالية - الصف الثاني": {
+				"url": "https://t.me/+-F6KUhsrzcE3MWVk",
+				"url2": "",
+				"notes": "الصف الثاني - مرحلة العالية - معاهد القراءات الأزهرية. كتب مسجلة صوتياً ومواد تعليمية ميسرة تحت إشراف د. إسراء محمد سيد."
+			},
+			"مناهج معاهد القراءات - مرحلة العالية - الصف الثالث": {
+				"url": "https://t.me/+F3yDLjz_LPA4ODM0",
+				"url2": "",
+				"notes": "الصف الثالث - مرحلة العالية - معاهد القراءات الأزهرية. كتب مسجلة صوتياً ومواد تعليمية ميسرة د. إسراء محمد سيد."
+			},
+			"مناهج معاهد القراءات - مرحلة التجويد - الصف الأول": {
+				"url": "https://t.me/+hkNdcO9DzOxlYjU0",
+				"url2": "",
+				"notes": "الصف الأول - مرحلة التجويد - معاهد القراءات الأزهرية. تسجيلات صوتية وشروحات تعليمية تحت إشراف د. إسراء محمد سيد."
+			},
+			"مناهج معاهد القراءات - مرحلة التجويد - الصف الثاني": {
+				"url": "https://t.me/+yquX1TPWj1RlNWM0",
+				"url2": "",
+				"notes": "الصف الثاني - مرحلة التجويد - معاهد القراءات الأزهرية. تسجيلات صوتية وشروحات تعليمية تحت إشراف د. إسراء محمد سيد."
+			},
+			"مناهج معاهد القراءات - مرحلة التخصص - الصف الأول": {
+				"url": "https://t.me/+wf_PPOj0Rog3ZGNk",
+				"url2": "",
+				"notes": "الصف الأول - مرحلة التخصص - معاهد القراءات الأزهرية. مواد دراسية وكتب مسجلة صوتياً تحت إشراف د. إسراء محمد سيد."
+			},
+			"مناهج معاهد القراءات - مرحلة التخصص - الصف الثاني": {
+				"url": "https://t.me/+v9-N0oFEHtVkYTA0",
+				"url2": "",
+				"notes": "الصف الثاني - مرحلة التخصص - معاهد القراءات الأزهرية. مواد دراسية وكتب مسجلة صوتياً تحت إشراف د. إسراء محمد سيد."
+			},
+			"مناهج معاهد القراءات - مرحلة التخصص - الصف الثالث": {
+				"url": "https://t.me/+9vQk44vNN2M4ZTNk",
+				"url2": "",
+				"notes": "الصف الثالث - مرحلة التخصص - معاهد القراءات الأزهرية. مواد دراسية وكتب مسجلة صوتياً تحت إشراف د. إسراء محمد سيد."
+			},
+			"كتب وزارة التربية والتعليم": {
+				"url": "https://ellibrary.moe.gov.eg/Books/",
+				"url2": "",
+				"notes": "تحميل كتب الدراسية للوزارة"
+			},
+			"مناهج الأظهر الشريف": {
+				"url": "https://mtrl.azhar.gov.eg/education/index.htm",
+				"url2": "",
+				"notes": "تحميل الكتب الأهرية"
+			},
+			"الصف الثالث الأبتدائي": {
+				"url": "https://t.me/qadreen/123/252",
+				"url2": "",
+				"notes": "الفصل الدراسي الأول لعام 2026_2027"
+			},
+			"منهج الصف الثالث الأعدادي": {
+				"url": "https://t.me/qadreen/123/253",
+				"url2": "",
+				"notes": "الترد الدراسي الأول للعام الدراسي 2026_2027"
+			},
+			"مناهج الأزهر الشريف - الصف الثالث الابتدائي": {
+				"url": "https://t.me/+wfUpGNo4sGIxZDA0",
+				"url2": "",
+				"notes": "الصف الثالث الابتدائي - قطاع المعاهد الأزهرية. تسجيلات صوتية وشروحات وملخصات للمواد الشرعية والعربية والثقافية للعام الدراسي 2026/2027 بإشراف د. إسراء محمد سيد."
+			},
+			"مناهج الأزهر الشريف - الصف الرابع الابتدائي": {
+				"url": "https://t.me/+YAJcv4TS8003NTM0",
+				"url2": "",
+				"notes": "الصف الرابع الابتدائي - قطاع المعاهد الأزهرية. تسجيلات صوتية وشروحات وملخصات للمناهج الدراسية المحدثة للعام الدراسي 2026/2027 بإشراف د. إسراء محمد سيد."
+			},
+			"مناهج الأزهر الشريف - الصف الخامس الابتدائي": {
+				"url": "https://t.me/+bEYttCfP52NmMjc0",
+				"url2": "",
+				"notes": "الصف الخامس الابتدائي - قطاع المعاهد الأزهرية. تسجيلات صوتية وشروحات وملخصات لكافة المواد الدراسية المقررة للعام الدراسي 2026/2027 بإشراف د. إسراء محمد سيد."
+			},
+			"مناهج الأزهر الشريف - الصف السادس الابتدائي": {
+				"url": "https://t.me/+1RY-rc_JSgoxM2Nk",
+				"url2": "",
+				"notes": "الصف السادس الابتدائي - الشهادة الابتدائية الأزهرية. تسجيلات صوتية ومذكرات شاملة للمواد الشرعية والعربية والثقافية للعام الدراسي 2026/2027 بإشراف د. إسراء محمد سيد."
+			},
+			"مناهج الأزهر الشريف - الصف الأول الإعدادي": {
+				"url": "https://t.me/+MdtZS5d4hbY0MzI0",
+				"url2": "",
+				"notes": "الصف الأول الإعدادي - قطاع المعاهد الأزهرية. كتب مسجلة صوتياً وملخصات لجميع المواد الشرعية واللغوية والثقافية للعام الدراسي 2026/2027 بإشراف د. إسراء محمد سيد."
+			},
+			"مناهج الأزهر الشريف - الصف الثاني الإعدادي": {
+				"url": "https://t.me/+lJdp4QR_6cQzZTQ0",
+				"url2": "",
+				"notes": "الصف الثاني الإعدادي - قطاع المعاهد الأزهرية. تسجيلات صوتية ومذكرات للمناهج التعليمية المقررة للعام الدراسي 2026/2027 بإشراف د. إسراء محمد سيد."
+			},
+			"مناهج الأزهر الشريف - الصف الثالث الإعدادي": {
+				"url": "https://t.me/+2aWZi81WnV5jYTg0",
+				"url2": "",
+				"notes": "الصف الثالث الإعدادي - الشهادة الإعدادية الأزهرية. تسجيلات صوتية وشروحات لكافة المواد الشرعية والعربية والثقافية للعام الدراسي 2026/2027 بإشراف د. إسراء محمد سيد."
+			},
+			"مناهج الأزهر الشريف - الصف الأول الثانوي": {
+				"url": "https://t.me/+B0jkvLxfWZwyN2Vk",
+				"url2": "",
+				"notes": "الصف الأول الثانوي - قطاع المعاهد الأزهرية. تسجيلات صوتية ومذكرات دراسية للمواد الشرعية والعربية واللغات والثقافية للعام الدراسي 2026/2027 لحين صدور مستجدات نظام البكالوريا، بإشراف د. إسراء محمد"
+			},
+			"مناهج الأزهر الشريف - الصف الثاني الثانوي": {
+				"url": "https://t.me/+HjLQ8pflRfNhYWY8",
+				"url2": "",
+				"notes": "الصف الثاني الثانوي - قطاع المعاهد الأزهرية. تسجيلات صوتية وشروحات لكافة المقررات الدراسية للعام الدراسي 2026/2027 بإشراف د. إسراء محمد سيد."
+			},
+			"مناهج الأزهر الشريف - الصف الثالث الثانوي": {
+				"url": "https://t.me/+ZvOkcsrfmHIxZjQ0",
+				"url2": "",
+				"notes": "الصف الثالث الثانوي - الشهادة الثانوية الأزهرية. تسجيلات صوتية شاملة وملخصات للمواد الشرعية والعربية والثقافية واللغات الأجنبية للعام الدراسي 2026/2027 بإشراف د. إسراء محمد سيد."
+			}
+		},
+		"دورات  تعليمية": {
+			"Windows Secrets from Installation (2)": {
+				"url": "https://www.youtube.com/playlist?list=PLNiOj0p8nJxz-r1On1Nao6Iutr5SC4JV1",
+				"url2": "",
+				"notes": "دورة تعليمية شاملة تغطي خبايا وأسرار نظام Windows بدءاً من التثبيت وحتى الاحتراف"
+			},
+			"windows 11. (2)": {
+				"url": "https://www.youtube.com/watch?v=3XnrzsCtVog&list=PLwKd26mWLi-hJRqskY55zyFC8Cv1cdk1F",
+				"url2": "",
+				"notes": "دورة تدريبية لشرح نظام التشغيل Windows للمكفوفين، إعداد وتقديم: المدربة زينب بدر"
+			},
+			"Microsoft Word Course": {
+				"url": "https://www.youtube.com/playlist?list=PLZfa9u5Pp5nylhaq2162gHyn9z-7Tbot6",
+				"url2": "",
+				"notes": "قائمة تشغيل تعليمية لشرح برنامج Microsoft Word للمكفوفين، إعداد وتقديم: شهاب الدين جميل\""
+			},
+			"Windows 11 with أشرف هلال": {
+				"url": "https://www.youtube.com/playlist?list=PLZfa9u5Pp5nxrCe2ojZnxexg8LzhCbrzI",
+				"url2": "",
+				"notes": "سلسلة شروحات تفصيلية لنظام التشغيل Windows 11 واستخداماته مع قارئات الشاشة، إعداد وتقديم: أشرف هلال"
+			},
+			"Windows Secrets from Installation": {
+				"url": "https://www.youtube.com/playlist?list=PLNiOj0p8nJxz-r1On1Nao6Iutr5SC4JV1\",",
+				"url2": "",
+				"notes": "دورة تعليمية شاملة تغطي خبايا وأسرار نظام Windows بدءاً من التثبيت وحتى الاحتراف\""
+			},
+			"Microsoft Word 2010 for the Blind\": {": {
+				"url": "https://youtube.com/playlist?list=PLt4QF4VzPK5KLt1WpA_kWvV1X9sIASkmq",
+				"url2": "",
+				"notes": "سلسلة شروحات تعليمية لبرنامج Microsoft Word (أوفيس 2010) للمكفوفين، إعداد وتقديم: الأستاذة زمن"
+			},
+			"windows 11.": {
+				"url": "https://www.youtube.com/watch?v=3XnrzsCtVog&list=PLwKd26mWLi-hJRqskY55zyFC8Cv1cdk1F\",",
+				"url2": "",
+				"notes": "دورة تدريبية لشرح نظام التشغيل Windows للمكفوفين، إعداد وتقديم: المدربة زينب بدر\""
+			},
+			"دروس في ويندوز 10": {
+				"url": "https://www.youtube.com/playlist?list=PLchxlfQsAcw6khE6_6g-cSxBU5h_VQQtm",
+				"url2": "",
+				"notes": "بواسطةضاهر الويش"
+			},
+			"Audio Engineering for Computer\": {": {
+				"url": "https://youtube.com/playlist?list=PLpO646F1KWlMAe_69VJh1xqjguOFvNaG9",
+				"url2": "",
+				"notes": "سلسلة دروس في الهندسة الصوتية للكمبيوتر، إعداد وتقديم: الأستاذ عمار صالح"
+			},
+			"office 2013": {
+				"url": "https://www.youtube.com/watch?v=Hu-lYHq_XEE&list=PLZfa9u5Pp5nxSGpn7h3tSjYA1IfkrRxfH&pp=0gcJCbwFa94AFGB0",
+				"url2": "",
+				"notes": "دورة متكاملة لحزمة الأعمال المكتبية ميكروسوفت office للمدرب معتز الهادي"
+			},
+			"مايكروسوفت_اوفيس": {
+				"url": "https://www.youtube.com/watch?v=Qh1UtaxWwY4&t=103s",
+				"url2": "",
+				"notes": "شرحات office محمد عاطف الحلاج"
+			}
+		},
+		"الدراسات التخصصية، والأبحاث العلمية": {},
+		"الدراسات التخصصية، والأبحاث العلمية\": {}": {
+			"MalFarq Arabic Nuances Reference": {
+				"url": "https://www.malfarq.com/",
+				"url2": "",
+				"notes": "موسوعة ومعجم لغوي يوضح الفروق الدلالية والاصطلاحية الدقيقة بين الكلمات والمفاهيم في اللغة العربية والعلوم"
+			},
+			"Arood Master": {
+				"url": "https://www.aroodmaster.com/",
+				"url2": "",
+				"notes": "منصة متخصصة في تعليم علم العَروض وموازين الشعر العربي وتحليل الأبيات وتقطيعها عروضياً وتحديد بحورها"
+			},
+			"Semantic Scholar": {
+				"url": "https://www.semanticscholar.org/",
+				"url2": "",
+				"notes": "محرك بحث أكاديمي ذكي يعتمد على الذكاء الاصطناعي لتحليل الأوراق البحثية وتلخيصها واستخراج شبكات الاستشهادات المرجعية"
+			},
+			"Google Scholar": {
+				"url": "https://scholar.google.com/",
+				"url2": "https://scholar.google.com.eg/",
+				"notes": "محرك بحث أكاديمي شامل للبحث في الأوراق البحثية المحكمة والرسائل الجامعية والكتب الأكاديمية وتتبع الاستشهادات المرجعية"
+			},
+			"CORE Open Access Research": {
+				"url": "https://core.ac.uk/",
+				"url2": "",
+				"notes": "مستودع عالمي يجمع ويفهرس ملايين الأوراق والرسائل الأكاديمية مفتوحة المصدر مع إمكانية تحميل النصوص الكاملة مجاناً"
+			},
+			"Theses Univ-Batna": {
+				"url": "http://theses.univ-batna.dz/",
+				"url2": "",
+				"notes": "المستودع الرقمي لجامعة باتنة يتيح البحث وتحميل مذكرات الماجستير وأطروحات الدكتوراه الكاملة في مختلف التخصصات بصيغة PDF"
+			},
+			"OhioLINK ETD Center": {
+				"url": "https://etd.ohiolink.edu/",
+				"url2": "",
+				"notes": "مستودع أكاديمي مفتوح يتيح البحث وتنزيل النصوص الكاملة لرسائل الماجستير وأطروحات الدكتوراه المجازة بجامعات ولاية أوهايو الأمريكية بصيغة PDF"
+			},
+			"LMU Munich Electronic Theses": {
+				"url": "https://edoc.ub.uni-muenchen.de/",
+				"url2": "",
+				"notes": "مستودع رقمي أكاديمي تابع لجامعة ميونخ يتيح تصفح وتحميل أطروحات الدكتوراه ورسائل الماجستير الكاملة في مختلف العلوم بصيغة PDF"
+			},
+			"Constantine 1 University Theses": {
+				"url": "https://bu.umc.edu.dz/theses/",
+				"url2": "",
+				"notes": "المستودع الرقمي لجامعة قسنطينة يتيح البحث وتحميل أطروحات الدكتوراه ورسائل الماجستير الكاملة في مختلف التخصصات بصيغة PDF"
+			},
+			"Univ-Alger 2 Theses Repository": {
+				"url": "https://bu.univ-alger2.dz/",
+				"url2": "",
+				"notes": "المستودع الرقمي لجامعة الجزائر 2 يتيح البحث وتحميل أطروحات الدكتوراه ورسائل الماجستير المتخصصة في العلوم الإنسانية والاجتماعية واللغات بصيغة PDF"
+			}
+		},
+		"محركات بحثية ومكاتب جامعية": {}
 	},
 	"للكفيفات فقط": {},
 	"سوق المكفوفين": {},
@@ -950,9 +1705,515 @@
 		"Multimedia and Production Tools": {},
 		"Communication and messaging": {},
 		"Banking and Digital Wallets": {},
-		"Religious and Educational Software": {},
-		"AI and Visual Recognition Tools": {}
+		"AI and Visual Recognition Tools": {},
+		"Religious and Educational Software": {
+			"Qaf\": {": {
+				"url": "https://apps.apple.com/us/app/qaf-islamic-ai/id6767689775",
+				"url2": "",
+				"notes": "مساعد إسلامي بالذكاء الاصطناعي لطرح الأسئلة الدينية، وتفسير موضوعات القرآن، والبحث في الأدعية والأحكام والعبادات بعدة لغات، مطور بواسطة فريق عمل مشاريع Tarteel AI وQuran.com وطبعا لا يغني عن المصادر الرسمية"
+			}
+		}
 	},
 	"حقوق وخدمات المكفوفين": {},
-	"صنعة إيديا": {}
+	"صنعة إيديا": {},
+	"__metadata__": {
+		"cloud_deleted_urls": [
+			{
+				"url": "https://tecwindow.net/en/adobe-acrobat-reader-dc/download/eyJjb250ZW50X2lkIjoxNDgsImlwIjoiJXByb3h5X2FkZF94X2ZvcndhcmRlZF9mb3IlIn0:1x4957:EZj9roQ4NklMgcZa4oVR7V1uDU9twILCz4fiVXx2iIU/",
+				"name": "Adobe Acrobat Reader DC",
+				"group": "Arab blind technology",
+				"category": "Word Processing and Text Editing تحرير ومعالجة النصوص"
+			},
+			{
+				"url": "https://tecwindow.net/en/kurzweil-1000/download/eyJjb250ZW50X2lkIjoxNDksImlwIjoiJXByb3h5X2FkZF94X2ZvcndhcmRlZF9mb3IlIn0:1x49FN:E9qdbiOusTbjtlNz_ua1GVdaxbhSj_1rVEM3uW4YLjU/",
+				"name": "Kurzweil",
+				"group": "Arab blind technology",
+				"category": "Word Processing and Text Editing تحرير ومعالجة النصوص"
+			},
+			{
+				"url": "https://tecwindow.net/en/microsoft-office-2003-arabic/download/eyJjb250ZW50X2lkIjoxMDAsImlwIjoiJXByb3h5X2FkZF94X2ZvcndhcmRlZF9mb3IlIn0:1x48ll:JSeayXft10ao069JPcjb-nXGU4GFRmMMxfvEKgboSz8/",
+				"name": "Microsoft Office 2003 Arabic",
+				"group": "Arab blind technology",
+				"category": "Word Processing and Text Editing تحرير ومعالجة النصوص"
+			},
+			{
+				"url": "https://tecwindow.net/en/microsoft-office-2003-english/download/eyJjb250ZW50X2lkIjoxMDEsImlwIjoiJXByb3h5X2FkZF94X2ZvcndhcmRlZF9mb3IlIn0:1x48yE:-kvscIBefOYzjRVsIz1YXfldn2TVQN0473j6cMmcZCY/",
+				"name": "Microsoft Office 2003 English",
+				"group": "Arab blind technology",
+				"category": "Word Processing and Text Editing تحرير ومعالجة النصوص"
+			},
+			{
+				"url": "https://tecwindow.net/en/microsoft-office-2007-arabic/download/eyJjb250ZW50X2lkIjoxMDMsImlwIjoiJXByb3h5X2FkZF94X2ZvcndhcmRlZF9mb3IlIn0:1x48ll:22xzpkxGwZdEZwUrucdvFjZDuuXqzbttv80G8c1TWvA/",
+				"name": "Microsoft Office 2007 Arabic",
+				"group": "Arab blind technology",
+				"category": "Word Processing and Text Editing تحرير ومعالجة النصوص"
+			},
+			{
+				"url": "https://tecwindow.net/en/microsoft-office-2007-english/download/eyJjb250ZW50X2lkIjoxMDQsImlwIjoiJXByb3h5X2FkZF94X2ZvcndhcmRlZF9mb3IlIn0:1x48yE:rz3zjpZHxWP3sooK3SRbbQrPzxYnMbsVUEoZder61n8/",
+				"name": "Microsoft Office 2007 English",
+				"group": "Arab blind technology",
+				"category": "Word Processing and Text Editing تحرير ومعالجة النصوص"
+			},
+			{
+				"url": "https://tecwindow.net/en/microsoft-office-2010-x86-arabic/download/eyJjb250ZW50X2lkIjoxMDcsImlwIjoiJXByb3h5X2FkZF94X2ZvcndhcmRlZF9mb3IlIn0:1x48ll:FTHOyGxGdlGNl1A0Tffv0_Krvqiz50VJFsGp6-YU0Qw/",
+				"name": "Microsoft Office 2010 Arabic",
+				"group": "Arab blind technology",
+				"category": "Word Processing and Text Editing تحرير ومعالجة النصوص"
+			},
+			{
+				"url": "https://tecwindow.net/en/microsoft-office-2010-x64-arabic/download/eyJjb250ZW50X2lkIjoxMDYsImlwIjoiJXByb3h5X2FkZF94X2ZvcndhcmRlZF9mb3IlIn0:1x48ll:NSFIU3WUuBHvUe4UDY_5jAC3c7EqlxHN-nVv4-hWEnY/",
+				"name": "Microsoft Office 2010 Arabic.",
+				"group": "Arab blind technology",
+				"category": "Word Processing and Text Editing تحرير ومعالجة النصوص"
+			},
+			{
+				"url": "https://tecwindow.net/en/microsoft-office-2010-x86-english/download/eyJjb250ZW50X2lkIjoxMDksImlwIjoiJXByb3h5X2FkZF94X2ZvcndhcmRlZF9mb3IlIn0:1x48yE:R-hxQBBIllQ4J33BjQyfUghZ0EgVPtY85JoHeFDCsO0/",
+				"name": "Microsoft Office 2010 English",
+				"group": "Arab blind technology",
+				"category": "Word Processing and Text Editing تحرير ومعالجة النصوص"
+			},
+			{
+				"url": "https://tecwindow.net/en/microsoft-office-2010-x64-english/download/eyJjb250ZW50X2lkIjoxMDgsImlwIjoiJXByb3h5X2FkZF94X2ZvcndhcmRlZF9mb3IlIn0:1x48yE:_z7pW3wfZeMFSp7XnBsYAOBhNi6HdAElTQWUOEeRZuU/",
+				"name": "Microsoft Office 2010 English.",
+				"group": "Arab blind technology",
+				"category": "Word Processing and Text Editing تحرير ومعالجة النصوص"
+			},
+			{
+				"url": "https://tecwindow.net/en/google-chrome-64-bit/download/eyJjb250ZW50X2lkIjoxMTA0LCJpcCI6IiVwcm94eV9hZGRfeF9mb3J3YXJkZWRfZm9yJSJ9:1x3kMy:9B7ecW6tRl7lgZTgcL7oCuLSwX_qnW-sKcmKdy6toeM/",
+				"name": "Google Chrome (2)",
+				"group": "Arab blind technology",
+				"category": "Internet Browsers"
+			},
+			{
+				"url": "https://tecwindow.net/en/firefox-x86/download/eyJjb250ZW50X2lkIjo0NTgsImlwIjoiJXByb3h5X2FkZF94X2ZvcndhcmRlZF9mb3IlIn0:1x3kMy:McUaycL-qG94CFc-3Ko_LTCTeYLWWv6DtuHi4_5W-x0/",
+				"name": "Firefox.",
+				"group": "Arab blind technology",
+				"category": "Internet Browsers"
+			},
+			{
+				"url": "https://tecwindow.net/en/microsoft-edge/download/eyJjb250ZW50X2lkIjo1NTEsImlwIjoiJXByb3h5X2FkZF94X2ZvcndhcmRlZF9mb3IlIn0:1x3kMy:5wyDoiD37IqohLwPsg9RFV4awqBSwXAkXDK-xN--txs/",
+				"name": "Microsoft Edge",
+				"group": "Arab blind technology",
+				"category": "Internet Browsers"
+			},
+			{
+				"url": "https://tecwindow.net/ar/windows/text-editing-and-processing/microsoft-office-2003-arabic/",
+				"name": "Microsoft Office 2003 Arabic (2)",
+				"group": "Arab blind technology",
+				"category": "Word Processing and Text Editing تحرير ومعالجة النصوص"
+			},
+			{
+				"url": "https://tecwindow.net/ar/windows/text-editing-and-processing/microsoft-office-2007-arabic/",
+				"name": "Microsoft Office 2007 Arabic (2)",
+				"group": "Arab blind technology",
+				"category": "Word Processing and Text Editing تحرير ومعالجة النصوص"
+			},
+			{
+				"url": "https://tecwindow.net/ar/windows/text-editing-and-processing/microsoft-office-2010-x86-english/",
+				"name": "Microsoft Office 2010 English (2)",
+				"group": "Arab blind technology",
+				"category": "Word Processing and Text Editing تحرير ومعالجة النصوص"
+			},
+			{
+				"url": "https://tecwindow.net/en/brave-x64bit/download/eyJjb250ZW50X2lkIjoxMDQ4LCJpcCI6IiVwcm94eV9hZGRfeF9mb3J3YXJkZWRfZm9yJSJ9:1x3kMy:sJ2ZffyVcud7nMQUzSGDWWOLZlnAJagPp-YJ57-o0gk/",
+				"name": "Brave (2)",
+				"group": "Arab blind technology",
+				"category": "Internet Browsers"
+			},
+			{
+				"url": "https://tecwindow.net/en/brave-x86/download/eyJjb250ZW50X2lkIjoxMDQ5LCJpcCI6IiVwcm94eV9hZGRfeF9mb3J3YXJkZWRfZm9yJSJ9:1x3kMy:eNm7NTxVFqXhr5IsWLSQqBDwtVsfXSEdD1yiuAt1TSA/",
+				"name": "Brave X86 (2)",
+				"group": "Arab blind technology",
+				"category": "Internet Browsers"
+			},
+			{
+				"url": "https://tecwindow.net/en/firefox-x64/download/eyJjb250ZW50X2lkIjo0NTcsImlwIjoiJXByb3h5X2FkZF94X2ZvcndhcmRlZF9mb3IlIn0:1x3kMy:nIUpgh1wLS3m8DAapjZ9-V6boIxmeJ-J1QcWqxTd9UI/",
+				"name": "Firefox",
+				"group": "Arab blind technology",
+				"category": "Internet Browsers"
+			},
+			{
+				"url": "https://tecwindow.net/en/google-chrome-32-bit/download/eyJjb250ZW50X2lkIjoxMTA1LCJpcCI6IiVwcm94eV9hZGRfeF9mb3J3YXJkZWRfZm9yJSJ9:1x3kMy:Vb--vfDfsZZ__MoDKDjEVc-qoDriR2m1lWy_cBD5cWA/",
+				"name": "Google Chrome. (2)",
+				"group": "Arab blind technology",
+				"category": "Internet Browsers"
+			},
+			{
+				"url": "https://tecwindow.net/en/microsoft-edge-for-windows7881/download/eyJjb250ZW50X2lkIjo1NTIsImlwIjoiJXByb3h5X2FkZF94X2ZvcndhcmRlZF9mb3IlIn0:1x3kMy:r0Rb1xtGvMsu_kEkYX5lsLM6gStBSxFIogOc7S50Vl8/",
+				"name": "Microsoft Edge. (2)",
+				"group": "Arab blind technology",
+				"category": "Internet Browsers"
+			},
+			{
+				"url": "https://tecwindow.net/en/opera/download/eyJjb250ZW50X2lkIjo0NjMsImlwIjoiJXByb3h5X2FkZF94X2ZvcndhcmRlZF9mb3IlIn0:1x4HQB:2kkpfOP5CteauQVRnrVZ0HUjNDW_VT2VatRDxNeXTAo/",
+				"name": "Opera (2)",
+				"group": "Arab blind technology",
+				"category": "Internet Browsers"
+			},
+			{
+				"url": "https://tecwindow.net/en/opera-x86/download/eyJjb250ZW50X2lkIjoxMDYxLCJpcCI6IiVwcm94eV9hZGRfeF9mb3J3YXJkZWRfZm9yJSJ9:1x4HQB:5_Wn8XdAn-xBuhSeAfgiwkCM4lsKVaFMniDooUaSt_4/",
+				"name": "Opera. (2)",
+				"group": "Arab blind technology",
+				"category": "Internet Browsers"
+			},
+			{
+				"url": "https://tecwindow.net/ar/windows/text-editing-and-processing/microsoft-office-2003-english/",
+				"name": "Microsoft Office 2003 English (2)",
+				"group": "Arab blind technology",
+				"category": "Word Processing and Text Editing تحرير ومعالجة النصوص"
+			},
+			{
+				"url": "https://tecwindow.net/ar/windows/text-editing-and-processing/microsoft-office-2010-x86-arabic/",
+				"name": "Microsoft Office 2010 Arabic (2)",
+				"group": "Arab blind technology",
+				"category": "Word Processing and Text Editing تحرير ومعالجة النصوص"
+			},
+			{
+				"url": "https://tecwindow.net/ar/windows/text-editing-and-processing/microsoft-office-2010-x64-english/",
+				"name": "Microsoft Office 2010 English. (2)",
+				"group": "Arab blind technology",
+				"category": "Word Processing and Text Editing تحرير ومعالجة النصوص"
+			},
+			{
+				"url": "https://tecwindow.net/en/internet-download-manager-idm/download/eyJjb250ZW50X2lkIjo2MSwiaXAiOiIlcHJveHlfYWRkX3hfZm9yd2FyZGVkX2ZvciUifQ:1x3jxM:xGy93TNCSVmEJtgRyp4SD3QmdntZcgTFxOWtOh9nz_g/",
+				"name": "Internet Download Manager IDM (2)",
+				"group": "Arab blind technology",
+				"category": "Download and Upload Tools"
+			},
+			{
+				"url": "https://drive.google.com/drive/folders/1MgyOTbeZ4dfmdLXfDSP6QTrjyS4XSVtp?usp=sharing\",",
+				"name": "Alexir Library\":",
+				"group": "arabic Bookshare",
+				"category": "مكاتب ومؤلفين"
+			},
+			{
+				"url": "https://tecwindow.net/ar/windows/text-editing-and-processing/adobe-acrobat-reader-dc/",
+				"name": "Adobe Acrobat Reader DC (2)",
+				"group": "Arab blind technology",
+				"category": "Word Processing and Text Editing تحرير ومعالجة النصوص"
+			},
+			{
+				"url": "https://tecwindow.net/en/bookworm-x32-installer/download/eyJjb250ZW50X2lkIjo3MDksImlwIjoiJXByb3h5X2FkZF94X2ZvcndhcmRlZF9mb3IlIn0:1x49Ag:jPxWxv3SdwbXKPeMUTDq-nvHwemOy1Qv6pX1u9-Dl5w/",
+				"name": "Bookworm Installer (2)",
+				"group": "Arab blind technology",
+				"category": "Word Processing and Text Editing تحرير ومعالجة النصوص"
+			},
+			{
+				"url": "https://tecwindow.net/en/bookworm-x64-installer/download/eyJjb250ZW50X2lkIjo3MTAsImlwIjoiJXByb3h5X2FkZF94X2ZvcndhcmRlZF9mb3IlIn0:1x48yE:NvYFpUzbNWVJizySDUWvn847mKtFjGckQ4ElNXd_DLM/",
+				"name": "Bookworm Installer. (2)",
+				"group": "Arab blind technology",
+				"category": "Word Processing and Text Editing تحرير ومعالجة النصوص"
+			},
+			{
+				"url": "https://tecwindow.net/en/Bookworm-X32-portable/download/eyJjb250ZW50X2lkIjo3MDgsImlwIjoiJXByb3h5X2FkZF94X2ZvcndhcmRlZF9mb3IlIn0:1x499o:O4FZRU2LgtetxswWlyKJoTaC8se_nYcItc0PCvu_17Q/",
+				"name": "Bookworm Portable (2)",
+				"group": "Arab blind technology",
+				"category": "Word Processing and Text Editing تحرير ومعالجة النصوص"
+			},
+			{
+				"url": "https://tecwindow.net/en/bookworm-x64-portable/download/eyJjb250ZW50X2lkIjo3MDcsImlwIjoiJXByb3h5X2FkZF94X2ZvcndhcmRlZF9mb3IlIn0:1x48yE:bCgcOpN4xMI24Zk5hePzJ9yAC5aXYR0pVPwrbH0q2GQ/",
+				"name": "Bookworm Portable. (2)",
+				"group": "Arab blind technology",
+				"category": "Word Processing and Text Editing تحرير ومعالجة النصوص"
+			},
+			{
+				"url": "https://tecwindow.net/en/accessible-youtube-downloader-pro/download/eyJjb250ZW50X2lkIjo3NDgsImlwIjoiJXByb3h5X2FkZF94X2ZvcndhcmRlZF9mb3IlIn0:1x3jxM:HidKfAILGX_0PbaRPvS-k0lznvQq96dsbKcri8_sNgg/",
+				"name": "Accessible YouTube Downloader Pro (2)",
+				"group": "Arab blind technology",
+				"category": "Download and Upload Tools"
+			},
+			{
+				"url": "https://ins5.arfiles.net/Android%20Studio%202025.2.2.8%20x64.rar\",",
+				"name": "Android Studio\": {",
+				"group": "Arab blind technology",
+				"category": "General"
+			},
+			{
+				"url": "https://tecwindow.net/ar/be-my-eyes-1170/download/eyJjb250ZW50X2lkIjoxMTcwLCJpcCI6IiVwcm94eV9hZGRfeF9mb3J3YXJkZWRfZm9yJSJ9:1x4Dxm:B0G4GGOMkDClajnkKS2oWb4oLSXMgqIS_6eePfR_t3Q/",
+				"name": "Be My Eyes",
+				"group": "Arab blind technology",
+				"category": "AI and Visual Recognition Tools"
+			},
+			{
+				"url": "https://tecwindow.net/ar/chatgpt-1243/download/eyJjb250ZW50X2lkIjoxMjQzLCJpcCI6IiVwcm94eV9hZGRfeF9mb3J3YXJkZWRfZm9yJSJ9:1x4DZE:8PrnR6zxbVijTsQ1YgndQ0TvEkqB_AWWQjtWO6kBFms/",
+				"name": "ChatGPT",
+				"group": "Arab blind technology",
+				"category": "AI and Visual Recognition Tools"
+			},
+			{
+				"url": "https://tecwindow.net/ar/i-pdf/download/eyJjb250ZW50X2lkIjoxMjg1LCJpcCI6IiVwcm94eV9hZGRfeF9mb3J3YXJkZWRfZm9yJSJ9:1x4Dxm:Vyx3KUORWGhdFmxy26uwHUmtAyVqvg4ca6APElvhmMM/",
+				"name": "i-PDF (2) (2)",
+				"group": "Arab blind technology",
+				"category": "AI and Visual Recognition Tools"
+			},
+			{
+				"url": "https://tecwindow.net/ar/mareader/download/eyJjb250ZW50X2lkIjoxMzYxLCJpcCI6IiVwcm94eV9hZGRfeF9mb3J3YXJkZWRfZm9yJSJ9:1x4Dxm:ZcPRPwmfkQ_58ThAPCADuCwSdb4i7U42kSmU4WgBg0E/",
+				"name": "MAReader",
+				"group": "Arab blind technology",
+				"category": "AI and Visual Recognition Tools"
+			},
+			{
+				"url": "https://tecwindow.net/ar/scribeme/download/eyJjb250ZW50X2lkIjoxMTk4LCJpcCI6IiVwcm94eV9hZGRfeF9mb3J3YXJkZWRfZm9yJSJ9:1x4Dxm:aqU6tJN2YxVuaG1SxzRVciSkhPOrKtmvLwbL1fe5p20/",
+				"name": "ScribeMe",
+				"group": "Arab blind technology",
+				"category": "AI and Visual Recognition Tools"
+			},
+			{
+				"url": "https://tecwindow.net/en/accsicapture/download/eyJjb250ZW50X2lkIjoxMzc0LCJpcCI6IiVwcm94eV9hZGRfeF9mb3J3YXJkZWRfZm9yJSJ9:1x4N96:R0zbmnhO7s1nQKWkI-gT-mCCQoF2_a53uEMDUag9dko/",
+				"name": "AccsiCapture",
+				"group": "Arab blind technology",
+				"category": "Multimedia and Production Tools"
+			},
+			{
+				"url": "https://t.me/qadreen/11/60",
+				"name": "حزمة إضافات Ahmed Ghazy v9.3 لقارئ الشاشة Jieshuo",
+				"group": "أندرويد الكفيف العربي",
+				"category": "Screen Readers"
+			},
+			{
+				"url": "https://apps.microsoft.com/detail/9NHHQHJFNHSJ?hl=en-us&gl=EG&ocid=pdpshare\",",
+				"name": "Productivity Companion\": {",
+				"group": "Arab blind technology",
+				"category": "AI and Visual Recognition Tools"
+			},
+			{
+				"url": "https://apps.microsoft.com/detail/9nhhqhjfnhsj",
+				"name": "Productivity Companion (2)",
+				"group": "Arab blind technology",
+				"category": "General"
+			},
+			{
+				"url": "https://apps.microsoft.com/detail/9NHHQHJFNHSJ?hl=en-us&gl=EG&ocid=pdpshare",
+				"name": "Productivity Companion",
+				"group": "Arab blind technology",
+				"category": "AI and Visual Recognition Tools"
+			},
+			{
+				"url": "https://apps.microsoft.com/detail/9P9XG917PWCJ?hl=en-us&gl=EG&ocid=pdpshare",
+				"name": "Perplexity.",
+				"group": "Arab blind technology",
+				"category": "AI and Visual Recognition Tools"
+			},
+			{
+				"url": "https://tecwindow.net/ar/microsoft-copilot-1233/download/eyJjb250ZW50X2lkIjoxMjMzLCJpcCI6IiVwcm94eV9hZGRfeF9mb3J3YXJkZWRfZm9yJSJ9:1x4DZE:yinKjG2lBfgkELBrK3-6EzORLQZWCIPKeQTadW5-1Fo/",
+				"name": "Microsoft Copilot",
+				"group": "Arab blind technology",
+				"category": "AI and Visual Recognition Tools"
+			},
+			{
+				"url": "https://tecwindow.net/ar/claude-1234/download/eyJjb250ZW50X2lkIjoxMjM0LCJpcCI6IiVwcm94eV9hZGRfeF9mb3J3YXJkZWRfZm9yJSJ9:1x4DZE:IiVxO-RC-aKu4Zkum-yLiq8IihF4ysXk9s_V5a8yZxM/",
+				"name": "Claude",
+				"group": "Arab blind technology",
+				"category": "AI and Visual Recognition Tools"
+			},
+			{
+				"url": "https://tecwindow.net/ar/tech-freedom-1247/download/eyJjb250ZW50X2lkIjoxMjQ3LCJpcCI6IiVwcm94eV9hZGRfeF9mb3J3YXJkZWRfZm9yJSJ9:1x4Dxm:QdUH58ePkuFKVsCvrDdZ8efDSVv-mXOc4hxt2UXEHIY/",
+				"name": "Tech Freedom (2) (2) (2)",
+				"group": "Arab blind technology",
+				"category": "AI and Visual Recognition Tools"
+			},
+			{
+				"url": "https://tecwindow.net/ar/abbyy-finereader-standard-edition/download/eyJjb250ZW50X2lkIjoxNTAsImlwIjoiJXByb3h5X2FkZF94X2ZvcndhcmRlZF9mb3IlIn0:1x4EXb:bhV9rWYZ9l2Vtq9X8GO7P-pq9XLPwHPodsS8JiGVCrU/",
+				"name": "ABBYY FineReader Standard (2) (2) (2) (2)",
+				"group": "Arab blind technology",
+				"category": "AI and Visual Recognition Tools"
+			},
+			{
+				"url": "https://tecwindow.net/en/windows/text-editing-and-processing/abbyy-finereader-standard-edition/",
+				"name": "ABBYY FineReader Standard (2) (2) (2)",
+				"group": "Arab blind technology",
+				"category": "AI and Visual Recognition Tools"
+			},
+			{
+				"url": "https://tecwindow.net/en/telegram-x64/download/eyJjb250ZW50X2lkIjoxMzQ5LCJpcCI6IiVwcm94eV9hZGRfeF9mb3J3YXJkZWRfZm9yJSJ9:1x3f1X:baDLXkJ5Ldnu6IdvkxuAzUQPylcWNS5UbiXtPw9GxKs/",
+				"name": "Telegram X64 (2) (2) (2)",
+				"group": "Arab blind technology",
+				"category": "Communication and messaging"
+			},
+			{
+				"url": "https://tecwindow.net/en/teamtalk/download/eyJjb250ZW50X2lkIjoyMDAsImlwIjoiJXByb3h5X2FkZF94X2ZvcndhcmRlZF9mb3IlIn0:1x3f1X:PPgry3iZafXj5RnA8pR3tQAhPGT2ryvXOAWAojZCPmY/",
+				"name": "TeamTalk (2) (2) (2)",
+				"group": "Arab blind technology",
+				"category": "Communication and messaging"
+			},
+			{
+				"url": "https://tecwindow.net/en/teamtalk-portable-x64/download/eyJjb250ZW50X2lkIjo5NDYsImlwIjoiJXByb3h5X2FkZF94X2ZvcndhcmRlZF9mb3IlIn0:1x3f1X:6MYwm_zFABpV791uIF9UUMUy0Y0j7GmUCIg9pdh5Wqo/",
+				"name": "TeamTalk Portable X64 (2) (2) (2)",
+				"group": "Arab blind technology",
+				"category": "Communication and messaging"
+			},
+			{
+				"url": "https://tecwindow.net/en/zoom-x64/download/eyJjb250ZW50X2lkIjoxOTYsImlwIjoiJXByb3h5X2FkZF94X2ZvcndhcmRlZF9mb3IlIn0:1x3f1X:hI_DsQ6Hk7oi8C536Habe_vrGgcmO4h9d_Ilx0anQio/",
+				"name": "Zoom X64 (2) (2) (2)",
+				"group": "Arab blind technology",
+				"category": "Communication and messaging"
+			},
+			{
+				"url": "https://tecwindow.net/en/whatsapp-559/download/eyJjb250ZW50X2lkIjo1NTksImlwIjoiJXByb3h5X2FkZF94X2ZvcndhcmRlZF9mb3IlIn0:1x3f1X:JSGgQGF7TquO8cSvHSlpiRPu9ItgM2Bq6lxPZlAEpdw/",
+				"name": "whatsap (2) (2) (2)",
+				"group": "Arab blind technology",
+				"category": "Communication and messaging"
+			},
+			{
+				"url": "https://tecwindow.net/en/unigram/download/eyJjb250ZW50X2lkIjoxOTIsImlwIjoiJXByb3h5X2FkZF94X2ZvcndhcmRlZF9mb3IlIn0:1x3f1X:c6TVG0POmBDE-vVXab33pA1l7fL7tDy5hfVVigsjjPA/",
+				"name": "unigram (2) (2) (2)",
+				"group": "Arab blind technology",
+				"category": "Communication and messaging"
+			},
+			{
+				"url": "https://tecwindow.net/en/discord-x64/download/eyJjb250ZW50X2lkIjoxOTMsImlwIjoiJXByb3h5X2FkZF94X2ZvcndhcmRlZF9mb3IlIn0:1x3f1X:wwsQDsBUnc2VJ7fe1ZJWLLby7vZOCRBPXurAq-rLNr0/",
+				"name": "Discord X64 (2) (2) (2)",
+				"group": "Arab blind technology",
+				"category": "Communication and messaging"
+			},
+			{
+				"url": "https://tecwindow.net/en/clubdeck/download/eyJjb250ZW50X2lkIjoxOTUsImlwIjoiJXByb3h5X2FkZF94X2ZvcndhcmRlZF9mb3IlIn0:1x3f1X:OynfDWj953w5OzP9nI2JgiSUTWscPuio9Hp2tzJos6A/",
+				"name": "Clubdeck (2) (2) (2)",
+				"group": "Arab blind technology",
+				"category": "Communication and messaging"
+			},
+			{
+				"url": "https://tecwindow.net/en/dropbox/download/eyJjb250ZW50X2lkIjo1MiwiaXAiOiIlcHJveHlfYWRkX3hfZm9yd2FyZGVkX2ZvciUifQ:1x3jg4:NssKamktRXho1YtCjLZTl6u8285Py-B0sJPMPHdIZf4/",
+				"name": "Dropbox",
+				"group": "Arab blind technology",
+				"category": "Download and Upload Tools"
+			},
+			{
+				"url": "https://tecwindow.net/en/google-drive-drive-file-stream-1110/download/eyJjb250ZW50X2lkIjoxMTEwLCJpcCI6IiVwcm94eV9hZGRfeF9mb3J3YXJkZWRfZm9yJSJ9:1x3jfr:Bza6k8dkNfjtI4rgLJo4_6wnbCPG_zW6OL9apw1OBhM/",
+				"name": "Google Drive Drive File Stream",
+				"group": "Arab blind technology",
+				"category": "Download and Upload Tools"
+			},
+			{
+				"url": "https://archive.org/download/abbyy-finereader-11.0.102.536-professional-edition-silent/ABBYY.FineReader.v11.0.102.536.exe",
+				"name": "ABBYY FineReader Standard (2) (2)",
+				"group": "Arab blind technology",
+				"category": "AI and Visual Recognition Tools"
+			},
+			{
+				"url": "https://tecwindow.net/en/dropbox-offline-installer-x64/download/eyJjb250ZW50X2lkIjoxMDYwLCJpcCI6IiVwcm94eV9hZGRfeF9mb3J3YXJkZWRfZm9yJSJ9:1x4HOi:uc8uyRkPvKu76T3K2O5GUoq1gQS-GX2PkP-2OjnZkU4/",
+				"name": "Dropbox Offline Installer (2) (2) (2) (2)",
+				"group": "Arab blind technology",
+				"category": "Download and Upload Tools"
+			},
+			{
+				"url": "https://tecwindow.net/en/filezilla-client-x64/download/eyJjb250ZW50X2lkIjo1OSwiaXAiOiIlcHJveHlfYWRkX3hfZm9yd2FyZGVkX2ZvciUifQ:1x3jfr:tUHi29kdfqGu4yqqCjkCBdP2feG5et3vXmgt_yrzecU/",
+				"name": "FileZilla Client X64 (2) (2) (2) (2)",
+				"group": "Arab blind technology",
+				"category": "Download and Upload Tools"
+			},
+			{
+				"url": "https://tecwindow.net/en/free-download-manager/download/eyJjb250ZW50X2lkIjo2MywiaXAiOiIlcHJveHlfYWRkX3hfZm9yd2FyZGVkX2ZvciUifQ:1x3jxM:dGegqDAzKBYidesSc4nVi4QjH3VMOvqZFdfhdhAOwVQ/",
+				"name": "Free Download Manager (2) (2) (2) (2)",
+				"group": "Arab blind technology",
+				"category": "Download and Upload Tools"
+			},
+			{
+				"url": "https://tecwindow.net/en/google-drive-drive-file-stream/download/eyJjb250ZW50X2lkIjo1MywiaXAiOiIlcHJveHlfYWRkX3hfZm9yd2FyZGVkX2ZvciUifQ:1x4AcC:RDf0G6DneDrSa6r2iUsdAryRjVRm2MXY_CPCsDy9yfs/",
+				"name": "Google Drive (2) (2) (2) (2)",
+				"group": "Arab blind technology",
+				"category": "Download and Upload Tools"
+			},
+			{
+				"url": "https://tecwindow.net/en/mega-x64/download/eyJjb250ZW50X2lkIjo1NSwiaXAiOiIlcHJveHlfYWRkX3hfZm9yd2FyZGVkX2ZvciUifQ:1x3jfr:cafkrthmYt_Rw3zeguuOSyGSBz2cKnExvapxCIB0xMw/",
+				"name": "Mega X64",
+				"group": "Arab blind technology",
+				"category": "Download and Upload Tools"
+			},
+			{
+				"url": "https://tecwindow.net/en/mega-x86/download/eyJjb250ZW50X2lkIjo1NiwiaXAiOiIlcHJveHlfYWRkX3hfZm9yd2FyZGVkX2ZvciUifQ:1x3jfr:PATZlVpGS7QGTmm6wN5BV45ao0eXGevZxynENZkuSkg/",
+				"name": "Mega X86 (2) (2) (2) (2)",
+				"group": "Arab blind technology",
+				"category": "Download and Upload Tools"
+			},
+			{
+				"url": "https://tecwindow.net/en/one-drive/download/eyJjb250ZW50X2lkIjo1NCwiaXAiOiIlcHJveHlfYWRkX3hfZm9yd2FyZGVkX2ZvciUifQ:1x3jfr:Bi8Ziams13A2bDJmhnsahWP7ZgZVa0JmV8WD1D7Mdc8/",
+				"name": "One Drive (2) (2) (2) (2)",
+				"group": "Arab blind technology",
+				"category": "Download and Upload Tools"
+			},
+			{
+				"url": "https://tecwindow.net/en/quick-share/download/eyJjb250ZW50X2lkIjoxMDI4LCJpcCI6IiVwcm94eV9hZGRfeF9mb3J3YXJkZWRfZm9yJSJ9:1x4Agv:Jha5CFmntiragk_JdK3f0B3gBEST_ZbSuTlrNXvQMU0/",
+				"name": "Quick Share (2) (2) (2) (2)",
+				"group": "Arab blind technology",
+				"category": "Download and Upload Tools"
+			},
+			{
+				"url": "https://tecwindow.net/en/renova-music/download/eyJjb250ZW50X2lkIjo5NTEsImlwIjoiJXByb3h5X2FkZF94X2ZvcndhcmRlZF9mb3IlIn0:1x3jxM:h6zTMHcj1SDOb97OPJtS5BGJ1cLLDd_CZc9lJ6cDJ0o/",
+				"name": "Renova Music (2)",
+				"group": "Arab blind technology",
+				"category": "Download and Upload Tools"
+			},
+			{
+				"url": "https://tecwindow.net/en/tca-media-downloader/download/eyJjb250ZW50X2lkIjo2NywiaXAiOiIlcHJveHlfYWRkX3hfZm9yd2FyZGVkX2ZvciUifQ:1x3jxM:lPgIloErHDTtr8hKQVXJfMhY0xvIbdlpEsHsFuq2SKI/",
+				"name": "TCA Media Downloader (2) (2) (2) (2)",
+				"group": "Arab blind technology",
+				"category": "Download and Upload Tools"
+			},
+			{
+				"url": "https://tecwindow.net/en/winscp/download/eyJjb250ZW50X2lkIjo1OCwiaXAiOiIlcHJveHlfYWRkX3hfZm9yd2FyZGVkX2ZvciUifQ:1x3jfr:fksRJPubjnNk5pUwSutOL1i7LyFdhKj58tHa1QR1wbs/",
+				"name": "WinSCP (2) (2) (2) (2)",
+				"group": "Arab blind technology",
+				"category": "Download and Upload Tools"
+			},
+			{
+				"url": "https://tecwindow.net/en/icloud/download/eyJjb250ZW50X2lkIjoxMTU1LCJpcCI6IiVwcm94eV9hZGRfeF9mb3J3YXJkZWRfZm9yJSJ9:1x4AGz:jJvPaHzNA1kfvkuA7WYUuVImA8ewpanJYAIEFuWNQCo/",
+				"name": "iCloud X64",
+				"group": "Arab blind technology",
+				"category": "Download and Upload Tools"
+			},
+			{
+				"url": "https://tecwindow.net/en/pcloud/download/eyJjb250ZW50X2lkIjo1NywiaXAiOiIlcHJveHlfYWRkX3hfZm9yd2FyZGVkX2ZvciUifQ:1x3jfr:rJucjkQ0Jpfo5V7_lgiWbBj6OdHgOQQza73Gm_IBEC0/",
+				"name": "pCloud (2) (2) (2) (2)",
+				"group": "Arab blind technology",
+				"category": "Download and Upload Tools"
+			},
+			{
+				"url": "https://tecwindow.net/en/qbittorrent/download/eyJjb250ZW50X2lkIjoxMDkzLCJpcCI6IiVwcm94eV9hZGRfeF9mb3J3YXJkZWRfZm9yJSJ9:1x3jxM:GQ5lK_vdBXgSQQvDIAlSF20coAZYD62voG1uWbe9kFg/",
+				"name": "qBittorrent (2) (2) (2) (2)",
+				"group": "Arab blind technology",
+				"category": "Download and Upload Tools"
+			},
+			{
+				"url": "https://tecwindow.net/en/qbittorrent-x64/download/eyJjb250ZW50X2lkIjoxMDk0LCJpcCI6IiVwcm94eV9hZGRfeF9mb3J3YXJkZWRfZm9yJSJ9:1x3jxM:5B9htawgnQ-owrUu8EJykxlSwCXm9kp3bz3rhn-2yoc/",
+				"name": "qBittorrent X64",
+				"group": "Arab blind technology",
+				"category": "Download and Upload Tools"
+			}
+		]
+	},
+	"My Courses": {
+		"مصادر وروابط هامة": {
+			"مدونة معتز": {
+				"url": "https://mutaz.net/win.php",
+				"url2": "",
+				"notes": "برامج وكورسات هامة"
+			},
+			"أضافة Qadreen": {
+				"url": "https://github.com/saedmohamedn2210-create/Qadreen/releases/download/v1.1.5/Qadreen.1.nvda-addon",
+				"url2": "",
+				"notes": "رابت تحميل الأضافة"
+			},
+			"رابط المحاضرات": {
+				"url": "https://meet.google.com/hcs-ygfw-dhd",
+				"url2": "",
+				"notes": "رابط دائم للكورسات"
+			},
+			"مجموعة ميكروسوفت office كاملة بالنواتين": {
+				"url": "https://www.mutaz-blog.net/%D8%AA%D8%AC%D9%85%D9%8A%D8%B9%D9%8A%D8%A9-%D9%85%D8%A7%D9%8A%D9%83%D8%B1%D9%88%D8%B3%D9%88%D9%81%D8%AA-%D8%A3%D9%88%D9%81%D9%8A%D8%B3/",
+				"url2": "",
+				"notes": ""
+			},
+			"كورس الai": {
+				"url": "https://www.aibdaya.com/?gad_source=2&gad_campaignid=24079724851&wbraid=ClkKCAjwk5nVBhBZEkkA5VwiBkZqczFuti4ZkZ2m_KtKcEdPOoVyj4uRr8n43o4mrR_hEI7KD0wgfHqis7XG0rn6J357avRkKUi-gmiJ7dO8XtkVgRlmGgJxkw",
+				"url2": "",
+				"notes": "لتقديم معى الدكتور محمود عيد"
+			},
+			"حسابي على واتساب": {
+				"url": "https://wa.me/201017471652",
+				"url2": "",
+				"notes": ""
+			}
+		}
+	}
 }
