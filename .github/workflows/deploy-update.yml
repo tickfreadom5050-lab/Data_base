@@ -1,26 +1,26 @@
-name: Auto Update Data and Version
+STREAMING_CHUNK:Configuring workflow triggers...
+​name: Auto Update Data and Version
 ​on:
 schedule:
 - cron: '0 0 * * *'
 workflow_dispatch:
+​STREAMING_CHUNK:Defining update job...
 ​jobs:
 update-files:
 runs-on: ubuntu-latest
 steps:
+# STREAMING_CHUNK:Checking out repository...
 - name: Checkout Repository
 uses: actions/checkout@v4
 with:
 token: ${{ secrets.PAT_TOKEN }}
-​- name: Debug Environment
-run: |
-pwd
-ls -la
-​- name: Fetch Latest Data from Peer Repository
+​# STREAMING_CHUNK:Fetching data from peer repository...
+- name: Fetch Latest Data from Peer Repository
 run: |
 curl -f -v -H "Authorization: token ${{ secrets.PAT_TOKEN }}" -sSL "https://raw.githubusercontent.com/saedmohamedn2210-create/qadreen-data/main/data.json" -o data.json
-echo "Download completed. Showing first 5 lines of downloaded file:"
 head -n 5 data.json
-​- name: Update Version Number
+​# STREAMING_CHUNK:Updating version number...
+- name: Update Version Number
 run: |
 if [ -f Version_data_base.txt ]; then
 CURRENT_VER=تعبير حسابي
@@ -34,11 +34,8 @@ NEW_VER=1
 fi
 echo "$NEW_VER" > Version_data_base.txt
 echo "Version updated to: $NEW_VER"
-​- name: Debug Git Status
-run: |
-git status
-git diff
-​- name: Commit and Push Changes
+​# STREAMING_CHUNK:Committing and pushing changes...
+- name: Commit and Push Changes
 run: |
 git config --local user.email "github-actions[bot]@users.noreply.github.com"
 git config --local user.name "github-actions[bot]"
