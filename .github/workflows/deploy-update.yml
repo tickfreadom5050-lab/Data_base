@@ -11,9 +11,15 @@ steps:
 uses: actions/checkout@v4
 with:
 token: ${{ secrets.PAT_TOKEN }}
+​- name: Debug Environment
+run: |
+pwd
+ls -la
 ​- name: Fetch Latest Data from Peer Repository
 run: |
-curl -H "Authorization: token ${{ secrets.PAT_TOKEN }}" -sSL "https://raw.githubusercontent.com/saedmohamedn2210-create/qadreen-data/main/data.json" -o data.json
+curl -f -v -H "Authorization: token ${{ secrets.PAT_TOKEN }}" -sSL "https://raw.githubusercontent.com/saedmohamedn2210-create/qadreen-data/main/data.json" -o data.json
+echo "Download completed. Showing first 5 lines of downloaded file:"
+head -n 5 data.json
 ​- name: Update Version Number
 run: |
 if [ -f Version_data_base.txt ]; then
@@ -27,9 +33,19 @@ else
 NEW_VER=1
 fi
 echo "$NEW_VER" > Version_data_base.txt
+echo "Version updated to: $NEW_VER"
+​- name: Debug Git Status
+run: |
+git status
+git diff
 ​- name: Commit and Push Changes
 run: |
 git config --local user.email "github-actions[bot]@users.noreply.github.com"
 git config --local user.name "github-actions[bot]"
 git add data.json Version_data_base.txt
-git diff --quiet && git diff --staged --quiet || (git commit -m "Auto update data.json and bump version" && git push)
+if git diff-index --quiet HEAD; then
+echo "No changes detected. Skipping commit."
+else
+git commit -m "Auto update data.json and bump version"
+git push
+fi
