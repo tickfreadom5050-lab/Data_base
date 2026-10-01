@@ -144,7 +144,7 @@
 				"url2": "https://zoom.us/download",
 				"notes": "المثبت المستقل الكامل دون اتصال Offline Installer لنواة 64 بت من خادم Zoom الدائم."
 			},
-			"Clubdeck (2)": {
+			"Clubdeck": {
 				"url": "https://github.com/clubdeck/clubdeck.github.io/releases/download/release/Clubdeck.Setup.2.6.5.exe",
 				"url2": "https://www.clubdeck.app",
 				"notes": "برنامج تشغيل Clubhouse على الكمبيوتر للمكفوفين، رابط مباشر ودائم من مستودع المطور الرسمي على GitHub."
@@ -185,6 +185,11 @@
 				"notes": ""
 			},
 			"WinZapp": {
+				"url": "https://github.com/gabrielhhaber/WinZapp_Python/releases/download/v1.1.1.0/WinZappInstaller.exe",
+				"url2": "",
+				"notes": "برنامج whatsapp بديل whatsapp  desktop القديم مناسب للمكفوفين . ملحوظة: التطبيق غير رسمي"
+			},
+			"WinZapp (2)": {
 				"url": "https://github.com/gabrielhhaber/WinZapp_Python/releases",
 				"url2": "",
 				"notes": "برنامج whatsapp بديل whatsapp  desktop القديم مناسب للمكفوفين . ملحوظة: التطبيق غير رسمي"
@@ -584,7 +589,7 @@
 				"url2": "",
 				"notes": "منصة لتحميل مقاطع الفيديو والمؤثرات البصرية والخلفيات المتحركة المجانية لاستخدامها في مشاريع المونتاج والتصميم"
 			},
-			"AccsiCapture (2) (2)": {
+			"AccsiCapture": {
 				"url": "https://accsify.com/ar/software/download?download=true&file_index=1&software=accp&version=2.0.4.19",
 				"url2": "",
 				"notes": "Version: 2.0.4.19, Architecture: 64Bit, OS: Windows 11, Accessible screen capture, 4K video recording, multi-track audio routing, with 100% screen reader accessibility"
