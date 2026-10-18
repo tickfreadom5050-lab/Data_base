@@ -1,2 +1,2 @@
-pcall(dofile, "/storage/emulated/0/解说/Gestures/حزمة Ahmed Ghazy v.9.5/")
+pcall(dofile, "/storage/emulated/0/解说/Gestures/حزمة Ahmed Ghazy v.9.4.1/")
 return true
